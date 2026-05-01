@@ -26,29 +26,21 @@ pip install -r requirements.txt
 
 ```bash
 cp .env.example .env
-# 编辑 .env，填写你的邮箱配置和 Claude API Key
+# 只需填写 ANTHROPIC_API_KEY，其余保持默认即可
 ```
-
-**邮箱配置说明：**
-
-| 邮箱 | SMTP_HOST | SMTP_PORT | 密码类型 |
-|------|-----------|-----------|---------|
-| Gmail | smtp.gmail.com | 587 | 应用专用密码（需开启两步验证） |
-| QQ邮箱 | smtp.qq.com | 587 | 授权码（邮箱设置里生成） |
-| 163邮箱 | smtp.163.com | 465 | 授权码 |
-
-**Gmail 应用密码获取：** Google账号 → 安全 → 两步验证 → 应用专用密码
 
 ### 3. 运行
 
 ```bash
-# 正常模式：启动定时任务 + 网页服务
-python main.py
-
 # 立即运行一次（测试用）
 python main.py --now
+# → 抓取新闻 → Claude 生成中文摘要 → 保存到本地
+# → 打开 http://localhost:5000 查看结果
 
-# 只启动网页（查看已有日报，不发邮件）
+# 正常模式：每天 08:00 自动运行 + 常驻网页服务
+python main.py
+
+# 只启动网页（浏览历史日报）
 python main.py --web-only
 ```
 

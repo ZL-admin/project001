@@ -46,28 +46,24 @@ def run_digest() -> None:
     logger.info("=== Starting daily digest run ===")
 
     api_key = _require_env("ANTHROPIC_API_KEY")
-    smtp_host = _require_env("SMTP_HOST")
-    smtp_port = int(os.environ.get("SMTP_PORT", "587"))
-    smtp_user = _require_env("SMTP_USER")
-    smtp_password = _require_env("SMTP_PASSWORD")
-    recipient = _require_env("RECIPIENT_EMAIL")
+    send_email_enabled = os.environ.get("SEND_EMAIL", "false").lower() != "false"
 
     try:
         articles = fetch_all_news(hours_back=26)
         html = summarize(articles, api_key)
         save_digest(html, articles)
 
-        if os.environ.get("SEND_EMAIL", "true").lower() != "false":
+        if send_email_enabled:
             send_email(
                 html_content=html,
-                smtp_host=smtp_host,
-                smtp_port=smtp_port,
-                smtp_user=smtp_user,
-                smtp_password=smtp_password,
-                recipient=recipient,
+                smtp_host=_require_env("SMTP_HOST"),
+                smtp_port=int(os.environ.get("SMTP_PORT", "587")),
+                smtp_user=_require_env("SMTP_USER"),
+                smtp_password=_require_env("SMTP_PASSWORD"),
+                recipient=_require_env("RECIPIENT_EMAIL"),
             )
         else:
-            logger.info("Email sending disabled (SEND_EMAIL=false)")
+            logger.info("Email disabled — view digest at http://localhost:%s", os.environ.get("WEB_PORT", "5000"))
 
         logger.info("=== Digest run complete ===")
     except Exception as e:
