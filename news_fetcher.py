@@ -2,13 +2,14 @@
 Fetches humanoid robot / embodied AI news from multiple RSS and web sources.
 """
 
-import feedparser
 import requests
-from bs4 import BeautifulSoup
+import xml.etree.ElementTree as ET
 from datetime import datetime, timezone, timedelta
+from email.utils import parsedate_to_datetime
 from typing import Optional
 import time
 import logging
+import re
 
 logger = logging.getLogger(__name__)
 
@@ -57,18 +58,70 @@ def is_relevant(title: str, summary: str = "") -> bool:
     return any(kw.lower() in text for kw in ROBOT_KEYWORDS)
 
 
-def fetch_article_text(url: str, max_chars: int = 2000) -> str:
-    """Best-effort: fetch article body text for richer context."""
+def _strip_html(text: str) -> str:
+    return re.sub(r"<[^>]+>", " ", text).strip()
+
+
+def _parse_rss(xml_bytes: bytes, source_name: str, cutoff: datetime) -> list[dict]:
+    """Parse RSS/Atom XML bytes, return relevant articles newer than cutoff."""
+    articles = []
     try:
-        resp = requests.get(url, headers=HEADERS, timeout=10)
-        soup = BeautifulSoup(resp.text, "lxml")
-        for tag in soup(["script", "style", "nav", "footer", "aside"]):
-            tag.decompose()
-        paragraphs = soup.find_all("p")
-        text = " ".join(p.get_text(strip=True) for p in paragraphs)
-        return text[:max_chars]
-    except Exception:
-        return ""
+        root = ET.fromstring(xml_bytes)
+    except ET.ParseError as e:
+        logger.warning(f"[{source_name}] XML parse error: {e}")
+        return articles
+
+    # Support both RSS <item> and Atom <entry>
+    ns = {"atom": "http://www.w3.org/2005/Atom"}
+    items = root.findall(".//item") or root.findall(".//atom:entry", ns)
+
+    for item in items:
+        def _text(tag: str) -> str:
+            el = item.find(tag)
+            if el is None:
+                el = item.find(f"atom:{tag}", ns)
+            return (el.text or "").strip() if el is not None else ""
+
+        title = _text("title")
+        url = _text("link")
+        # Atom <link> uses href attribute
+        if not url:
+            link_el = item.find("atom:link", ns)
+            url = (link_el.get("href", "") if link_el is not None else "")
+        summary = _strip_html(_text("description") or _text("summary") or _text("content"))
+        pub_raw = _text("pubDate") or _text("published") or _text("updated")
+
+        if not title or not url:
+            continue
+
+        pub_time: Optional[datetime] = None
+        if pub_raw:
+            try:
+                pub_time = parsedate_to_datetime(pub_raw)
+            except Exception:
+                try:
+                    pub_time = datetime.fromisoformat(pub_raw.replace("Z", "+00:00"))
+                except Exception:
+                    pass
+
+        if pub_time and pub_time.tzinfo is None:
+            pub_time = pub_time.replace(tzinfo=timezone.utc)
+
+        if pub_time and pub_time < cutoff:
+            continue
+
+        if not is_relevant(title, summary):
+            continue
+
+        articles.append({
+            "title": title,
+            "url": url,
+            "source": source_name,
+            "published": pub_time.strftime("%Y-%m-%d %H:%M UTC") if pub_time else "未知时间",
+            "summary": summary[:500],
+        })
+
+    return articles
 
 
 def fetch_all_news(hours_back: int = 26) -> list[dict]:
@@ -79,58 +132,30 @@ def fetch_all_news(hours_back: int = 26) -> list[dict]:
     cutoff = datetime.now(timezone.utc) - timedelta(hours=hours_back)
     seen_urls: set[str] = set()
     seen_titles: set[str] = set()
-    articles: list[dict] = []
+    all_articles: list[dict] = []
 
     for source_name, rss_url in RSS_SOURCES:
         try:
-            feed = feedparser.parse(rss_url)
-            logger.info(f"[{source_name}] fetched {len(feed.entries)} entries")
+            resp = requests.get(rss_url, headers=HEADERS, timeout=15)
+            resp.raise_for_status()
+            articles = _parse_rss(resp.content, source_name, cutoff)
+            logger.info(f"[{source_name}] {len(articles)} relevant entries")
         except Exception as e:
-            logger.warning(f"[{source_name}] RSS fetch failed: {e}")
+            logger.warning(f"[{source_name}] fetch failed: {e}")
             continue
 
-        for entry in feed.entries:
-            url = entry.get("link", "")
-            title = entry.get("title", "").strip()
-            summary = entry.get("summary", "")
-
-            if not title or not url:
+        for a in articles:
+            title_key = a["title"].lower()[:80]
+            if a["url"] in seen_urls or title_key in seen_titles:
                 continue
-
-            # Dedup by URL and normalised title
-            title_key = title.lower()[:80]
-            if url in seen_urls or title_key in seen_titles:
-                continue
-
-            # Parse publish time
-            pub_time: Optional[datetime] = None
-            if hasattr(entry, "published_parsed") and entry.published_parsed:
-                try:
-                    pub_time = datetime(*entry.published_parsed[:6], tzinfo=timezone.utc)
-                except Exception:
-                    pass
-
-            if pub_time and pub_time < cutoff:
-                continue
-
-            if not is_relevant(title, summary):
-                continue
-
-            seen_urls.add(url)
+            seen_urls.add(a["url"])
             seen_titles.add(title_key)
-            articles.append({
-                "title": title,
-                "url": url,
-                "source": source_name,
-                "published": pub_time.strftime("%Y-%m-%d %H:%M UTC") if pub_time else "未知时间",
-                "summary": BeautifulSoup(summary, "lxml").get_text(strip=True)[:500],
-            })
+            all_articles.append(a)
 
-        # Be polite to servers
         time.sleep(0.5)
 
-    logger.info(f"Total relevant articles collected: {len(articles)}")
-    return articles
+    logger.info(f"Total relevant articles collected: {len(all_articles)}")
+    return all_articles
 
 
 if __name__ == "__main__":
