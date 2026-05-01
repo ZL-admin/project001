@@ -20,10 +20,16 @@ RSS_SOURCES = [
     ("Google News: embodied AI", "https://news.google.com/rss/search?q=embodied+AI+robot&hl=en-US&gl=US&ceid=US:en"),
     ("Google News: Figure Boston Dynamics", "https://news.google.com/rss/search?q=Figure+robot+OR+Boston+Dynamics+OR+Agility+Robotics&hl=en-US&gl=US&ceid=US:en"),
     ("Google News: 1X Apptronik Sanctuary", "https://news.google.com/rss/search?q=1X+robot+OR+Apptronik+OR+Sanctuary+AI+humanoid&hl=en-US&gl=US&ceid=US:en"),
-    # Google News — Chinese queries
+    # Google News — Chinese queries (embodied AI)
     ("Google News: 人形机器人", "https://news.google.com/rss/search?q=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"),
     ("Google News: 具身智能", "https://news.google.com/rss/search?q=%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"),
     ("Google News: 宇树优必选傅利叶", "https://news.google.com/rss/search?q=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA+OR+%E4%BC%98%E5%BF%85%E9%80%89+OR+%E5%82%85%E5%88%A9%E5%8F%B6&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"),
+    # Google News — Chinese queries (home & eldercare)
+    ("Google News: 家政机器人", "https://news.google.com/rss/search?q=%E5%AE%B6%E6%94%BF%E6%9C%BA%E5%99%A8%E4%BA%BA+OR+%E5%AE%B6%E5%8A%A1%E6%9C%BA%E5%99%A8%E4%BA%BA&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"),
+    ("Google News: 养老机器人", "https://news.google.com/rss/search?q=%E5%85%BB%E8%80%81%E6%9C%BA%E5%99%A8%E4%BA%BA+OR+%E8%80%81%E5%B9%B4%E6%8A%A4%E7%90%86%E6%9C%BA%E5%99%A8%E4%BA%BA+OR+%E6%99%BA%E6%85%A7%E5%85%BB%E8%80%81&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"),
+    # Google News — English queries (home & eldercare)
+    ("Google News: home care robot", "https://news.google.com/rss/search?q=home+care+robot+OR+eldercare+robot+OR+caregiving+robot&hl=en-US&gl=US&ceid=US:en"),
+    ("Google News: aging robot", "https://news.google.com/rss/search?q=robot+elderly+care+OR+senior+care+robot+OR+aging+AI&hl=en-US&gl=US&ceid=US:en"),
     # Tech media RSS
     ("IEEE Spectrum Robotics", "https://spectrum.ieee.org/feeds/topic/robotics.rss"),
     ("MIT Tech Review", "https://www.technologyreview.com/feed/"),
@@ -40,16 +46,24 @@ HEADERS = {
 }
 
 ROBOT_KEYWORDS = [
-    # English
+    # English — embodied AI / humanoid
     "humanoid", "embodied", "bipedal", "android robot", "robot arm",
     "figure robot", "boston dynamics", "agility robotics", "1x robot",
     "apptronik", "sanctuary ai", "tesla optimus", "digit robot",
     "atlas robot", "spot robot", "robotics ai", "manipulation robot",
     "locomotion", "dexterous", "whole-body control",
-    # Chinese
+    # English — home & eldercare
+    "home care robot", "caregiving robot", "eldercare robot", "elder care robot",
+    "senior care robot", "domestic robot", "household robot",
+    "aging robot", "robot caregiver", "care robot",
+    # Chinese — embodied AI / humanoid
     "人形机器人", "具身智能", "双足机器人", "仿人机器人",
     "宇树", "优必选", "傅利叶", "智元", "达闼", "乐聚",
     "阿尔法机器人", "小米机器人", "华为机器人",
+    # Chinese — home & eldercare
+    "家政机器人", "家务机器人", "家用机器人", "养老机器人",
+    "老年护理机器人", "智慧养老", "养老科技", "护理机器人",
+    "居家养老", "陪伴机器人", "康复机器人",
 ]
 
 

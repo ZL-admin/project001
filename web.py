@@ -38,15 +38,15 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft
 
 _NAVBAR = """
 <div class="navbar">
-  <a href="/">🤖 具身智能日报</a>
-  <span>· 人形机器人全球资讯</span>
+  <a href="/">🤖 具身智能 · 家政养老科技 日报</a>
+  <span>· 全球资讯每日精选</span>
 </div>
 """
 
 INDEX_TMPL = """<!DOCTYPE html>
 <html lang="zh-CN">
 <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>具身智能日报</title><style>{{ css }}</style></head>
+<title>具身智能 · 家政养老科技 日报</title><style>{{ css }}</style></head>
 <body>{{ navbar | safe }}
 <div class="container">
 <h2 style="margin-bottom:20px;">历史日报</h2>
