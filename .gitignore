@@ -1,5 +1,10 @@
 .env
-data/
+# 忽略 data 下的其他内容，但保留日报 JSON
+data/*
+!data/digests/
+data/digests/*
+!data/digests/.gitkeep
+!data/digests/*.json
 *.log
 __pycache__/
 *.pyc

@@ -18,10 +18,10 @@ from datetime import date
 import schedule
 from dotenv import load_dotenv
 
-from news_fetcher import fetch_all_news
-from summarizer import summarize
+from news_fetcher import fetch_all_news, fetch_supplemental
+from summarizer import summarize, count_topics
 from sender import send_email
-from storage import save_digest, load_digest
+from storage import save_digest, load_digest, get_yesterday_summary
 
 load_dotenv()
 logging.basicConfig(
@@ -50,10 +50,30 @@ def run_digest() -> None:
     send_email_enabled = os.environ.get("SEND_EMAIL", "false").lower() != "false"
 
     try:
+        # 1. Fetch news (two-pass: supplement if < 15 articles)
         articles = fetch_all_news(hours_back=26)
-        html = summarize(articles, api_key)
-        save_digest(html, articles)
+        articles = fetch_supplemental(articles, target=15)
 
+        # 2. Load yesterday's context for memory
+        yesterday_context = get_yesterday_summary()
+        if yesterday_context["headlines"]:
+            logger.info(f"Loaded {len(yesterday_context['headlines'])} headlines from yesterday")
+        if yesterday_context["important_events"]:
+            logger.info(f"Yesterday's important events: {yesterday_context['important_events']}")
+
+        # 3. Count topics for adaptive content
+        topic_stats = count_topics(articles)
+        logger.info(f"Topic stats: {topic_stats}")
+
+        # 4. Summarize
+        html, important_events = summarize(articles, api_key, yesterday_context, topic_stats)
+
+        # 5. Save (including important events for tomorrow's memory)
+        save_digest(html, articles, important_events=important_events)
+        if important_events:
+            logger.info(f"Flagged {len(important_events)} important events for tomorrow")
+
+        # 6. Send email
         if send_email_enabled:
             send_email(
                 html_content=html,

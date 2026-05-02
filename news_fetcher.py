@@ -62,6 +62,21 @@ RSS_SOURCES = [
     # ========== 英文专业媒体（保留精华） ==========
     ("IEEE Spectrum Robotics", "https://spectrum.ieee.org/feeds/topic/robotics.rss"),
     ("TechCrunch Robotics", "https://techcrunch.com/tag/robotics/feed/"),
+    ("WSJ Tech & Science", "https://feeds.a.dj.com/rss/RSSWSJD.xml"),
+]
+
+# 补搜来源：第一轮文章数不足时触发
+SUPPLEMENTAL_QUERIES = [
+    ("补搜: 机器人前沿",
+     "https://news.google.com/rss/search?q=%E6%9C%BA%E5%99%A8%E4%BA%BA+%E5%89%8D%E6%B2%BF+OR+%E6%9C%BA%E5%99%A8%E4%BA%BA+%E6%96%B0%E8%BF%9B%E5%B1%95&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"),
+    ("补搜: 机器人融资投资",
+     "https://news.google.com/rss/search?q=%E6%9C%BA%E5%99%A8%E4%BA%BA+%E8%9E%8D%E8%B5%84+OR+%E6%9C%BA%E5%99%A8%E4%BA%BA+%E6%8A%95%E8%B5%84&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"),
+    ("补搜: 养老服务政策",
+     "https://news.google.com/rss/search?q=%E5%85%BB%E8%80%81%E6%9C%8D%E5%8A%A1+OR+%E5%85%BB%E8%80%81%E6%94%BF%E7%AD%96+OR+%E8%80%81%E5%B9%B4%E6%9C%8D%E5%8A%A1&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"),
+    ("补搜: 家政市场行业",
+     "https://news.google.com/rss/search?q=%E5%AE%B6%E6%94%BF%E5%B8%82%E5%9C%BA+OR+%E5%AE%B6%E6%94%BF%E4%BA%A7%E4%B8%9A+OR+%E5%AE%B6%E6%94%BF%E6%94%BF%E7%AD%96&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"),
+    ("补搜: robotics startup funding",
+     "https://news.google.com/rss/search?q=robotics+startup+OR+robot+funding+OR+robot+investment&hl=en-US&gl=US&ceid=US:en"),
 ]
 
 HEADERS = {
@@ -210,8 +225,42 @@ def fetch_all_news(hours_back: int = 26) -> list[dict]:
     return all_articles
 
 
+def fetch_supplemental(existing: list[dict], target: int = 15) -> list[dict]:
+    """If existing articles are below target, fetch from supplemental queries."""
+    if len(existing) >= target:
+        return existing
+
+    logger.info(f"Only {len(existing)} articles (target {target}), running supplemental fetch...")
+    cutoff = datetime.now(timezone.utc) - timedelta(hours=26)
+    seen_urls = {a["url"] for a in existing}
+    seen_titles = {a["title"].lower()[:80] for a in existing}
+    extra: list[dict] = []
+
+    for source_name, rss_url in SUPPLEMENTAL_QUERIES:
+        if len(existing) + len(extra) >= target:
+            break
+        try:
+            resp = requests.get(rss_url, headers=HEADERS, timeout=15)
+            resp.raise_for_status()
+            articles = _parse_rss(resp.content, source_name, cutoff)
+            for a in articles:
+                title_key = a["title"].lower()[:80]
+                if a["url"] not in seen_urls and title_key not in seen_titles:
+                    seen_urls.add(a["url"])
+                    seen_titles.add(title_key)
+                    extra.append(a)
+            logger.info(f"[{source_name}] +{len(extra)} supplemental articles so far")
+        except Exception as e:
+            logger.warning(f"[{source_name}] supplemental fetch failed: {e}")
+        time.sleep(0.5)
+
+    logger.info(f"Supplemental fetch complete: +{len(extra)} articles added")
+    return existing + extra
+
+
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO)
     news = fetch_all_news()
+    news = fetch_supplemental(news)
     for a in news[:5]:
         print(f"[{a['source']}] {a['title']}\n  {a['url']}\n")

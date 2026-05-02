@@ -5,7 +5,10 @@ on:
     # 北京时间 08:00 = UTC 00:00
     - cron: '0 0 * * *'
   workflow_dispatch:
-    # 允许在 GitHub 网页上手动点击触发（电脑没开时也能用）
+    # 允许在 GitHub 网页上手动点击触发
+
+permissions:
+  contents: write   # 允许 workflow 将日报数据写回仓库
 
 jobs:
   digest:
@@ -35,3 +38,11 @@ jobs:
           RECIPIENT_EMAIL:   ${{ secrets.RECIPIENT_EMAIL }}
           SEND_EMAIL:        'true'
         run: python main.py --now
+
+      - name: Save digest data to repo
+        run: |
+          git config user.name  "Digest Bot"
+          git config user.email "bot@noreply.github.com"
+          git add data/digests/
+          git diff --staged --quiet || git commit -m "digest: $(date -u +%Y-%m-%d)"
+          git push
