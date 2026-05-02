@@ -13,6 +13,7 @@ import os
 import sys
 import threading
 import time
+from datetime import date
 
 import schedule
 from dotenv import load_dotenv
@@ -20,7 +21,7 @@ from dotenv import load_dotenv
 from news_fetcher import fetch_all_news
 from summarizer import summarize
 from sender import send_email
-from storage import save_digest
+from storage import save_digest, load_digest
 
 load_dotenv()
 logging.basicConfig(
@@ -103,8 +104,16 @@ def main() -> None:
             logger.info("Stopped.")
         return
 
-    # Schedule daily digest at 08:00
+    # 启动时检查今日日报是否已生成，没有则立即补跑
     run_time = os.environ.get("DAILY_RUN_TIME", "08:00")
+    now_hour, now_min = time.localtime().tm_hour, time.localtime().tm_min
+    sched_hour, sched_min = map(int, run_time.split(":"))
+    past_run_time = (now_hour, now_min) >= (sched_hour, sched_min)
+    if past_run_time and load_digest(date.today()) is None:
+        logger.info("今日日报尚未生成（错过定时或首次启动），立即补跑...")
+        threading.Thread(target=run_digest, daemon=True).start()
+
+    # Schedule daily digest at run_time
     schedule.every().day.at(run_time).do(run_digest)
     logger.info(f"Scheduler started. Daily digest will run at {run_time}.")
     logger.info(f"Web UI available at http://localhost:{os.environ.get('WEB_PORT', '5000')}")
