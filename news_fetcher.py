@@ -20,6 +20,7 @@ RSS_SOURCES = [
     ("机器之心", "https://www.jiqizhixin.com/rss"),
     ("量子位", "https://www.qbitai.com/feed"),
     ("36氪", "https://36kr.com/feed"),
+    ("爱老网 AgeClub", "https://www.ageclub.net/feed"),
 
     # ========== Google News 中文 — 具身智能·人形机器人 ==========
     ("Google News: 人形机器人",
@@ -117,6 +118,9 @@ ROBOT_KEYWORDS = [
     # Chinese — 家政
     "家政机器人", "家务机器人", "家政服务", "家政行业",
     "家政公司", "家政培训",
+    # AgeClub 养老行业常见词
+    "养老产业", "养老机构", "养老地产", "老年用品",
+    "老年健康", "老年消费", "养老金融", "老龄产业",
 ]
 
 
