@@ -20,7 +20,7 @@ RSS_SOURCES = [
     ("机器之心", "https://www.jiqizhixin.com/rss"),
     ("量子位", "https://www.qbitai.com/feed"),
     ("36氪", "https://36kr.com/feed"),
-    ("爱老网 AgeClub", "https://www.ageclub.net/feed"),
+    ("爱老网 AgeClub", "https://news.google.com/rss/search?q=site%3Aageclub.net&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"),
 
     # ========== Google News 中文 — 具身智能·人形机器人 ==========
     ("Google News: 人形机器人",
