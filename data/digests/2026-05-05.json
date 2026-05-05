@@ -1,0 +1,506 @@
+{
+  "date": "2026-05-05",
+  "generated_at": "2026-05-05T07:23:18.592757Z",
+  "article_count": 71,
+  "important_events": [],
+  "html": "<h2>🤖 具身智能 · 家政养老科技 全球日报 · 2026年05月05日</h2>\n\n<h3>💡 今日洞察</h3>\n<p>\n  今日71条新闻呈现出三条交织的主线，值得深度审视。<br><br>\n\n  <strong>趋势一：人形机器人从\"展示品\"走向\"社会基础设施\"，但摩擦点开始显现。</strong>宇树机器人在美国买票坐飞机、导致航班延误超一小时，这看似一条趣闻，实则是一个信号弹——机器人进入真实社会场景后，现有的法规、安全标准和公众心理还远未准备好。电池被拆、座位被限、强制靠窗，折射出的是基础设施适配层的严重缺失。这不是个例，而是行业规模化后必然遭遇的系统性摩擦。<br><br>\n\n  <strong>趋势二：中国人形机器人产业的\"估值泡沫\"争议正在浮出水面。</strong>领路机器人（Linkerbot）寻求60亿美元估值，凤凰网直接发问\"谁能撑起百亿估值\"——营收规模与估值之间的鸿沟，让市场开始追问商业模式的真实性。一边是营收狂飙却亏损超7亿元的本体厂商，另一边是资本疯狂涌入。\"赔钱换规模\"的路线是否可持续，将是2026年最核心的行业拷问。<br><br>\n\n  <strong>趋势三：Physical AI成为芯片与科技巨头的新战场锚点。</strong>Intel密集引入高通高管Alex Katouzian主导Physical AI业务；Meta收购ARI意图成为机器人界的\"安卓平台\"；iRobot创始人Colin Angle二次创业直指消费级Physical AI。这三件事同时发生，说明Physical AI已从机器人公司的内部叙事，升级为整个科技产业的战略坐标。<br><br>\n\n  <strong>思辨性问题一：</strong>Meta做\"人形机器人的安卓平台\"，逻辑成立吗？安卓成功的核心是开放生态加硬件标准化，但机器人的物理世界适配成本远高于手机，Meta是否真的具备构建生态的耐心与能力？<br>\n  <strong>思辨性问题二：</strong>中国人形机器人出货量疯涨，但\"谁在买、买来干什么、用得好不好\"这三个问题几乎无人回答——出货量是否正在演变成一种资本游戏的道具？<br><br>\n\n  <strong>深层规律：</strong>容易被忽视的是，今日多条新闻指向同一个现象——人形机器人的\"场景适配成本\"被严重低估。无论是航空安全规定的缺失、工厂部署的亏损、还是具身智能法规刚刚落地，都说明技术本身已不是最大瓶颈，真正的慢变量是围绕机器人的制度、标准与社会信任体系的建立——而这，往往需要十年。\n</p>\n\n<h3>📌 今日要闻（5条）</h3>\n<ol>\n  <li>\n    <strong>[宇树科技 Unitree]</strong> 宇树人形机器人Bebop在美国买票乘坐西南航空，因电池超出航空安全规定被现场拆卸并暂扣，机器人被强制调至靠窗座位以限制潜在危险，航班延误逾1小时。全程乘客非但未投诉，反与其合影留念。此事件迅速引发全球媒体关注，成为人形机器人进入真实社会场景后首次大规模\"合规摩擦\"事件，直接推动外界讨论民用航空机器人乘客标准立法的紧迫性。\n    <br><a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPeFNmV0VJc1hHR2Z3VmtoTVp6Z0VRejFOV3BJeFhpem9UU2ljN3ZzbWI5T29hVllHcTZoUGhKaWQtTnVZZTViUzZ5WFl5Z3VoUg?oc=5\">阅读原文 →</a>\n  </li>\n  <li>\n    <strong>[Meta / ARI（Assured Robot Intelligence）]</strong> Meta正式收购人形机器人公司ARI，意图构建人形机器人领域的\"安卓级\"开放平台，以AI底层能力赋能各类机器人本体厂商。此举标志着科技巨头从\"AI模型供应商\"向\"物理世界操作系统\"转型的战略跃迁，与特斯拉Optimus、Figure等形成正面竞争。若Meta能以平台策略整合碎片化的机器人生态，将从根本上重塑行业竞争格局。\n    <br><a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WbXpqeFM3ZWdLNHpGYU8wcG1DWkVBY05wVExDYTdJSWU1VVlBMklrcEYyWHRTeXRFNjFNNHM0eGRkYUlYekJUdjBDTWxkODU5ZzhGblgyNHdBSmwyT3FmRXV5VXBQMnc?oc=5\">阅读原文 →</a>\n  </li>\n  <li>\n    <strong>[Intel / Alex Katouzian（前高通高管）]</strong> Intel宣布从高通挖角资深高管Alex Katouzian，出任客户端计算与Physical AI业务负责人，同步任命Pushkar Ranade为CTO。此次人事重组是Intel在新任CEO Lip-Bu Tan主导下的战略转型信号——将Physical AI列为与PC业务并列的核心增长引擎，正面对标英伟达在具身智能芯片生态的先发布局。\n    <br><a href=\"https://www.reuters.com/technology/intel-appoints-qualcomm-executive-lead-pc-physical-ai-business-2026-05-04/\">阅读原文 →</a>\n  </li>\n  <li>\n    <strong>[领路机器人 Linkerbot]</strong> 中国人形机器人创业公司Linkerbot寻求60亿美元估值进行新一轮融资，引发国际媒体广泛关注。Semafor、MEXC等媒体同步报道，将其置于中国具身智能融资潮的代表案例。与此同时，凤凰网发出拷问：\"单看营收贵得离谱，谁能撑起百亿估值\"——这场估值与盈利能力之间的张力，正在成为整个行业最核心的争议焦点。\n    <br><a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPdm9mSUZuWnEtX2Q3Um5TVGkyTy14dTQ2QlJndHNzX0RaclQzOXk0Z3pnc3g3YjFJeFNhZTNRc1hUdUlvalFJZm1Edk1jTzlPekd4Zm9lbWFSMlk2SEd4anE3ZkJLSHYyY1NtSGhDNFZONVBBRmRkVFNYcU5udzI2VUVmdmFXQjduR1dfWmVULWVvVy1JWlNlSll2bTg0Q1lpLXc?oc=5\">阅读原文 →</a>\n  </li>\n  <li>\n    <strong>[iRobot创始人 Colin Angle / Familiar Machines & Magic]</strong> Roomba发明人Colin Angle离开iRobot两年后，正式发布旗下新公司Familiar Machines & Magic（FM&M）的首款产品——一款面向消费级家庭场景的Physical AI机器人平台，团队中包含前迪士尼研究院机器人专家Morgan Pope。这是\"机器人老兵\"基于十年迭代经验对消费级市场的二次定义，与人形机器人路线形成差异化竞争。\n    <br><a href=\"https://spectrum.ieee.org/familiar-machines-and-magic\">阅读原文 →</a>\n  </li>\n</ol>\n\n<h3>🦾 具身智能 · 人形机器人</h3>\n<ul>\n  <li><strong>宇树科技（Unitree）</strong>：人形机器人Bebop在美国购票乘机，因电池超规被现场拆除并强制靠窗就坐，导致西南航空航班延误逾1小时，引发全球媒体热议，成为机器人进入公共交通场景的首个典型合规事件。<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1ETWRSa2Nibmg3WVhEY1dIVHBYb01JaDF0TjY4RUlqQmlJZmtqdUJQeWhsOE4tNFdxMzItaG0wa3ZXdktKeHczajhnUTN4RlZZd0dVWFRTSEhrMmtrQUktM1NGbDdER3RjNlhSSDZadmMwQQ?oc=5\">↗</a></li>\n  <li><strong>魔法原子（MagicLab）</strong>：在硅谷圣何塞举办全球具身智能创新大会（GEIS），发布新一代机器人MagicBot Z1及底层模型，并提出2036年实现140亿美元营收的激进目标，展示中国机器人品牌出海全球的雄心。<a href=\"https://36kr.com/p/3792155815304450?f=rss\">↗</a></li>\n  <li><strong>魔法原子 · 陈春玉</strong>：创始人陈春玉以\"青春科创耀江苏\"为题亮相，被报道为引领魔法原子走向具身智能全球化的代表性青年企业家。<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE45a25LZ18tN2ZZdjI5Tk5NbWxFX3RwMGcwN0FjNE9zNENaLU11eDVWX1JLQnZqalUtaEgxZWd5cEQ0cGNrVlAtQVIwUWV5aXpOeGNDb293aGdFWmlJd0V0UzJHa2s3UDgzTzlodA?oc=5\">↗</a></li>\n  <li><strong>荣耀门店 · 人形机器人\"闪电\"与\"元气仔\"</strong>：五一假期，人形机器人半马冠军\"闪电\"及社交型机器人\"元气仔\"在北京多家荣耀门店亮相担任\"赛博店员\"，科技零售融合场景进一步落地。<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOF9sNXFjMGFhM0d5WDNqc2dEUGZ3aFFwbXlXMGwzaUExOVRtZElZTjZhbWxORzcwbFRHVU5XZmozcTlJWjlXdWhGd0dFYjZLZGZNcXU0Y1U2Z1MwM3pNN0d2ZklzT3FlQVFDS2VuRWVhODFjbnkzbl9WakdRcGJ0MjhkclJEWjNr?oc=5\">↗</a></li>\n  <li><strong>内蒙古呼和浩特</strong>：人形机器人智能零售舱在景区正式亮相，为游客提供自助零售服务，是机器人商业落地从商超向文旅场景延伸的典型案例。<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5aT3hOVC1hYlpyN0NRNl9zbHZETVhEclJ4ZmZfNlJ2bS1pUFF3cDBzVWFVTmN3YkkwNHNnblRhQ3MwZ0xOeWxReXBnWEt0UVpkVTBicHBqTDc1Z1FlODMyYW1NWTktZjFHa3dSNi1mbWs3Rk5Ra0JMRw?oc=5\">↗</a></li>\n  <li><strong>银河通用</strong>：已在全国20余城实现机器人规模化落地应用，团队核心成员获北京青年五四奖章，CTO王鹤入选表彰名单，成为具身智能青年创业群体的标志性代表。<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQckNQbWcwVkJNTmZHeTRmdm9jRXBSRXN1ZTdoOUE3U2VnSGlaRTNndFZjUkRBYlp3b01jb3dSMjhLX0lhZVpVNHVQZk5WS3hOTzg1S09UNjhLdWliV1JGcUZxOEwyUDZJX1IzMTJoclhhZjFBWXNJMlZyTkRxWGQtaA?oc=5\">↗</a></li>\n  <li><strong>优必选（UBTECH）</strong>：5月4日南向资金减持24.56万股，港股市场资金面出现小幅波动，值得关注机构动向。<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPREtfMU11WE4zTWF0QjJDVHliN29ZMVJ3VHpNTWxRZHZYRkh5UlNOMjNvRDhBQXZvczJhVjYzbWQyLWJZeXV4Z2hhbERyS0gyWl83OGxkTGZ6bHI4TGNoWFJ2UTVrTFVSTmF5cjBDdFBqRHBuQlRfaFlqNWhLeXZpX1FSc3ZIZ3JIckpzdg?oc=5\">↗</a></li>\n  <li><strong>人形机器人\"闪电\"</strong>：再度刷新北京半程马拉松人形机器人纪录，并被国际媒体Alwihda Info报道，中国机器人运动能力正在全球范围获得关注。<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ0pnVTNtNXJiZE1oZWl2N3M2bXhXNVdZc1J0RWRqRzdDRkJHMUMwNkk1d3hra2R2Ti05Q3Z6S21FT1NXZmpQaWItVWFQbEFVSzNWdkRNQ0V3U2tVZjYza0hpYWVmZDJEekVuSFU5dGlYbDQxYjRscm5ZOTRuNGFHcFk2QzBZV1g0ZWNGd0tTYlVOUHdrOWZqS09n?oc=5\">↗</a></li>\n  <li><strong>日本航空（JAL）</strong>：与宇树科技达成合作，成为日本首家引入宇树机器人的航空公司，用于机场或地面运营场景测试，宇树海外商业化再落一子。<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTE1NTUh2QURSdEhYeGVLdndOVFFuNTBXRmliMDI3TTFXZkZZM1EwRHpfOVJPbjJZSGJfTm1Gb2xVX3BpODA1YjhkdA?oc=5\">↗</a></li>\n  <li><strong>具身智能机器人法规</strong>：国内首批具身智能机器人相关法规正式落地，产业商业化合规路径得以明确，有助于加速企业入场工厂和公共场景的部署。<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOeVNGMmxEQmFTSE9GZzJRS3QzT0ZyWkQ0eW1PU0lzM2dwYTBBYnk2eEdMcWQxaEgxblMzbXJabl9NVW9HWURrRndldmRSc3M4MmFFSUMyemJ5bjg0WmxpNU85Sk1SMHNZemdCVWhXa2ZjTUR4ZUVYRERfZFVQb0xJbHNqdkNoWGJmY2RTNg?oc=5\">↗</a></li>\n  <li><strong>人形机器人本体厂商</strong>：业内报道显示，多家主流人形机器人公司在营收高速增长的同时，年度亏损普遍超过7亿元，\"以量换市场\"的战略下，盈利路径尚不清晰。<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pOXF5SzF4WTY4NDdSVmtpOTFnZ1JxYUVXZ2d0S0JSN2VaUDFSVjlzMWZXaktWMkM2bEw4YlVfclY0LWl6VHk1ZFp0cHQ5bXVLUThHR3I0dE94UDZiREN6WUhha2R5Zw?oc=5\">↗</a></li>\n  <li><strong>具身智能 · AI+钢铁</strong>：中国钢铁行业开始探索AI与钢铁产业结合支撑人形机器人零部件供应链的路径，产业链上游材料层正在被纳入具身智能整体战略版图。<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBDZXNFelZtUkFCTExiWmF0QjR1cG9GYnFaVV9Dby1LamI2WUk5SXJzQ3B4MVZxWFJvVE01X3pKQlZFR3phSS1jRXl6SzhYd1RqVjZiNk9CM0tlWTVrM2x1MDNybG95bklvZmgtaXZ4SWVrZw?oc=5\">↗</a></li>\n  <li><strong>和讯信息冯禄顺</strong>：对人形机器人产业下一步走向做出研判，认为2026年是从\"0到1\"兑现的关键阶段，本体与核心零部件企业将进入业绩分化期。<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3Y2tsMVRUNERGamc0STg4LXM0cl8xZnN4bUd3WlJhS3Ewam02N3BYdWNzaElPaWhubW9rUlZ6MG9HbkVjV1Y5dVpualJ4emxwLUEyVmNCejJ1S2JUNmliUg?oc=5\">↗</a></li>\n  <li><strong>中国具身AI · 高危工业场景</strong>：China.org.cn报道，中国具身AI机器人已开始进入高危工业前沿场景（如化工、矿山、核能等），成为替代人工最有说服力的商业论证。<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE5PVy14TzJqTEhTX3pmbG92WlBLSS03aUtBYm1WWFR6U2ZSQUVGVEtTNEd2eHhURkx5MGM0V1MwMU96MFJSbzdiSlBQaENhV1g0c1c5ZGZFd1UwaDNmXy1lSTFxVHNDREM0bEE?oc=5\">↗</a></li>\n  <li><strong>中国人形机器人 · 交通指挥</strong>：Yahoo报道，中国城市已试点部署人形机器人上岗指挥交通，进一步拓展机器人的公共服务应用边界。<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPUFByV25OMG56X0JxOXFja2ljOGctRjE2LVo0YW1FQjg0YU9JdThTcTVBVkgzLVZvOG9vT1o5a2RyTlVuRURzUF9xQ19CLTlmNGRiSGR6djBJV1RERnBoZU9lTXlXbkNTbHhzYm1QNEZjZHNXVVVja19IYzhUMDdGdmhSUEpWc3BnSGY0MXRKM3AtOXk1?oc=5\">↗</a></li>\n  <li><strong>中国机器人·按摩手</strong>：TipRanks报道，中国一款具备\"按摩手\"功能的人形机器人引发西方媒体关注，被认为进一步加剧马斯克在机器人赛道上的竞争压力。<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNXZfVzFRYVJfdGRIVG9tZURjUE13N3d5Y2o0VkxRb0g1NG5KcEUzbzZiTW1NMEpLRnl2UWlMRjdTNkk4aW0wY2VVWUZ2MjF3U0FjdDJocGN1NjhrWTNtVTk5UEVmamNuY3ZUc05mQU5LX2VfWVJsOW9CYXNyX0ZVQmZkdzhKR1J3YUw0aURnQjZUYXYzUU5RaFAzb3BFLWVTT09MN3F6Nlh0b2M?oc=5\">↗</a></li>\n  <li><strong>中国人形机器人 vs 美国</strong>：Fast Company发文《Chinese humanoids are leaving American robots in the dust》，指中国人形机器人在出货量、价格竞争力和场景落地速度上已全面领先美国同类产品。<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQemwxNGxLRVhkcmluS0hpbklSal9GQmZzSVRBN1ZVSUdmajJSM0xMTy1iUVRZR1g0UF96ZVJpS1o3QWU0ZjVaZTBFTFVRTkliRHRjemwyZTlNUUo0Xy1tbkFYT0dCemF5SnpYVmUwVEJ4T2wtLUNLNzNsNkJZNmV5Q19rUUlwdDhkcWpwQnk4WFlMQzU3Y01OcDdR?oc=5\">↗</a></li>\n  <li><strong>Figure & 1X</strong>：IEEE Spectrum Video Friday本周聚焦Figure和1X两家美国机器人公司加速量产的最新进展，双方均在扩大工厂产能以追赶中国竞争对手。<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFA0SFEtcFFEVEpYTXF3WXUzdllEMm1wVjQtVWtyeTFiVTFldGtKOVgzVURaSzBoem4xZzktQzd1R2xpdktaaEp3ZVI5Q0d2NktRSmd1REM0TEd2RUNYemprOGVQNnEtZG42TVpYVF9HMVZhUQ?oc=5\">↗</a></li>\n  <li><strong>1X Robotics（挪威）</strong>：在加利福尼亚州开设占地5.8万平方英尺的大型人形机器人生产工厂，是欧洲机器人公司在美国本土建立规模化生产能力的重要一步。<a href=\"https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcTZWMmt0NENuY2xyeWZzdElKQmdDTWlZbVRHcFZDTENVdEZlRDZqM2l1YW9Cd0h2bEZQS1g1WV9kSXV1MWo2MFAwUENmWFRZTG8zVFdSa1dkdWNnRVlNSHBibVZUUk91Q1dSeEFNb3h3dGJGbkxtcmdDMGZMcWF1WEc1TDlhbnJFWUlGYmF2Ty1rWmMyT0ZHX09KVHVDYUViMmxIZHVrUFptUGtiQjNXNFNweW9qdG9HczVhNVRMcW9fY2dhYXRhX2lUWFBfN21qMGphbS1jUldxenR1QTk4?oc=5\">↗</a></li>\n  <li><strong>Hexagon & Fill</strong>：两家工业软件/自动化公司联合试点人形机器人用于工厂自动化，探索第三方机器人集成商模式在制造场景的商业可行性。<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQnFPUk5HaTJxWXY2ME9zV0otNFpjNWhMRDRmOXllRWg3YjNEcXc5VHc0Ykd0U0E2bXNjVnNMQkRwV2VRWHdmUFUyWW1fdEdyLXoyaEhFNkQ1a1hwdk4zNkQ2Y0NmTFZlVVVaZ3JGOFlNNGRMZlFUS1lTb09WZlRua2Z0a1V6VjNQcXZB?oc=5\">↗</a></li>\n  <li><strong>VDMA（德国机械设备制造商协会）</strong>：发布人形机器人2040年四大情景预测报告，同时指出欧洲在该赛道面临战略十字路口，若不加快布局将在中美竞争中被边缘化。<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPbjNhbndyZEFSdGlrejhFQXY4WTNjWGh6LXJxWVRKdDdjZ3NqMm1pSW83RG1POFYxcmZyWFEyQzA1R1BaVjlWSUl1YmdGN051WjdEQVdoQ25CVU1nd1VTTmxxNkx4WkltUklxR2QtcG5QSnZNZjk3aHRqY",
+  "articles": [
+    {
+      "title": "卓驭于贝贝：向物理AI转型，是生存法则的必然选择 | 最前线",
+      "url": "https://36kr.com/p/3789475357400068?f=rss",
+      "source": "36氪",
+      "published": "未知时间",
+      "summary": "文｜肖漫 \n   编辑｜李勤 \n   当下的智能汽车领域，物理 AI 已成为高频词汇，绝大多数智能驾驶算法厂商都在往“物理AI”转型。 \n   卓驭在北京车展上也发布了面向移动物理 AI 的原生多模态基础模型。在卓驭科技副总裁于贝贝看来，算法厂商向物理AI转型不是为了迎合资本市场而编织的想象空间，而是一条关乎厂商存亡的生存法则。 \n   “如果不上这条技术路线，很可能今后就跑不出来了。”于贝贝说。 \n   在新的竞争维度上，算法厂商的对手不再仅仅是曾经的同行，还包括那些从数字 AI 领域跨界而来的巨头、具身智能公司等。 \n   这场全新的竞赛让算法厂商进入全新维度的淘汰赛中，而此次能真正跑出来的玩家，其商业空间也将随着打开。 \n   基于移动基座模型，卓驭已经开始尝试打破传统Tier 1“卖硬件、收开发费”的单一逻辑。在第二增长曲线中，通过将乘用车技术拓展至 Robotaxi、RoboVan 等 L4 级领域，卓驭正在探索一种基于订阅、利润分成以及“动作令牌（Action Token）”的新商业形态。 \n   近日，36氪汽车与卓驭科技副总裁于贝贝聊了聊物理AI的底层逻辑、商业化可能性"
+    },
+    {
+      "title": "在硅谷，中美具身公司聊了聊了4个问题的解法",
+      "url": "https://36kr.com/p/3792155815304450?f=rss",
+      "source": "36氪",
+      "published": "未知时间",
+      "summary": "文｜周鑫雨 \n   编辑｜杨轩 \n   规模化落地，今年的具身公司都在谈这个。 \n   数字竞速，不约而同出现在具身公司的产线、招股书、出货量上——2026年4月以来，智元机器人宣布第1万台机器人量产下线，5000到10000，只用了三个多月；宇树科技的IPO招股书也摊开了激进商业化的一角：2025年营收17.07亿元，出货量超过5500台。 \n   激进的数字背后，是“低价、高性能”的中国机器人在全球的扩张。宇树科技创始人王兴兴曾在2025年世界机器人大会上提到，过去几年，宇树的海外营收一直占总营收的50%以上。 \n   在这些具身玩家中，魔法原子MagicLab近期提出了一个相当激进的营收目标： 2036年，要实现140亿美元的营收规模。  \n   在全球范围内打响品牌，也让这家公司，将发布会开进了硅谷。美西时间2026年4月28日，在云集Adobe、TikTok、IBM等公司的圣何塞，魔法原子发起了全球具身智能创新大会（GEIS）。 \n     \n   魔法原子机器人MagicBot Z1现场给张艺兴表演。作者拍摄 \n   在会上，魔法原子发布了从底层模型本体的一系列新产品： \n"
+    },
+    {
+      "title": "人形机器人“启蒙老师”都干点啥？这个新职业岗位将超百万 - 上海热线",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Uam5wT3NvT1ZPSmNzcG8ycnBiZVp1d2l1S3R6Um5KUms0d042a1dqN1RQZVYyaGIzMUhDU0x4cDFPQ1VvNDBnZkxSenFUSml6dl9COXg2Q2Y5U0NTQ1dBNFA2aHJrLWVsZGVtMWRpelJ4U2VFSmNFUXZMWVBfUQ?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-05-04 22:59 UTC",
+      "summary": "人形机器人“启蒙老师”都干点啥？这个新职业岗位将超百万 &nbsp;&nbsp; 上海热线"
+    },
+    {
+      "title": "“浦东智造”人形机器人亮相上海大剧院 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb2s1c09zSmtoVG83UmRQOS1HRXVpZmM3NDI2RnF3RjhQbVA2bWFjNTZYSmxhUHhpazNYWkZIOGUxZWtYNDlKWXp4Y2R4dFlSV09DUnp2ZkFLb1VlRV9QX0hObGVicmZXS1BaM2RsVC1Bb0FoVXJpTFI5MS1xdUtlY1VjZndYVnFKWlN5NXpvSG5XZzFnZlpmTTc3VVJOLVJWYVNVSm5kSDVUZlNmcXN2dEJ3?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-05-04 09:40 UTC",
+      "summary": "“浦东智造”人形机器人亮相上海大剧院 &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "人形机器人融资井喷：“单看营收贵得离谱”，谁能撑起百亿估值？ - 凤凰网财经",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPeFNmV0VJc1hHR2Z3VmtoTVp6Z0VRejFOV3BJeFhpem9TaWM3dnNtYjlPb2FWWUdxNmhQaEppZC1OdVllNWJTNnlYWXlndWhS?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-05-04 23:21 UTC",
+      "summary": "人形机器人融资井喷：“单看营收贵得离谱”，谁能撑起百亿估值？ &nbsp;&nbsp; 凤凰网财经"
+    },
+    {
+      "title": "“五一”假期冰城警用人形机器人“上岗” - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MakhZTS15VWdnRkZDZHdCek1YdVJKNm5qMHhfdTRoVWFnV0pNeS1UZTRlZVhidHZVV0xlSGcwUWs3aDhMMHUxRXlDaEpJenpmc3RWTjFmRmFBOU82TllwVVhhdVRIZjl5RU1kNkRmV1hxUHhhV2c?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-05-04 05:31 UTC",
+      "summary": "“五一”假期冰城警用人形机器人“上岗” &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "宇树人形机器人在美“买票坐飞机”电池被拆卸靠窗坐 被旅客拍照打卡 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObklDTFl6bWlvdFc5d3VmZElsMnhOYVkxNkFTajZPNG5walBnZmtTTzFPeUxnTVRzQ29OSFdLcHQtWGoxOGlPVmEwQ1dsSXR5SHdHRUdGSFpEY0l5alYwVUlFWGFKVG5SNmdJMEljU1RwWmFSbFBPOU9qd0ZzRkxQM1pmdWVwRTNB?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-05-04 18:41 UTC",
+      "summary": "宇树人形机器人在美“买票坐飞机”电池被拆卸靠窗坐 被旅客拍照打卡 &nbsp;&nbsp; Sohu"
+    },
+    {
+      "title": "“AI+钢铁”支撑人形机器人“跑”向未来 - csteelnews.com",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBDZXNFelZtUkFCTExiWmF0QjR1cG9GYnFaVV9Dby1LamI2WUk5SXJzQ3B4MVZxWFJvVE01X3pKQlZFR3phSS1jRXl6SzhYd1RqVjZiNk9CM0tlWTVrM2x1MDNybG95bklvZmgtaXZ4SWVrZw?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-05-04 09:05 UTC",
+      "summary": "“AI+钢铁”支撑人形机器人“跑”向未来 &nbsp;&nbsp; csteelnews.com"
+    },
+    {
+      "title": "和讯信息冯禄顺：人形机器人接下来怎么走_滚动新闻_财经 - 证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3Y2tsMVRUNERGamc0STg4LXM0cl8xZnN4bUd3WlJhS3Ewam02N3BYdWNzaElPaWhubW9rUlZ6MG9HbkVjV1Y5dVpualJ4emxwLUEyVmNCejJ1S2JUNmliUg?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-05-05 02:53 UTC",
+      "summary": "和讯信息冯禄顺：人形机器人接下来怎么走_滚动新闻_财经 &nbsp;&nbsp; 证券之星"
+    },
+    {
+      "title": "人形机器人Bebop购票乘机引航班延误 - DoNews",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBaVEF1aUE1UUdmcUJHUWowb1FvSHRxTlZxS0NYN21VRUktTENiVFlIcFZsWDA2M1FxeDRIRVlRTnREVmpWNlRqekxIMm53cDR2QnlwaWxVUzZ0N1FmbHc?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-05-04 23:38 UTC",
+      "summary": "人形机器人Bebop购票乘机引航班延误 &nbsp;&nbsp; DoNews"
+    },
+    {
+      "title": "内蒙古呼和浩特：人形机器人智能零售舱亮相景区 - 中新社图片网",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5aT3hOVC1hYlpyN0NRNl9zbHZETVhEclJ4ZmZfNlJ2bS1pUFF3cDBzVWFVTmN3YkkwNHNnblRhQ3MwZ0xOeWxReXBnWEt0UVpkVTBicHBqTDc1Z1FlODMyYW1NWTktZjFHa3dSNi1mbWs3Rk5Ra0JMRw?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-05-04 12:00 UTC",
+      "summary": "内蒙古呼和浩特：人形机器人智能零售舱亮相景区 &nbsp;&nbsp; 中新社图片网"
+    },
+    {
+      "title": "小扎买了一家机器人公司，要做人形机器人的“安卓平台” - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBlTndtQjBtcTNxS3o1dklKWG5vR2JwVndkQmJzR29iOE1Sc2ZPR1ROSFhQYnVTaUtNQmMtbUtyd3JVSzdLaVB3Zg?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-05-04 12:59 UTC",
+      "summary": "小扎买了一家机器人公司，要做人形机器人的“安卓平台” &nbsp;&nbsp; 凤凰网"
+    },
+    {
+      "title": "宇树人形机器人在美国买票坐飞机：电池超规被现场拆卸并暂扣，被强制调座至靠窗，以最大程度限制其潜在破坏力 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1ETWRSa2Nibmg3WVhEY1dIVHBYb01JaDF0TjY4RUlqQmlJZmtqdUJQeWhsOE4tNFdxMzItaG0wa3ZXdktKeHczajhnUTN4RlZZd0dVWFRTSEhrMmtrQUktM1NGbDdER3RjNlhSSDZadmMwQQ?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-05-04 13:03 UTC",
+      "summary": "宇树人形机器人在美国买票坐飞机：电池超规被现场拆卸并暂扣，被强制调座至靠窗，以最大程度限制其潜在破坏力 &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "推动人形机器人“进厂打工”，一年卖上千台，公司：营收狂飙，却亏损超7亿元 - mrjjxw.com",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1pOXF5SzF4WTY4NDdSVmtpOTFnZ1JxYUVXZ2d0S0JSN2VaUDFSVjlzMWZXaktWMkM2bEw4YlVfclY0LWl6VHk1ZFp0cHQ5bXVLUThHR3I0dE94UDZiREN6WUhha2R5Zw?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-05-04 12:52 UTC",
+      "summary": "推动人形机器人“进厂打工”，一年卖上千台，公司：营收狂飙，却亏损超7亿元 &nbsp;&nbsp; mrjjxw.com"
+    },
+    {
+      "title": "宇树机器人在美买票坐飞机，电池被没收 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5KTmVSZUJ0aGVTOEh1OE1JaFNGcmN3RWJ2SkFYYVFzY1YwX1NqMUNyeUV3ODNwam9uNkFYSkd5WVhuWG93NVdycA?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-05-04 23:46 UTC",
+      "summary": "宇树机器人在美买票坐飞机，电池被没收 &nbsp;&nbsp; 凤凰网"
+    },
+    {
+      "title": "宇树人形机器人在美国买票坐飞机：电池超标致延误，现场表演逗乐乘客 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSmhBQlFKRU1VQmdDMHZ2ekotSUR0c3ZBU1NobFI0RjZvVVJqN1RRSnJYbnZObE41LUwzSlk0VFl5WWhuWHJpeGlfbzVZTl9vMktYYXNTSE82VEVXMzBHa0FCVGF2NEhjbVBvYjJ0a0U2dTVmMWJsaUxEb21Tc01zcXVqbUNYQ0VaV2c?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-05-04 12:57 UTC",
+      "summary": "宇树人形机器人在美国买票坐飞机：电池超标致延误，现场表演逗乐乘客 &nbsp;&nbsp; Sohu"
+    },
+    {
+      "title": "人形机器人Bebop乘客机引航班延误，安全适配与公众接纳成新课题 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmUwbUVYNDR6YW1aQkM3bjgwZjJsdWZoelpia1lPVUZsRXFGZEp4b1lUQm42eFlNSlJHdF9tdmpDSGVuNHVjYWhRR3V3NTdacXBvWUZCMldLdjF5d2JMWEJSbld6bVMxR2ZRTzBMdC00Wmd1TWtld3B5OURreXlvc3JfVktueVVu?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-05-05 03:00 UTC",
+      "summary": "人形机器人Bebop乘客机引航班延误，安全适配与公众接纳成新课题 &nbsp;&nbsp; Sohu"
+    },
+    {
+      "title": "青春科创耀江苏，陈春玉引领魔法原子迈向具身智能全球化新征 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45a25LZ18tN2ZZdjI5Tk5NbWxFX3RwMGcwN0FjNE9zNENaLU11eDVWX1JLQnZqalUtaEgxZWd5cEQ0cGNrVlAtQVIwUWV5aXpOeGNDb293aGdFWmlJd0V0UzJHa2s3UDgzTzlodA?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-05-04 13:17 UTC",
+      "summary": "青春科创耀江苏，陈春玉引领魔法原子迈向具身智能全球化新征 &nbsp;&nbsp; 中华网"
+    },
+    {
+      "title": "机器人天团“闪电”“元气仔”与张雪机车组队亮相北京荣耀门店 “五一”假期，北京街头科技感“拉满”。人形机器人半马冠军“闪电”、“社交达人——元气仔”两款赛博店员亮相北京朝阳合生汇、南锣鼓巷、西红门荟聚等荣耀门店，与此同时，“张雪机车”也同步登场五棵松华熙体验 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOF9sNXFjMGFhM0d5WDNqc2dEUGZ3aFFwbXlXMGwzaUExOVRtZElZTjZhbWxORzcwbFRHVU5XZmozcTlJWjlXdWhGd0dFYjZLZGZNcXU0Y1U2Z1MwM3pNN0d2ZklzT3FlQVFDS2VuRWVhODFjbnkzbl9WakdRcGJ0MjhkclJEWjNr?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-05-04 19:58 UTC",
+      "summary": "机器人天团“闪电”“元气仔”与张雪机车组队亮相北京荣耀门店 “五一”假期，北京街头科技感“拉满”。人形机器人半马冠军“闪电”、“社交达人——元气仔”两款赛博店员亮相北京朝阳合生汇、南锣鼓巷、西红门荟聚等荣耀门店，与此同时，“张雪机车”也同步登场五棵松华熙体验 &nbsp;&nbsp; Sohu"
+    },
+    {
+      "title": "突发！日本航空拿下宇树科技 - 凤凰网",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1NTUh2QURSdEhYeGVLdndOVFFuNTBXRmliMDI3TTFXZkZZM1EwRHpfOVJPbjJZSGJfTm1Gb2xVX3BpODA1YjhkdA?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-05-04 10:28 UTC",
+      "summary": "突发！日本航空拿下宇树科技 &nbsp;&nbsp; 凤凰网"
+    },
+    {
+      "title": "具身智能机器人法规落地，产业商业化提速 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeVNGMmxEQmFTSE9GZzJRS3QzT0ZyWkQ0eW1PU0lzM2dwYTBBYnk2eEdMcWQxaEgxblMzbXJabl9NVW9HWURrRndldmRSc3M4MmFFSUMyemJ5bjg0WmxpNU85Sk1SMHNZemdCVWhXa2ZjTUR4ZUVYRERfZFVQb0xJbHNqdkNoWGJmY2RTNg?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-05-05 06:33 UTC",
+      "summary": "具身智能机器人法规落地，产业商业化提速 &nbsp;&nbsp; Sohu"
+    },
+    {
+      "title": "【宇树机器人买票坐飞机被拆电池】据红星新闻消息，宇树人形机器人因超过行李重量，在美国买客票乘坐飞机。但其电池超规被现场拆卸暂扣并调至靠窗。航班延误逾1小时，乘客未有怨言，与它合影留念。（消息来源：红星新闻，视频来源：Unitree宇树科技） - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcXB4MDZnYnN0cDZXZ2NDdWtuUXdQekZDekNObzBFYzJrT2RvcUxFbC1vQm9STnQ3aHhLeDl0OFdiY2xXWE9DRlJjdW4tZG9qOEs5WFlFU2M3aDhsb2syNmRFRmhZWjJwOWFNd3dVbDcxc1g1eXlCcHJnYU9laW5meHRQY24yTElBcVd5Qw?oc=5",
+      "source": "Google News: 宇树优必选傅利叶智元",
+      "published": "2026-05-04 12:43 UTC",
+      "summary": "【宇树机器人买票坐飞机被拆电池】据红星新闻消息，宇树人形机器人因超过行李重量，在美国买客票乘坐飞机。但其电池超规被现场拆卸暂扣并调至靠窗。航班延误逾1小时，乘客未有怨言，与它合影留念。（消息来源：红星新闻，视频来源：Unitree宇树科技） &nbsp;&nbsp; Sohu"
+    },
+    {
+      "title": "当美国航班迎“硅基乘客” 宇树机械人惨遭“拔管\" - 文学城",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iQlpmX1dxdmZ0Q3VnU2FhVzFic0VWWGxua2I2ZjJJMEVfQUJyU3VBSU5zMkg1VVF1QWtTY1g4SDNQLXlaSjZwci04RGFDRDF2UlN2Y0JvRzVycE9samZ6TTkwS2FaVWQx?oc=5",
+      "source": "Google News: 宇树优必选傅利叶智元",
+      "published": "2026-05-04 22:04 UTC",
+      "summary": "当美国航班迎“硅基乘客” 宇树机械人惨遭“拔管\" &nbsp;&nbsp; 文学城"
+    },
+    {
+      "title": "优必选（09880.HK）：5月4日南向资金减持24.56万股 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPREtfMU11WE4zTWF0QjJDVHliN29ZMVJ3VHpNTWxRZHZYRkh5UlNOMjNvRDhBQXZvczJhVjYzbWQyLWJZeXV4Z2hhbERyS0gyWl83OGxkTGZ6bHI4TGNoWFJ2UTVrTFVSTmF5cjBDdFBqRHBuQlRfaFlqNWhLeXZpX1FSc3ZIZ3JIckpzdg?oc=5",
+      "source": "Google News: 宇树优必选傅利叶智元",
+      "published": "2026-05-04 19:19 UTC",
+      "summary": "优必选（09880.HK）：5月4日南向资金减持24.56万股 &nbsp;&nbsp; Sohu"
+    },
+    {
+      "title": "从实验室到20余城落地——银河通用青年团队的机器人规模化应用之路 - 经济参考报",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQckNQbWcwVkJNTmZHeTRmdm9jRXBSRXN1ZTdoOUE3U2VnSGlaRTNndFZjUkRBYlp3b01jb3dSMjhLX0lhZVpVNHVQZk5WS3hOTzg1S09UNjhLdWliV1JGcUZxOEwyUDZJX1IzMTJoclhhZjFBWXNJMlZyTkRxWGQtaA?oc=5",
+      "source": "Google News: 银河通用开普勒逐际星动",
+      "published": "2026-05-04 05:57 UTC",
+      "summary": "从实验室到20余城落地——银河通用青年团队的机器人规模化应用之路 &nbsp;&nbsp; 经济参考报"
+    },
+    {
+      "title": "行业洞察 | 从错配到匹配：中国银发经济基础设施建设现状、创业格局与未来趋势 - AgeClub",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1ncTNXYW54R1BNWndtUzdRLWllaksyZXQtcTYyY1ZLNmR1QURLdXVYbDhfQmdSekM3QW1wSlJsZFFvM0JhVkk4VVdkaWo4cmgzWnhnTERR?oc=5",
+      "source": "Google News: 银发经济老龄化适老化",
+      "published": "2026-05-05 01:06 UTC",
+      "summary": "行业洞察 | 从错配到匹配：中国银发经济基础设施建设现状、创业格局与未来趋势 &nbsp;&nbsp; AgeClub"
+    },
+    {
+      "title": "“五一”假期服务台｜多项“适老化”旅游服务让“银发族”享受美好旅途- 文旅 - 中工网",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93WnFHQk9lVGt0M2ZPMXFUdzZOV1Y3MDZrWG9CN21Ha0pIdllDNTdqcXJsSWZZM0c0a2JjVUR1MUZwSDJDQllZNEtLY3JsamppUGhCN2sxRFNXWEdHMldV?oc=5",
+      "source": "Google News: 银发经济老龄化适老化",
+      "published": "2026-05-05 01:58 UTC",
+      "summary": "“五一”假期服务台｜多项“适老化”旅游服务让“银发族”享受美好旅途- 文旅 &nbsp;&nbsp; 中工网"
+    },
+    {
+      "title": "搭建东盟—中国银发经济合作桥梁 推动银发产业区域协同发展 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9OOVRuTktPeF9JalpIWmFqVlRTMDRTdzFuUS1wZ0VCZ09SeUEtS2RZd0wyYmFwN1BXX3UwTjFmdEticmd2amE0b1RMaURkTEw5emtiOTRPNnN5TjBLMEQwbzlud2E4OXdVY0tZYXBR?oc=5",
+      "source": "Google News: 银发经济老龄化适老化",
+      "published": "2026-05-04 06:35 UTC",
+      "summary": "搭建东盟—中国银发经济合作桥梁 推动银发产业区域协同发展 &nbsp;&nbsp; 中华网"
+    },
+    {
+      "title": "托起“稳稳的幸福”，山西银行长治分行打造有温度的适老化服务纪实 - Sohu",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdW9ZR2FNR2w4Nkw4U2llTTVlUmtGNEFhLTUyNk9CZHh6Y1lzdHdkRFhuaURMbkdzZi1YQVlHQTJpQVNWTjVoVzlCcVNBVDhRdTNkZTlhUGt3bUdvNGs0ODItZUx6ejJ4eWo4Vi1SS2o4RXBpMTZRN0FuQTQ3ZjB3NXV5TFVHUTls?oc=5",
+      "source": "Google News: 银发经济老龄化适老化",
+      "published": "2026-05-05 02:00 UTC",
+      "summary": "托起“稳稳的幸福”，山西银行长治分行打造有温度的适老化服务纪实 &nbsp;&nbsp; Sohu"
+    },
+    {
+      "title": "Dancing Humanoid Robot Loses Control During Sports Day Event In China - NDTV",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOUzR0WVQ5bFY4bWdadG9JSHdGd2FnUVBCbERTYldkLVNmbVdFd1c5eUd2VDJkZVZfbGFNbThEUml4NUtLMW0yV2dhTXpwa1FiLTZPNC1yRnpJbWdnM1hFeE9GcG8xdTNiVEoxYnJhMTI2VktWdExIelJUNGlxMnZuSzdrajlTM19BTk9aWF8xV2hmM3lnSGJhaEFQdTVyUnQ5NlhqeU4tNU1nQ0k?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-05-05 04:59 UTC",
+      "summary": "Dancing Humanoid Robot Loses Control During Sports Day Event In China &nbsp;&nbsp; NDTV"
+    },
+    {
+      "title": "Roomba Inventor Reveals New Home Robot ... Not A Humanoid - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWUpMWjdJUHplN2xnSVVPZHpCdFBMX0dyX0ZIMnFtX0RlRmNTQ2xkT0Q0RnNTX0JjUzVvOGxaV2lkcEY0T29nYzNoVEI2ZThjVVNnZlBXU2Y2aTYxTUpXaGVESnBDUHdjbUFNd2ZzVjdfV3BlTEQyWGItT3NDei1QYlNCcXNBb3dDZkZ1V082RkFjc0sxNmU3cEZ1RHB6NW9JRkllNlRhdVRRcWQw?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-05-05 03:13 UTC",
+      "summary": "Roomba Inventor Reveals New Home Robot ... Not A Humanoid &nbsp;&nbsp; Forbes"
+    },
+    {
+      "title": "Chinese humanoid robot maker Linkerbot seeks $6B valuation - Semafor",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdm9mSUZuWnEtX2Q3Um5TVGkyTy14dTQ2QlJndHNzX0RaclQzOXk0Z3pnc3g3YjFJeFNhZTNRc1hUdUlvalFJZm1Edk1jTzlPekd4Zm9lbWFSMlk2SEd4anE3ZkJLSHYyY1NtSGhDNFZONVBBRmRkVFNYcU5udzI2VUVmdmFXQjduR1dfWmVULWVvVy1JWlNlSll2bTg0Q1lpLXc?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-05-04 13:53 UTC",
+      "summary": "Chinese humanoid robot maker Linkerbot seeks $6B valuation &nbsp;&nbsp; Semafor"
+    },
+    {
+      "title": "Norway-founded robotics firm opens massive 58,000-square-foot California plant for humanoid robot production - edhat",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcTZWMmt0NENuY2xyeWZzdElKQmdDTWlZbVRHcFZDTENVdEZlRDZqM2l1YW9Cd0h2bEZQS1g5WV9kSXV1MWo2MFAwUENmWFRZTG8zVFdSa1dkdWNnRVlNSHBibVZUUk91Q1dSeEFNb3h3dGJGbkxtcmdDMGZMcWF1WEc1TDlhbnJFWUlGYmF2Ty1rWmMyT0ZHX09KVHVDYUViMmxIZHVrUFptUGtiQjNXNFNweW9qdG9HczVhNVRMcW9fY2dhYXRhX2lUWFBfN21qMGphbS1jUldxenR1QTk4?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-05-04 18:22 UTC",
+      "summary": "Norway-founded robotics firm opens massive 58,000-square-foot California plant for humanoid robot production &nbsp;&nbsp; edhat"
+    },
+    {
+      "title": "Video Friday: Figure, 1X Ramp Up Humanoid Robot Production - IEEE Spectrum",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA0SFEtcFFEVEpYTXF3WXUzdllEMm1wVjQtVWtyeTFiVTFldGtKOVgzVURaSzBoem4xZzktQzd1R2xpdktaaEp3ZVI5Q0d2NktRSmd1REM0TEd2RUNYemprOGVQNnEtZG42TVpYVF9HMVZhUdIBhgFBVV95cUxNV1EzblUtdC01RTlwN3V4dUxpUlkycXFGejVKTmJ4YUk5SFVsX1hNUEFSa2FTX3JXek1vYVBSSHEzWHA1Q2czVGY4TzlFUjNnT0xvTlJjQlc1VU9DWjFaYWJBYlQyelpFTzdzZEZUVF84dHZJV2p3RlZZU1JQZ1JYbEVfVENQZw?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-05-04 08:42 UTC",
+      "summary": "Video Friday: Figure, 1X Ramp Up Humanoid Robot Production &nbsp;&nbsp; IEEE Spectrum"
+    },
+    {
+      "title": "Southwest Flight In California Delayed For An Hour Because Of A Humanoid Robot Named 'Bebop' - BroBible",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaGVlU1M3U0gyeEVmOEZEU1hMVWR6SlRxcHIxUTUxUHlxbGstaWJFWGw3ZGZya0hybEdYSi1VLVhrSTZJOVhJcjFzZE1IVktVSzB3Ql9JYUs4RDVTTk5nbTAyLWdnSVBuOGMtZEl6ano3WnJjb0pBS1F6QnJxNmx5VWticGNWSzVyVWNB?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-05-04 17:49 UTC",
+      "summary": "Southwest Flight In California Delayed For An Hour Because Of A Humanoid Robot Named 'Bebop' &nbsp;&nbsp; BroBible"
+    },
+    {
+      "title": "Humanoid Robot 'Lightning' Shatters Half-Marathon Record in Beijing - Alwihda Info",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ0pnVTNtNXJiZE1oZWl2N3M2bXhXNVdZc1J0RWRqRzdDRkJHMUMwNkk1d3hra2R2Ti05Q3Z6S21FT1NXZmpQaWItVWFQbEFVSzNWdkRNY0V3U2tVZjYza0hpYWVmZDJEekVuSFU5dGlYbDQxYjRscm5ZOTRuNGFHcFk2QzBZV1g4ZWNGd0tTYlVOUHdrOWZqS09n?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-05-04 20:56 UTC",
+      "summary": "Humanoid Robot 'Lightning' Shatters Half-Marathon Record in Beijing &nbsp;&nbsp; Alwihda Info"
+    },
+    {
+      "title": "Hexagon and Fill pilot humanoid for factory automation - Engineering.com",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQnFPUk5HaTJxWXY2ME9zV0otNFpjNWhMRDRmOXllRWg3YjNEcXc5VHc0Ykd0U0E2bXNjVnNMQkRwV2VRWHdmUFUyWW1fdEdyLXoyaEhFNkQ1a1hwdk4zNkQ2Y0NmTFZlVVVaZ3JGOFlNNGRMZlFUS1lTb09WZlRua2Z0a1V6VjNQcXZB?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-05-04 16:05 UTC",
+      "summary": "Hexagon and Fill pilot humanoid for factory automation &nbsp;&nbsp; Engineering.com"
+    },
+    {
+      "title": "Humanoid Robot Dances At Gate, Delays Flight For Chicago Midway-Based Airline - B100 – All The Hits",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9PYkxqX21hTDMwclJOSFYzWUxMUEhiNXVkNHNSby1jb2xYTEdVTFhEQmNGaWNyQUxZcVlyVUVKczNYSEk0b3ZuWFdleWxUaGNYOS02RG9ta2REODBOejNkLXYzVzNFTU5hdXQzWl8yeUFZc28z?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-05-04 14:53 UTC",
+      "summary": "Humanoid Robot Dances At Gate, Delays Flight For Chicago Midway-Based Airline &nbsp;&nbsp; B100 – All The Hits"
+    },
+    {
+      "title": "CT‑Unite launches China’s first GaN magnetic encoder chip for humanoid robots - New Electronics",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbGxFd1VBSVFyaTU2WVZUOC00THZRUER3ZlUwOHVIRExpOVFjNFBOQzJ6enYwamVydXVUMHgyWXF3UmRSRy00NkZuSzRnV0NQS2gzZEx3WTFlN0ZaSUlORGJoSWp1TjdQVzFmblRNb0tPUHk2Q21xQjJnTzQ5SzZrRThWLXU4Q2VtcmVDakF6ZkxNdnE0dHhYbEJvY2pNcXRuU0VDRmZwUUNNVkRSamFTU0VNNEhWeWowQXNVd0dKaEc?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-05-04 19:43 UTC",
+      "summary": "CT‑Unite launches China’s first GaN magnetic encoder chip for humanoid robots &nbsp;&nbsp; New Electronics"
+    },
+    {
+      "title": "Bebop, the viral humanoid robot, makes appearance in Chicago - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5KQWh4M0FtazZ2akgtRnhpUEp1QzJCN0hPMnhlTUpVWWRYN3EtVm43VzZ6SGk2a1JaOVdTVmJSelNFU3d0NDBielhjcWVlRGRxYWRYUGU4cUxXVU51dFU3T1J1RlRQSGZ3NnZtWGhqR1hrNVVmQzQ2Y3Fka20?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-05-04 12:40 UTC",
+      "summary": "Bebop, the viral humanoid robot, makes appearance in Chicago &nbsp;&nbsp; AOL.com"
+    },
+    {
+      "title": "Humanoid Robotics: VDMA’s 4 Scenarios for 2040 (and Europe’s Strategic Crossroads) - DirectIndustry e-Magazine",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbjNhbndyZEFSdGlrejhFQXY4WTNjWGh6LXJxWVRKdDdjZ3NqMm1pSW83RG1POFYxcmZyWFEyQzA1R1BaVjlWSUl1YmdGN051WjdEQVdoQ25CVU1nd1VTTmxxNkx4WkltUklxR2QtcG5QSnZNZjk3aHRqY1AzT25xU2owaVhXRXBrTzZkQ2RkT05jTDFSLVFXWl9LaUpvQWFaeFF1SVJ3SVU4UkVLRVR3VGJqTjhMTUl5eFh4Q3VB?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-05-04 09:25 UTC",
+      "summary": "Humanoid Robotics: VDMA’s 4 Scenarios for 2040 (and Europe’s Strategic Crossroads) &nbsp;&nbsp; DirectIndustry e-Magazine"
+    },
+    {
+      "title": "Chinese humanoids are leaving American robots in the dust - Fast Company",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQemwxNGxLRVhkcmluS0hpbklSal9GQmZzSVRBN1ZVSUdmajJSM0xMTy1iUVRZR1g0UF96ZVJpS1o3QWU0ZjVaZTBFTFVRTkliRHRjemwyZTlNUUo0Xy1tbkFYT0dCemF5SnpYVmUwVEJ4T2wtLUNLNzNsNkJZNmV5Q19rUUlwdDhkcWpwQnk4WFlMQzU3Y01OcDdR?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-05-04 16:13 UTC",
+      "summary": "Chinese humanoids are leaving American robots in the dust &nbsp;&nbsp; Fast Company"
+    },
+    {
+      "title": "Linkerbot Eyes $6B Valuation Humanoid Robot Demand Surges - MEXC",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9aY1NKY0ZWakJ5UVNtVHFkR0MyUUV2YmVwUGVoVGx5bVRPR0VBOWM0ekNjN0ZPeHA2RTIxbHFUQVkxSEtiSEZDRw?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-05-04 20:28 UTC",
+      "summary": "Linkerbot Eyes $6B Valuation Humanoid Robot Demand Surges &nbsp;&nbsp; MEXC"
+    },
+    {
+      "title": "Meta Platforms Acquires ARI, Intensifying Big Tech Race in Humanoid AI - thelec.net",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WbXpqeFM3ZWdLNHpGYU8wcG1DWkVBY05wVExDYTdJSWU1VVlBMklrcEYyWHRTeXRFNjFNNHM0eGRkYUlYekJUdjBDTWxkODU5ZzhGblgyNHdBSmwyT3FmRXV5VXBQMnc?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-05-04 08:00 UTC",
+      "summary": "Meta Platforms Acquires ARI, Intensifying Big Tech Race in Humanoid AI &nbsp;&nbsp; thelec.net"
+    },
+    {
+      "title": "Chinese Humanoid with ‘Massaging Hands’ adds to Musk’s Stress over Robotics Race - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNXZfVzFRYVJfdGRIVG9tZURjUE13N3d5Y2o0VkxRb0g5NG5KcEUzbzZiTW1NMEpLRnl2UWlMRjdTNkk4aW0wY2VVWUZ2MjF3U0FjdDJocGN1NjhrWTNtVTk5UEVmamNuY3ZUc05mQU5LX2VfWVJsOW9CYXNyX0ZVQmZkdzhKR1J3YUw0aURnQjZUYXYzUU5RaFAzb3BFLWVTT09MN3F6Nlh0b2M?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-05-04 12:56 UTC",
+      "summary": "Chinese Humanoid with ‘Massaging Hands’ adds to Musk’s Stress over Robotics Race &nbsp;&nbsp; TipRanks"
+    },
+    {
+      "title": "Is Meta building humanoid robot to rival Tesla's Optimus? - The News International",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaTdoVHdhZ3JJYUpiRGIxcWY2aFhYQmNVdDhMVXZ2NFhnRGVtSE41bDI5SFpoNnZVRDJrd0JjVDctZnp1NjVxOTVETGM2MTJfOUV3UG1vMEg5cmhHX0ZVZDgtRU1ZWk1nc3lmUVpKUTF5YkFWRkFlRFkwbFBEYmlkYTJLT1hQOG5QbXRFT0MxTEEwYmIyQ24wOVZmVUtuQQ?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-05-04 10:12 UTC",
+      "summary": "Is Meta building humanoid robot to rival Tesla's Optimus? &nbsp;&nbsp; The News International"
+    },
+    {
+      "title": "Humanoid robots deployed to direct traffic in China - Yahoo",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUFByV25OMG56X0JxOXFja2ljOGctRjE2LVo0YW1FQjg0YU9JdThTcTVBVkgzLVZvOG9vT1o5a2RyTlVuRURzUF9xQ19CLTlmNGRiSGR6djBJV1RERnBoZU9lTXlXbkNTbHhzYm1QNEZjZHNXVVVja19IYzhUMDdGdmhSUEpWc3BnSGY0MXRKM3AtOXk1?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-05-04 09:51 UTC",
+      "summary": "Humanoid robots deployed to direct traffic in China &nbsp;&nbsp; Yahoo"
+    },
+    {
+      "title": "Meta acquires humanoid robotics firm Assured Robot Intelligence - The Daily Star",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV3hnQXlqdFE3VWdvNFNCT0xjYUNubk9WZERxQU1aMlZPbjk4WE5WOXpHdmd1WWlYbmtUTTRkcmJoWmlDdkprcDBmcWFpTFBycTRqaEJfTHhYTGRMS1Nrb2QtbnJab1ZlZnNuZTRMeUN5MWRUblBpMnlrTEs5UV9mUnplbGVvVkotZGhsRTZBc3dFazVZR2JrZl9yWmZkVDR1SlloaldYeF84SFNraE9Ednl4LWRRaG5Tb3VRNklfUi0?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-05-04 19:59 UTC",
+      "summary": "Meta acquires humanoid robotics firm Assured Robot Intelligence &nbsp;&nbsp; The Daily Star"
+    },
+    {
+      "title": "Intel appoints Qualcomm executive to lead PC and physical AI business - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTWVfOV9oV0hZejdPYjFzZHYxUldVUFgybjlBbzFFTTVIMkhtTlV0a0dNTVNmYzVBeXRFOUoxbUJNN1ZKYkhoTXBHWHVVSzcyY3pQaG5iLUFZVDU0WlBEeDFQQm5rZ2NocHlWNXVnaDNza0FxdVJOb2RHZTY1M2ZnRHBMOWlwZm5jTzdGakJIRGd4RzVKX1FiWHJHeEUxZ3JNbmU1UGIxcTNNenM?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-05-04 21:51 UTC",
+      "summary": "Intel appoints Qualcomm executive to lead PC and physical AI business &nbsp;&nbsp; Yahoo Finance"
+    },
+    {
+      "title": "Intel appoints Qualcomm executive to lead PC and physical AI business - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQldKc3AxNXltRkY5UWFEVnRmbGtUWVNrNjFicmN3U2JNZV9JMHlxWGJHaTFfeHZ4MkVlNmRxbkg2RHdFMzFGeGVzRG1fTExlNndWdFQydFJ4Y3RXdkt4TV9kQXY5RS01ZVNkVVpINXdvRHNzYUJHMFhGa2ljOFFwaEJJOXl4V0NHX21tRFN3Nm1DVGZvYjVUelUtMWIyT2JOeVlxd3JrX3JYLTA?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-05-04 21:51 UTC",
+      "summary": "Intel appoints Qualcomm executive to lead PC and physical AI business &nbsp;&nbsp; Reuters"
+    },
+    {
+      "title": "From edge AI to physical AI in smart factories: A shift in how machines perceive and act - EDN - Voice of the Engineer",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcC1QWWlkY1VCV1VhQjRHNm5tSDRkdEFUSkdqWTREV0N1NzR4c2VrWnlobGVfb1dEZGVBODU4OVo4SkViRlZSUGxZRXdmZHdobUx0M0hJbjVoT2haS3diX0EyM1FkN1M2U3JVZ1hhemlGLXNZdzVXR3RjdmdabzNhTkx2LVB6VnZxcFpXR3I4ZjRMT2haaHBYZUtqTU05cWpVclh5VktKUElsWnp1?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-05-05 04:51 UTC",
+      "summary": "From edge AI to physical AI in smart factories: A shift in how machines perceive and act &nbsp;&nbsp; EDN - Voice of the Engineer"
+    },
+    {
+      "title": "Intel Taps Top Qualcomm Exec To Lead Client Computing, Physical AI Group - crn.com",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPenNvRm5ncHBBTnRkRENJcEhLRDJFMjZOd2hCUFhNZHpWWjdwWDA2LWlXNjlFdVNKZ3JPdHFHN0cwUWN4ZEFmV3ZnM1FTWVE3OEd4Y242cDQ4MnFleHl0cUtoZWNTejV6Q21idlNpQlFHc2N0TUMtS013ejltZ0NFdHB0RGVYYmwyVUlBTVZUWjdaLXZmOUtKSGFYWUozSWpfTkFleUd2ektDcjhZcGU5S25mdXVXa3NxcUE0eGJna1RaQQ?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-05-04 16:32 UTC",
+      "summary": "Intel Taps Top Qualcomm Exec To Lead Client Computing, Physical AI Group &nbsp;&nbsp; crn.com"
+    },
+    {
+      "title": "Intel hires Qualcomm exec to run PC and physical AI businesses - OregonLive.com",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZTE0SUpGRzZTcUxNUDdWdU5nWkhhbDNnTk1nTDhVVkxUN3RyR21kdHZ5RUhaVlRPX1VsbmRzZlI3Z2sxLW9WbEhrdDNTMjNRUWF1WTlLbkJTQnRhNDZTeWY5QXhxVkc5dWlpQjhPRzRNYmtjYlEwMW5CcHd5c3FCQXBodm10VXZuQWZaVkFBVjBxVnRCV1ZEVk1jVkxxQzk1VTlURUl4azN5TGFHNUc2TXR3SENQWVRW?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-05-04 16:20 UTC",
+      "summary": "Intel hires Qualcomm exec to run PC and physical AI businesses &nbsp;&nbsp; OregonLive.com"
+    },
+    {
+      "title": "Another Qualcomm exec joins Intel to lead PC and physical AI unit - digitimes",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYVZWZENjSDhMQXFnSVVGakF2SkR3MUtmVV9yRE9WaUs1VE5STmZ2Rm9XY1VDMWt6aGo1OUVkalFmOHBYUkxuRHFwXzN1WFNxbzIyQVAwQ3F1b1pPMGJmb3k4NFFCVVVkaHE1SU1id3Q4RDZBUEswcENoR1phZHFaZWVGSENwN3ItVVNOUW0yT0w?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-05-05 04:45 UTC",
+      "summary": "Another Qualcomm exec joins Intel to lead PC and physical AI unit &nbsp;&nbsp; digitimes"
+    },
+    {
+      "title": "Intel Taps Qualcomm Veteran To Rethink The PC For Physical AI - Finimize",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQUm9rM1puTmwtQWNHZWt5Wmc3YTVDSkluN0ZKcXJrUWxIXzNUMHpSd3V1NnhEVGZsWXhRaGM4RlA0UlhnLVg5TXZOV2ktdElGTF9ZcVdYem9xa1VoVG5CVm1lUmtFcFBNdk51WGhyRmw3WURFVGg0Vkc2SE03WEFVb3lvWFJnX3JaUkN5V1M4WlZzZGdn?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-05-04 22:53 UTC",
+      "summary": "Intel Taps Qualcomm Veteran To Rethink The PC For Physical AI &nbsp;&nbsp; Finimize"
+    },
+    {
+      "title": "Intel appoints Qualcomm executive to lead PC and physical AI business - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcmtwNWg0dUJrVF8zUGlPSnlwSTZtcm5VYWRlWlVGek9fNUF4SGFaVkIxZzJUM21JZjFJOGgzN25sd0hwd3FtZFRLQ2pfc2tlWXprUENkNGlMQmt0Q0lTSldUTVk0aFJZZjBncDFkOVgwbzk4SURpZWU1Tm81bWpMZUFCU3VOMVJqQmxYc2ozd2hoUnJReXRxdElaZUZKUE84UTNtc2dvYU1fMkRrYVNKQWRoaE1fUlYyZkc0N1EtU294SVRPY1ltdmVDdlhES0pWd1VmcWt3?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-05-04 21:48 UTC",
+      "summary": "Intel appoints Qualcomm executive to lead PC and physical AI business &nbsp;&nbsp; TradingView"
+    },
+    {
+      "title": "Intel Recruits Senior Qualcomm Exec Katouzian to Lead Client Computing and Physical AI - HotHardware",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNXhPXzQ1aU9HaUJXX2U2RDdSYW1waTcxWmFLNVQwNVRMajBXd1VOdjEtRmJFMnc3eDRYY0Q5ODQ1SkVXa3VYODhGSUM1WkF1VnJiOGZlSmkxX1pIUHlzell4OFdIc3ZMS08xeHF6a291SXNfQm1fN3RGVXJFRXlBaW44ZzVFN3lfWVhtamp4OFNIcHhzSmE4b3dOR1c?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-05-04 15:10 UTC",
+      "summary": "Intel Recruits Senior Qualcomm Exec Katouzian to Lead Client Computing and Physical AI &nbsp;&nbsp; HotHardware"
+    },
+    {
+      "title": "Intel Names Alex Katouzian to Lead Client Computing and Push Into Physical AI Systems - citybiz",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbW5OR0pPYVdFR0dCakJ1NjJ6cURULTZNZTBzQ01QRVBxZzlKcW5tUTFCMHM5U0ktc3pCajZIeE1NZjZLSHA5RjF5bmFXMFI0ZTZyWjM1UHZTWUdKd3ZMb212RTRPYjkwRVpLOFluWTMzRmJfUFlmeVpMTm4wOGRCRHhPdEFFMndPM0JpdFY4Q2FrdFBPZ2NnbllIV3QxWFh0TU9sV2piWGxwemptdFZlSjV4d1lOSmI4M2llNGs4bFhCdw?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-05-04 16:02 UTC",
+      "summary": "Intel Names Alex Katouzian to Lead Client Computing and Push Into Physical AI Systems &nbsp;&nbsp; citybiz"
+    },
+    {
+      "title": "Physical AI raises governance questions for autonomous systems - AI News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNE13LU4xelAwcG9pSEwzMlFQalY1ZzdxTDBWS3FkRGJQaVRtQ21JTDVJWGpidFM1dGxhdk1wOGhwNk5HQjI5ZlBpbVhnTUNjb0hYTnNkT2psV1I0QlY0cjZsMGxvYWJOVDc5OUNfU0xRV2lRVDE1a3JYSEhhaDVFUnU2ay1FTmpsNnV4dERZQnJoRXNYamc?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-05-04 11:04 UTC",
+      "summary": "Physical AI raises governance questions for autonomous systems &nbsp;&nbsp; AI News"
+    },
+    {
+      "title": "China's embodied AI robots take on high-risk industrial frontiers - China.org.cn",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PVy14TzJqTEhTX3pmbG92WlBLSS03aUtBYm1WWFR6U2ZSQUVGVEtTNEd2eHhURkx5MGM0V1MwMU96MFJSbzdiSlBQaENhV1g0c1c5ZGZFd1UwaDNmXy1lSTFxVHNDREM0bEE?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-05-05 05:12 UTC",
+      "summary": "China's embodied AI robots take on high-risk industrial frontiers &nbsp;&nbsp; China.org.cn"
+    },
+    {
+      "title": "Roomba Pioneer Colin Angle Unveils New Venture, Familiar Machines & Magic, Introducing a New Platform for Consumer Physical AI - PR Newswire",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMER2N19VMzhIMUpXOGxzVUVOMUdNU09PbzFoSjd2SlV0c0tFY0lVbnZmemVHZFMxOGhhMXgzVmJVTGNtNnFHeEoyUmNMRkRicno1b0dnUXlyQWtoRm1aOUl3Ul9UaE1pRW5HSXVLclU2RDF0RkZuRUEyOTRIMFRYbDc4aUtfWjVEc3VuVVdSYkJuSWFMQXkyZ1JsUXVycUUyNWE0VXEwYkJvRExqb0d6SzNsbUR5SXRlcEx6TFdJZnJGTjBUWldWM1BodG9XdHNHd1ZUZjd0S3VUQlRiU1RJd2szbGxuYVpNOFNvT1NvSy11WE1FeUZiVTZkeE8zOUxWaGtRUjRHX09ZQVk?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-05-04 16:00 UTC",
+      "summary": "Roomba Pioneer Colin Angle Unveils New Venture, Familiar Machines & Magic, Introducing a New Platform for Consumer Physical AI &nbsp;&nbsp; PR Newswire"
+    },
+    {
+      "title": "Intel Appoints Qualcomm’s Alex Katouzian to Lead Client Computing and Physical AI as Lip-Bu Tan Reshapes Top Ranks - Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOV3g0b2hZTjdEOEkyY1FxaUt0eGh5ZzYzTklBNTN3a0hXMFR6VWE2NmlVbnQ2bXNMODZ5SlNVa091VEhvUVdIdnZIUzRaMU1Xa1oxTmRHa1VQYkJHSjFmQXNBb2tnNm1EU3gtQ1dDS04tSU1MRlpVSjRlRDFlUFF3Qmp2UkFkb2RpRjdickpoNF94YnJHMHlJeC1RNzhMUlNqdkZFeXl1SzAzMWpVbVdVVUxTRi0zR3kyT3B0SEg1MTZuN19lREHSAcsBQVVfeXFMTU1aMFNZSy1DTk1mcW9xRTh4NFBybktZODQ3ZzFOVS1scXZoajFkS2hSMF85WFBUaUZwekdtZTJGaWRZWGRXa0UwN0pBTGYxTm9wcmhnZUZmVmxZeFlqenVkNGwyU1ZGdUNaTzdKOWxrVmxXV0Z0cDVVRkxjQW16bmczQ3ZsZmh0bXN3TXlGS3JmYy1SczEtZWhLc0lhRERoQ3ZFUDFGdVpWVnUzdVJVcElUUEt5V0xKRkxfSTZOVkVscTJGZnhaMm1MaVU?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-05-04 14:50 UTC",
+      "summary": "Intel Appoints Qualcomm’s Alex Katouzian to Lead Client Computing and Physical AI as Lip-Bu Tan Reshapes Top Ranks &nbsp;&nbsp; Wccftech"
+    },
+    {
+      "title": "Human Operator: MIT’s vision for embodied AI and skill acceleration - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWFF0dllETFZnMnF4eE50Z3dKbDJ0V2ljYk1wUGUyb2VQRG5BaWloMHkyUTJzMzJIblFjcUN3c2t0Wl93a1g4emlZcGRNbVhsV2tnX0Z1NVJ0cjZrT2xzbFpkcVFlc3Izd0ZIMnlqb0I5QVNGdnJOeWs4andpWG5XQWY4VTQxVy1ZTFVmUi1JUnprcm5uZzhwTzg3MWlmRnZLZUsyb3hlbDBqbXA2amJ3OGdyNllIWDlrVmROUVp4V1RXdDR4dGNQU2pCWlYwUlnSAdQBQVVfeXFMTUw4WkNjUjQyT3FrSkQ2em93elFsdWs5ZzYwRmFWblFIRUtPT3JwT3VxNGVYNkRicDlPZkJQRUt0MHVEVlFfMktJM0N5enEzckZ2VDM2blJxaHRGenpTa05EV1FxQmxsQlR2b0kxMkpSbVRfcHcwV0R3R09WRzNUQTN1UWFQenBPeU16SkNDNFo2alhOSnZ6YmZqY3cwck9uU3MwVXpLTnRGZnVBZXphSkQtNjdrbzN1YWNRRDdlRlJ1bkRERWxLRjU1UmFSNGlyOVh2Rlg?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-05-05 07:09 UTC",
+      "summary": "Human Operator: MIT’s vision for embodied AI and skill acceleration &nbsp;&nbsp; The Economic Times"
+    },
+    {
+      "title": "Intel Names Qualcomm’s Katouzian To Lead Client & Physical AI Group - Quantum Zeitgeist",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBGNTF3YUFOOVRZaGY2RFN6OFF2RklOVjgzYUg3TVRVaTM2Z0hITmtrUl92MFYxZGVkZERNT3hWZTU5QzdsVTQ3OGJWUGNZYk1YdkR0dzNBMk42WUxnblFFb1FKRFBqWkQ3WWdtaGxKLXJaZ2My?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-05-04 22:07 UTC",
+      "summary": "Intel Names Qualcomm’s Katouzian To Lead Client & Physical AI Group &nbsp;&nbsp; Quantum Zeitgeist"
+    },
+    {
+      "title": "RLWRLD Positions Physical AI at the Center of Next-Generation Automation - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX1EzVHVVaUx4c080SmM2Rks0M1NDOUhEbWNGWFNqV2VGXzllZ2lEcU1kTk5oRWQxdndqRXMwWmVtS3RzUEpsc3pvMGRNTmNtZkRwVGRNbElRbDBjN1lfVHhPZENIYnNEdS1tanU4bEdlQ2hzZm81Yi1lRmQ0SlE5X3NHbzZ6VEhneVc0QWRGeXdwdEFoRU9UbW5ZUmFWMTJscWdKdFl1RTZsOUNaWXpBZVJYanR2cDFXckxSWg?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-05-04 12:34 UTC",
+      "summary": "RLWRLD Positions Physical AI at the Center of Next-Generation Automation &nbsp;&nbsp; TipRanks"
+    },
+    {
+      "title": "RLWRLD Positions Itself as Early Mover in Physical AI and Embodied Robotics - TipRanks",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNVjRLUjJXVnRTSGtCSzJLd3ItYnA1M3YtM1hkQk91R0tJTmFaMFAwcFd2NEoxWmZxVkJoQmhLWTV6ajhQcDdvb0wycTlqSnRNQTVHU0xhOUdVTTl0dXlzN29YalNDMG9xNHVqVDltUTdNU0hqYXR3cWZ2dFpoZU9vc1dzcFJHQVdCSGJtTWhNVFpUb2JOdk04djJtX3VRbEx1a2k4aHNCaW81RmJfSEE3bGtiT1J5UFRLTENLTXpYTms?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-05-04 06:42 UTC",
+      "summary": "RLWRLD Positions Itself as Early Mover in Physical AI and Embodied Robotics &nbsp;&nbsp; TipRanks"
+    },
+    {
+      "title": "Intel positions Pushkar Ranade as CTO and Alex Katouzian to head Physical AI Group - varindia.com",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUVJCR3dSenh5ckNScEFwWXdLRzk0X0FjbWNEcEFGenRPUHJwYkRGLU4xVzNvUVZsUGw5Y0t5cldWUUZvbXdwalRDVmhudjhHcGZEclhlT2syY0dIYmVhSC1vSFFjVGtfbHpzMlMzTXpmcGlWcFoxdkhJYTF0bk5lUmJtTjM4WV84aHotbXJGV0NZM0c0cTZvbU5YUEVkUHloMl9NeHNrY3BsSXljSzNtSVNB?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-05-05 07:11 UTC",
+      "summary": "Intel positions Pushkar Ranade as CTO and Alex Katouzian to head Physical AI Group &nbsp;&nbsp; varindia.com"
+    },
+    {
+      "title": "Intel Appoints Pushkar Ranade As CTO, Taps Qualcomm Veteran To Lead Client Computing And Physical AI - BW Businessworld",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTzFlQXRkbkZKckh0RFA3RFZrNzV6ZXMzbU4xRExZeWlkT0FfZ0hRMkI0WGlwc3AtZUEyUmx2VDVYcng4dDl2bExOSV9meHk1QTN0dEYxNGVKbnpFV2pyamo1MnVCYWlPSWtiVl9CcklJWlpCNi1WUWpob25QblJmUU04b0FWeTFUVWIxd3g4TTBiNm9WRDJTZFNDbGFpUGFqeWNZbVNqOFFIbklkNmZZcXJDS2xWdHUzenB6ZmtuRU01MGllWmRRMGFxTi01TTg1Q2l4WDVVUDZBcG8?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-05-05 02:52 UTC",
+      "summary": "Intel Appoints Pushkar Ranade As CTO, Taps Qualcomm Veteran To Lead Client Computing And Physical AI &nbsp;&nbsp; BW Businessworld"
+    },
+    {
+      "title": "Physical AI Emerges as Next Investment Theme - Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQaUdFNUtrOXRtSmdmMk5fVFA3dXQ4WEtISXU3d29IbVBodXFRR1VWTlhDc05mZDVGT1ZHMGQ4TE4zWGNZZmZKVGtjYVFaQ3poaWtSLWptNGxYR3hPS3ZNSkJST1V2UGp3YmhuQlZmaXZONkhhM3BqajBXZXl0ZlcwQmw2UTJrWDBVMXFnanU1Zw?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-05-04 08:56 UTC",
+      "summary": "Physical AI Emerges as Next Investment Theme &nbsp;&nbsp; Seoul Economic Daily"
+    },
+    {
+      "title": "iRobot Founder Wants to Put a Robotic Familiar Into Your Home",
+      "url": "https://spectrum.ieee.org/familiar-machines-and-magic",
+      "source": "IEEE Spectrum Robotics",
+      "published": "2026-05-04 17:30 UTC",
+      "summary": "Two years ago,  Colin Angle stepped down as CEO of iRobot ,  the company that he co-founded  and the most successful home robot company the world has ever seen. Angle almost immediately founded a stealthy new “physical AI” company called  Familiar Machines & Magic  (FM&M), which in short order managed to attract a combination of exceptionally talented robotics folks, including  Morgan Pope from Disney Research , which got us very curious.  Today, Familiar Machines & Magic is announcing its first"
+    },
+    {
+      "title": "DAIMON Robotics Wants to Give Robot Hands a Sense of Touch",
+      "url": "https://spectrum.ieee.org/daimon-robotics-physical-ai",
+      "source": "IEEE Spectrum Robotics",
+      "published": "2026-05-04 11:08 UTC",
+      "summary": "This article is brought to you by  DAIMON Robotics .   This April, Hong Kong-based  DAIMON Robotics  has released  Daimon-Infinity , which it describes as the largest omni-modal robotic dataset for physical AI, featuring high resolution tactile sensing and spanning a wide range of tasks from folding laundry at home to manufacturing on factory assembly lines. The project is supported by collaborative efforts of partners across China and the globe, including Google DeepMind, Northwestern Universit"
+    }
+  ]
+}
