@@ -51,7 +51,11 @@ def _build_chat_button(chat_starter: str, today: str) -> str:
 
 
 def _extract_meta(raw: str, today: str) -> tuple[str, list[str]]:
-    """Parse Claude output into (html_with_chat_button, important_events)."""
+    """Parse Claude output into (html_with_chat_button, important_events).
+
+    Markers are expected at the START of the response (before the HTML),
+    so they're captured even if the digest body gets long.
+    """
     # Extract important events
     ev_match = re.search(
         r"<!--IMPORTANT_EVENTS_START-->\s*(.*?)\s*<!--IMPORTANT_EVENTS_END-->",
@@ -73,12 +77,12 @@ def _extract_meta(raw: str, today: str) -> tuple[str, list[str]]:
     )
     chat_starter = cs_match.group(1).strip() if cs_match else ""
 
-    # Strip all meta markers — take only content before first marker
-    first_marker = min(
-        (m.start() for m in [ev_match, cs_match] if m),
-        default=len(raw)
-    )
-    html = raw[:first_marker].strip()
+    # HTML starts after the last marker block (markers are now at the top)
+    last_marker_end = 0
+    for m in [ev_match, cs_match]:
+        if m and m.end() > last_marker_end:
+            last_marker_end = m.end()
+    html = raw[last_marker_end:].strip() if last_marker_end else raw.strip()
 
     # Inject chat button before closing <hr> / footer line
     if chat_starter:
@@ -102,6 +106,7 @@ SYSTEM_PROMPT = """你是一名专注于具身智能、人形机器人、家政�
 - 根据今日各主题的文章数量动态调整板块篇幅：文章多的主题多写，文章少的主题少写，不要强行凑字数
 - 若某板块当日无相关新闻，直接写"今日暂无相关动态"，不要捏造内容
 - 避免重复昨日已报道的内容，如有后续进展则明确标注"【跟进】"
+- 篇幅控制：各板块每条新闻用一句话说明，今日要闻每条不超过80字，今日洞察不超过300字，整体输出保持精炼
 """
 
 DIGEST_TEMPLATE = """请根据以下新闻原文，生成今日（{today}）全球资讯日报。涵盖两个主题：①具身智能&人形机器人；②家政与养老科技。
@@ -113,7 +118,19 @@ DIGEST_TEMPLATE = """请根据以下新闻原文，生成今日（{today}）全�
 
 {yesterday_section}
 
-输出格式（严格遵循，使用 HTML）：
+【重要】请严格按以下顺序输出，先输出两个标记块，再输出HTML日报正文：
+
+第一步：输出重要事件标记（重大融资>1亿、重磅政策、技术里程碑、行业并购，无则空数组）：
+<!--IMPORTANT_EVENTS_START-->
+["用一句话描述的重要事件1", "重要事件2"]
+<!--IMPORTANT_EVENTS_END-->
+
+第二步：输出对话引导语（50字以内，提炼今日最值得深入探讨的一个问题，用第一人称"我"开头，结尾加问号）：
+<!--CHAT_STARTER_START-->
+我在今天的日报里看到……（你的引导语）？
+<!--CHAT_STARTER_END-->
+
+第三步：输出完整HTML日报：
 
 <h2>🤖 具身智能 · 家政养老科技 全球日报 · {today}</h2>
 
@@ -121,17 +138,17 @@ DIGEST_TEMPLATE = """请根据以下新闻原文，生成今日（{today}）全�
 
 <h3>💡 今日洞察</h3>
 <p>
-  （基于今日所有新闻，用300~500字写出你的深度分析。要求：<br>
-  · 归纳1~3个当前最值得关注的<strong>趋势</strong>（跨多条新闻的共同信号）<br>
-  · 提出1~2个<strong>思辨性问题</strong>（比如：这个方向真的可行吗？谁会是最终赢家？）<br>
-  · 点出1个容易被忽视的<strong>深层规律</strong>（技术、商业或社会层面均可）<br>
-  语气要有主见，不要罗列，要有分析师的判断力。）
+  （基于今日所有新闻，用200~300字写出深度分析：<br>
+  · 1~2个最值得关注的<strong>趋势</strong><br>
+  · 1个<strong>思辨性问题</strong><br>
+  · 1个容易被忽视的<strong>深层规律</strong><br>
+  语气有主见，有分析师判断力，不要罗列。）
 </p>
 
-<h3>📌 今日要闻（3~5条最重要新闻）</h3>
+<h3>📌 今日要闻（3条最重要新闻）</h3>
 <ol>
   <li>
-    <strong>[公司/机构名]</strong> 用100~150字描述事件及其意义。
+    <strong>[公司/机构名]</strong> 用60~80字描述事件及其意义。
     <br><a href="原文URL">阅读原文 →</a>
   </li>
   ...（每条都必须有阅读原文链接）
@@ -178,19 +195,6 @@ DIGEST_TEMPLATE = """请根据以下新闻原文，生成今日（{today}）全�
 新闻原文如下（每条均含链接，请在输出中保留对应链接）：
 
 {articles_text}
-
----
-请在完整 HTML 日报输出结束后，依次另起一行输出以下两个标记块：
-
-1. 重要事件（重大融资>1亿、重磅政策、技术里程碑、行业并购，无则空数组）：
-<!--IMPORTANT_EVENTS_START-->
-["用一句话描述的重要事件1", "重要事件2"]
-<!--IMPORTANT_EVENTS_END-->
-
-2. 对话引导语（50字以内，提炼今日洞察中最值得深入探讨的一个问题，用第一人称"我"开头，结尾加问号，让读者可以直接发给AI继续探讨）：
-<!--CHAT_STARTER_START-->
-我在今天的日报里看到……（你的引导语）？
-<!--CHAT_STARTER_END-->
 """
 
 
@@ -261,7 +265,7 @@ def summarize(
 
     message = client.messages.create(
         model="claude-sonnet-4-6",
-        max_tokens=16000,
+        max_tokens=10000,
         system=SYSTEM_PROMPT,
         messages=[{"role": "user", "content": prompt}],
     )
