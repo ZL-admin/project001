@@ -31,21 +31,63 @@ def count_topics(articles: list[dict]) -> dict:
     return {"embodied": embodied, "eldercare": eldercare}
 
 
-def _extract_important_events(raw: str) -> tuple[str, list[str]]:
-    """Split Claude's output into (html, important_events list)."""
-    match = re.search(
+def _build_chat_button(chat_starter: str, today: str) -> str:
+    """Build a Claude.ai deep-dive button to embed in the digest HTML."""
+    import urllib.parse
+    prompt = (
+        f"我刚读了{today}的《具身智能·家政养老科技全球日报》。{chat_starter}"
+        f"\n\n请帮我深入分析这个问题，结合当前行业背景展开探讨。"
+    )
+    url = f"https://claude.ai/new?q={urllib.parse.quote(prompt)}"
+    return (
+        f'<div style="margin:28px 0;padding:18px 24px;background:#f0f7ff;'
+        f'border-radius:10px;text-align:center;">'
+        f'<p style="margin:0 0 12px;color:#444;font-size:14px;">对今日洞察有疑问？想深入探讨？</p>'
+        f'<a href="{url}" style="display:inline-block;background:#0071e3;color:#fff;'
+        f'padding:10px 28px;border-radius:20px;text-decoration:none;font-size:14px;font-weight:500;">'
+        f'💬 与 Claude 深入探讨今日洞察 →</a>'
+        f'</div>'
+    )
+
+
+def _extract_meta(raw: str, today: str) -> tuple[str, list[str]]:
+    """Parse Claude output into (html_with_chat_button, important_events)."""
+    # Extract important events
+    ev_match = re.search(
         r"<!--IMPORTANT_EVENTS_START-->\s*(.*?)\s*<!--IMPORTANT_EVENTS_END-->",
         raw, re.DOTALL
     )
-    if not match:
-        return raw.strip(), []
-    html = raw[:match.start()].strip()
-    try:
-        events = json.loads(match.group(1).strip())
-        if not isinstance(events, list):
+    events: list[str] = []
+    if ev_match:
+        try:
+            events = json.loads(ev_match.group(1).strip())
+            if not isinstance(events, list):
+                events = []
+        except Exception:
             events = []
-    except Exception:
-        events = []
+
+    # Extract chat starter
+    cs_match = re.search(
+        r"<!--CHAT_STARTER_START-->\s*(.*?)\s*<!--CHAT_STARTER_END-->",
+        raw, re.DOTALL
+    )
+    chat_starter = cs_match.group(1).strip() if cs_match else ""
+
+    # Strip all meta markers — take only content before first marker
+    first_marker = min(
+        (m.start() for m in [ev_match, cs_match] if m),
+        default=len(raw)
+    )
+    html = raw[:first_marker].strip()
+
+    # Inject chat button before closing <hr> / footer line
+    if chat_starter:
+        button = _build_chat_button(chat_starter, today)
+        if "<hr>" in html:
+            html = html.replace("<hr>", button + "\n<hr>", 1)
+        else:
+            html += "\n" + button
+
     return html, events
 
 SYSTEM_PROMPT = """你是一名专注于具身智能、人形机器人、家政与养老科技领域的资深科技分析师与战略观察者。
@@ -138,12 +180,17 @@ DIGEST_TEMPLATE = """请根据以下新闻原文，生成今日（{today}）全�
 {articles_text}
 
 ---
-请在完整 HTML 日报输出结束后，另起一行输出以下格式的重要事件标记。
-重要事件定义：重大融资（>1亿）、重磅政策、技术里程碑、行业并购。若无则输出空数组。
+请在完整 HTML 日报输出结束后，依次另起一行输出以下两个标记块：
 
+1. 重要事件（重大融资>1亿、重磅政策、技术里程碑、行业并购，无则空数组）：
 <!--IMPORTANT_EVENTS_START-->
 ["用一句话描述的重要事件1", "重要事件2"]
 <!--IMPORTANT_EVENTS_END-->
+
+2. 对话引导语（50字以内，提炼今日洞察中最值得深入探讨的一个问题，用第一人称"我"开头，结尾加问号，让读者可以直接发给AI继续探讨）：
+<!--CHAT_STARTER_START-->
+我在今天的日报里看到……（你的引导语）？
+<!--CHAT_STARTER_END-->
 """
 
 
@@ -220,7 +267,7 @@ def summarize(
     )
 
     raw = message.content[0].text
-    html_content, important_events = _extract_important_events(raw)
+    html_content, important_events = _extract_meta(raw, today)
     logger.info(f"Summarization complete. Important events: {len(important_events)}")
     return html_content, important_events
 
