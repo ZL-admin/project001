@@ -1,0 +1,1164 @@
+{
+  "date": "2026-06-05",
+  "generated_at": "2026-06-05T03:52:02.141148Z",
+  "article_count": 165,
+  "important_events": [],
+  "html": "<h2>🤖 具身智能 · 家政养老科技 全球日报 · 2026年06月05日</h2>\n\n<h3>🔔 昨日重要事件跟进</h3>\n<ul>\n  <li>【跟进】<strong>比亚迪\"尧舜禹\"计划</strong>：各媒体持续深度解读，披露该项目已秘密研发4年、团队规模超4000人，比亚迪方面强调\"汽车软件移植到机器人很容易\"，国际媒体也大篇幅跟进报道，成为全球具身智能领域今日头号热点。<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxT1AybDlQRlpKTTVfSk02cjBvRUVEOGZ4cmVCa21GcDZ5YWZHZTBxaHIwc2JrTGpRSFEwX2pLdnZiM3M5b19wQkF6Zzg1dw?oc=5\">↗</a></li>\n  <li>【跟进】<strong>英伟达 × 宇树</strong>：双方正式发布联名H2 Plus人形机器人参考设计，英伟达同步推出Cosmos 3物理AI模型，\"大脑+身体\"合作框架从概念走向产品落地。<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQcUpkRlQyN2ZlSUNZMW5vZlh3Q3k2M01MaWFoR0tZeFM4UzMwYjNLSEJUX0lJdXowa2JFaU9Va3R6WmRqUFZsMllEMEVZVzk0Z0xrWEttLWljRUZEdlJGY1dxNmhFaGE0WGpvNUZMZzlibF9DYVo3TTNncmw1b0llQ2VHcmI1WHpwbXhKZ3RCUGFIY1ZveVpnTFZVd2ZNRUlHTFgyWWZfc2NHYk5FcWxLZkNveW02RjZwRDdMMnUzNA?oc=5\">↗</a></li>\n  <li>【跟进】<strong>千寻智能</strong>：登顶RoboArena后，行业对其15亿融资与技术实力讨论热度未减，今日盖世汽车等媒体刊文复盘5月具身智能融资潮，将千寻列为代表性案例。<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MRVlCTTl5RWc2NmE5SDdOUktVd05OczlGZFlrWWQwYVRXa0NEenkxNlZWdW5ZNm12M0dtOHVsZXkwSnoyV2dxWlVrV0QwT3dD?oc=5\">↗</a></li>\n</ul>\n\n<h3>💡 今日洞察</h3>\n<p>\n  今日最值得警惕的现象，是人形机器人的<strong>价格断崖式下跌</strong>与<strong>巨头加速涌入</strong>同步发生。一年前近百万元一台还需排队预购，如今二手市场\"5万元一车\"清仓、消费级入门价跌破万元——这不是单纯的技术进步红利，更是大量早期项目因商业化未达预期而被迫出清的信号。与此同时，比亚迪（团队4000人、已研发4年）、英伟达（Cosmos 3+H2 Plus）、华为云（CloudRobo平台）密集亮牌，产业整合加速。<br><br>\n  <strong>深层规律</strong>：具身智能正在经历从\"技术demo驱动\"向\"量产交付驱动\"的范式切换。越疆ATOM第三批量产交付、原力灵机并购物流机器人公司、博银合创推进真实工厂落地……头部玩家已不再满足于实验室表演，而是直奔工业部署。这一轮过剩是健康的去泡沫，但真正的考验在于：谁能在降价的同时维持毛利、谁的数据飞轮能持续转动。<br><br>\n  <strong>思辨性问题</strong>：当英伟达深度绑定宇树，并以平台+参考设计方式主导人形机器人\"大脑\"标准，中国整机厂商的自主AI能力究竟是护城河还是累赘？华为云CloudRobo的横空出世，或许正是对这一隐忧最直接的回应。\n</p>\n\n<h3>📌 今日要闻（3条最重要新闻）</h3>\n<ol>\n  <li>\n    <strong>[华为云]</strong> 发布全球首个全流程具身智能开发平台<strong>CloudRobo</strong>，覆盖数据采集、模型训练到仿真部署全链路，6月30日公测。这是华为首次以平台化方式系统性介入具身智能基础设施，直接对标英伟达Isaac生态，战略意义重大。\n    <br><a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBRUVF5T2tfZzVHd0lFQUo2S2xFMTNVVGFqeXBDV0FOTHpMTHdmQmhSWjZuUXZuSnpxQUUyT0lYeDI1MTJ0eVJEUDdJMA?oc=5\">阅读原文 →</a>\n  </li>\n  <li>\n    <strong>[原力灵机]</strong> 完成新一轮融资，<strong>智谱、阶跃星辰、商汤、阿里</strong>四大模型厂商罕见同时入局，并通过股权并购整合物流机器人公司Atomix。大模型竞争主战场从Token生产向物理世界Action全面转移，具身模型已成模型公司的下一块必争高地。\n    <br><a href=\"https://36kr.com/p/3838835333253385?f=rss\">阅读原文 →</a>\n  </li>\n  <li>\n    <strong>[人形机器人市场]</strong> 价格集体大跳水：二手市场出现\"5万元一车\"批量清仓，消费级入门机型跌破万元，较一年前百万元价格降幅超98%。价格出清与巨头入场同步发生，行业正式进入<strong>量产竞争阶段</strong>。\n    <br><a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjRG5sSGhzSUc3alBBU01JMlBoMUdRSXp3UHJwbkhFUEwwTkZudGx1SVdLNEpiM2JYVFlFUmVLQWFQM0VFVVp1TlplTmNnUXdSNFBDUWNTekJJZ0RS?oc=5\">阅读原文 →</a>\n  </li>\n</ol>\n\n<h3>🦾 具身智能 · 人形机器人</h3>\n<ul>\n  <li><strong>比亚迪</strong>：官宣入局人形机器人，代号\"尧舜禹\"，团队超4000人、已秘密研发4年，2026年内部部署2万台，未来通过4S门店全渠道销售。<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxT1AybDlQRlpKTTVfSk02cjBvRUVEOGZ4cmVCa21GcDZ5YWZHZTBxaHIwc2JrTGpRSFEwX2pLdnZiM3M5b19wQkF6Zzg1dw?oc=5\">↗</a></li>\n  <li><strong>宇树科技 × 英伟达</strong>：联合发布H2 Plus人形机器人参考设计，英伟达提供\"大脑\"，宇树造\"身体\"，身高1.8米。<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQcUpkRlQyN2ZlSUNZMW5vZlh3Q3k2M01MaWFoR0tZeFM4UzMwYjNLSEJUX0lJdXowa2JFaU9Va3R6WmRqUFZsMllEMEVZVzk0Z0xrWEttLWljRUZEdlJGY1dxNmhFaGE0WGpvNUZMZzlibF9DYVo3TTNncmw1b0llQ2VHcmI1WHpwbXhKZ3RCUGFIY1ZveVpnTFZVd2ZNRUlHTFgyWWZfc2NHYk5FcWxLZkNveW02RjZwRDdMMnUzNA?oc=5\">↗</a></li>\n  <li><strong>宇树科技</strong>：发布装有轮式底盘的新形态人形机器人，实现行走与滑行双模式，73天IPO过会持续引发市场热议。<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE52ZkNuNU1uc2NZdEdKTEhLYm9EMk1NdzVCSG5RbGtXeWlrREptMDNsaE9KSnB0X2VvVjRKTUNqVU5jNEpUVkpnd2VSR2U5QQ?oc=5\">↗</a></li>\n  <li><strong>华为云</strong>：发布全球首个全流程具身智能开发平台CloudRobo，6月30日公测，正式以基础设施身份介入机器人赛道。<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTFBRUVF5T2tfZzVHd0lFQUo2S2xFMTNVVGFqeXBDV0FOTHpMTHdmQmhSWjZuUXZuSnpxQUUyT0lYeDI1MTJ0eVJEUDdJMA?oc=5\">↗</a></li>\n  <li><strong>小鹏机器人</strong>：核心产品一号位施晓鑫6月初主动离职，知情人士称短期暂停职场择业；新一代IRON人形机器人即将亮相。<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yWFBVOGtDXzJlSDdsZGVhUExMbThELVpFUDZqN0p4QXp3OEpkZnJzaWVnTkVSSDV5YnBtb1NyNEdncVJWYndTS21MWVl6UQ?oc=5\">↗</a></li>\n  <li><strong>越疆机器人</strong>：第三批ATOM人形机器人完成量产交付，股价午前涨逾7%；同期登顶具身智能权威评测LIBERO榜首。<a href=\"https://news.google.com/rss/articles/CBMihARBVV95cUxQYmFnaDVDemRySGpFX2pLMDlNbl9BUUk5MmZsRjhYUGRISlZLbnQ3Vy1DbjdxNFRIYkphV1p0OFdCZDJPLW9kZEdtSHJHUFZnd1hKTFhkNlNMRmtlWkZldUx1M2h2dHBZSjhYYzVxaHNEc0JNcUoxZmthUG15a1liZ3hkMDYta09mMktHTmR2dTN0VWFDRWVxdmpnTVB6Z0NRWGowdi05dTI3VmxJUU9waUtyOFVMdXFkVzFjRmZmSnRZNzJZMzBDSUFBN3ZEd2RJM1VqZkJ0cHlKNnIteExIbmY0Z1JXTWtZb1ZiQVU2VDd0UVhpUnlXQ0dPd18yWmpDVTBibmpQOGZMZDd0bDlIbVBYNVdFakthSV9fWklldVJqel9wb0xEZ2ZmYzNWVWZObXRBRzk0Vld1NFh2QUI4UFdvTUc3Ty1SWWtrTXNxZ2JVLWpxNU5KREk0YXNCRERiLWN2ZTlPQ3JOTXVPbDhXcjBJSWxKam1qVUx3QXh1aGd5MlIxVUZ5YVY3Zjl5OWl5eGxBR25jXzBVbXNWcFpvRGJ3Mm5mSHAya2hKXzB6NGtLQVhPOGNRdmV1ZDB2c2hGRHRZQjNsd1VITXJaejg4Ykd3bmJCNW9HZFFlVUQwdmx3R0xwbWFlVGNXa1IyemdBX2RCWmx0SUhCWGpRMXF0RDB5V0s?oc=5\">↗</a></li>\n  <li><strong>帕西尼感知</strong>：比亚迪、京东参投，传拟赴港IPO，估值百亿，主营视触觉传感器。<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE1FZ0w0Sk4wcmJXUmVITVJmbXZESHU2WW0xeTh6cFlvUmh4dm5oTEFJX1J5am1VR2hJajlQU3BMbTRrQV9mcUFRMTJzdmlWb2tXcm9yb3NxS1dKU3d6bTR4S3YtN2V0Tzl1SXNr?oc=5\">↗</a></li>\n  <li><strong>智元机器人</strong>：线下首店将于6月13日登陆京东MALL上海店，具身智能零售化落地提速。<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE40aE40QVRtcXJYNDBKN0FrWmxhTTBPMHdrUGN0N0V1V2RkM0NFVHFIWjA4WDNYdHZ4aWNjUkl3aFdHOHlIYVhXcXp6RXZ2QlZxU2FsNG9zSnl1T3gzMDFuSlR3?oc=5\">↗</a></li>\n  <li><strong>FF法拉第未来</strong>：完成Master人形机器人首批交付，接收方为洛杉矶知名医疗机构。<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTFAtNDNRWWI4VmdURzdYbks1dlRrajlhWjNLWEJlTkRSZmhwS1hKVnlqVEdKRW9fRnVtMVBxbnMtOFFhUlU1eEpPLUR0aHZ1T2ZRNDNBZ2VFei1udUoxYkMwd1U0ZW9jRVdORXRn?oc=5\">↗</a></li>\n  <li><strong>超仿生人形机器人</strong>：首款全尺寸超仿生人形机器人启动预售，男版183cm/女版168cm，主打情感陪伴，定金3000元，续航2~4小时。<a href=\"https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fTDd0eWNqcHNLTlR2Z0xteXBYWUZHUy14RnphWlRGbUk3VzQzZUFCODZWUE5UUnFZU2NMMXFybVRPUUNXYWl3Vzk1TTFFZ1QtdTNYN1pESzh2aFJiU0dJdkM1SUpBUQ?oc=5\">↗</a></li>\n  <li><strong>原力灵机</strong>：完成新融资，四大模型厂商联合入局，并购物流机器人公司Atomix，通用具身大模型赛道整合加速。<a href=\"https://36kr.com/p/3838835333253385?f=rss\">↗</a></li>\n  <li><strong>清研精准</strong>：完成数亿元B2轮融资，定位\"物理AI工程化底座\"，深度布局具身智能基础层。<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE02bVpnUEJVNDJoZmxXOUE4SEtFZnd1TXlzQ3FCVDFKWFgzdnhydlRMajVEcVpkcG9CTEdTanQ0TDl3NnNvREhYMnI5VTAzTjFR?oc=5\">↗</a></li>\n  <li><strong>NAVO（追觅系）</strong>：完成数千万元Pre-A+轮融资，以摄像头为核心切入具身智能感知赛道。<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3VENrNF85REFXTG1oU0Z4WmUtRnFpSlo5RHdLMERmXzFCNlh0c2U3dGhWaUIzZlU2QTE3NHVoamZxcTFybzRvSGJySjRJTXZwQ21qTkhR?oc=5\">↗</a></li>\n  <li><strong>指尖智擎</strong>：深创投领投，完成Pre-A轮融资，专注灵巧手等末端执行器，被视为独角兽潜力股。<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE01SFFFS0g2WGlrRUt6eVhPdDlNMjlla1J6WF9qcWtrQXJQMGR3RXJPeDAtaHFWWmdHS05Lei1laW44X2wyWjhPWmx0OFhUcEV0?oc=5\">↗</a></li>\n  <li><strong>星尘智能（一根绳子）</strong>：靠柔性绳驱技术完成连投三轮超10亿融资，成为具身智能赛道独特案例。<a href=\"https://news.google.com/rss/articles/CBMiTEFVX3lxTE44WEQ1RDFKMElSclBZTllPdlA5UlhOTjJjWWtwR0diZ3dubUI3ZzNORjVwV05UdE84T0VjdEF4akVySklEUVFObUdhbnA?oc=5\">↗</a></li>\n  <li><strong>智元机器人</strong>：中国信保承保首单具身机器人出口信用保险，支持智元出海，政策性工具首次进入该领域。<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxONWNHV1E1OUl1VkJBcFFrSlp1ckhzbjdRSG1EczJzdjJoRVNqYnZhY0Q2QXJwVXlDU0g1X3VTejdjd2ZWZmlUQkp2TFFWNEFFV1NxR1NjdGdkZ3Q5SGRvOW5rcXM3Zll4NlRheTdYZy1nQ1ZUU0JzSmIwZzRFdGkzT0pqVmRMR2xLUFhRZQ?oc=5\">↗</a></li>\n  <li><strong>博登智能</strong>：打造Physical AI数据基建，推动具身智能数据服务产业价值升维。<a href=\"https://news.google.com/rss/articles/CBMiSEFVX3lxTFB5eWh0ZDExckNVOWx4NFNJNlY3MTlwVHBnWmp2emJCTnJPYkpnNlR0M3ZNaEVrakdub2VFUGZjd0JRQkkycjZZLQ?oc=5\">↗</a></li>\n  <li><strong>浙江省人民医院</strong>：成立\"双创中心\"，推进具身智能医疗机器人体系建设，医疗场景落地加速。<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQT2NNWmQ2N3NtSUtOWlpRTVBDX3B5c1pMT3prZ3p1R1VCSXA1dE9XQnU0c2dBUDZYTlA2MEVwRUF4cks3TXFsUFc0TE5PMXZYRmR3cUxHcEpjWHVVZGVSY0IwMGd4Qy1Db3NVNnJMX2pVdUVBNkJQTUZNazBjc0wwTC13?oc=5\">↗</a></li>\n  <li><strong>首钢园</strong>：冬奥广场具身智能生态基地在北京正式揭牌，成为北京具身智能产业聚集新载体。<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PT2JITTRHMWxxTlQ1T280Si1ER3BMZUZUZW9kYzNobnoxQ1lfVk5TVDRpWnVhODRuX0dGbTVjYldFM1M1QVo0Zmtrd04wZzFKazhUOF9fUi1hQnFLcVhQWXZzTHo1MmVf?oc=5\">↗</a></li>\n  <li><strong>武汉市</strong>：免费发放100台家用人形机器人，充电2小时可连续工作7小时，政府主导的家用机器人推广试点落地。<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LcmRYbzdTU0tRWUlJbUtkMUd1ZUljYS1uZEZNZ1cyekhXelVEcTVnNmZjZ2N4RmZYcTF4R3RIaE1CVzQ3QlhOaTc3V2E4S2hpRlJfYVpFdFg?oc=5\">↗</a></li>\n  <li><strong>科研进展</strong>：中国科研团队在人形机器人关节精密加工领域取得新突破，相关成果获国际媒体关注。<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tM3JFUHNMbENaRURaSFlQWmIwRV85QlkxVzVYeHdadUNWVTQwWHRWUlBObVhkMVhwLXJ5eHUtLUpZNGtHQzFyVGU2UzZXdnY2OHBZT2JPc1lJNUo4U2tXSU1LbWM?oc=5\">↗</a></li>\n  <li><strong>UT Austin朱玉可</strong>：在ICRA 2026提出\"数据海绵\"方案，探索破解人形机器人训练数据困局。<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE1ydHNGTy1sWFBBN040TzN1TVE2djFvRDVWSjlQamFYaDVzWVB1Zzh0TlQ2QWFwMFAzNDFkVVR4V2lSTVFTMFVEUGZmYndRZ1p6MWpQTEZnZEp2UjNESXBYQ2I0MlBSaGhVS2c?oc=5\">↗</a></li>\n  <li><strong>申昊科技</strong>：以\"具身智能+数字孪生\"组合，助力中核集团核电变电站实现智慧值守。<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lRHRTX001SUlVMklDYXBoY0hadTZQaXBobFkwRjlTRkx1UjdmcGw1TGdaVm1WNnFFSjNXLTl1ZWNnaFZSZFVjZzJmbHNrYUFrWW5RTHF5MmdoVi15OXc?oc=5\">↗</a></li>\n  <li><strong>博银合创</strong>：推进工业具身智能进入真实工厂，加速落地交付，成为工业场景化的代表企业之一。<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSkFvN0F5TE1KZ0h3dDZsYkRtMUxIb0dpOTRlSl9MQjdJMjh5VGhKWGRwUG90eHA4VW1OYS1lemllU1IxVXJZbENvSkV3SFZ3SFpJenFlX0p1YjFyZUtadldFT3V4U0FKeUV5N3NaUlBWS3pTMm5WbmVUSHVabGU5U0pDa1JwOE5D?oc=5\">↗</a></li>\n  <li><strong>某军事科技公司</strong>：拟向俄乌战场部署人形机器人士兵，引发国际社会高度关注与伦理争议。<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTE1Dc3hZRWVDYmZ1RjQ4VExxa1RKWVBNZ0R1T2dQQ3U0elJsOWlZSlVhWXAtX1JrcWFaVE14MUtoSks5ZTYyekZDQ1N6S09kS2M4NTNHbEdOUWFMSWt6N3ZTb1dyaTN1VXZGd2cwWQ?oc=5\">↗</a></li>\n  <li><strong>2026BCS安全论坛</strong>：机器人安全议题备受关注，专家指出\"机器人的命门不在AI，在安全\"。<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVVWZDV2Z4azdEYk01M1NSOHhmU0p1VUZzN3R1QklidWZGRkg1aC1iTXZUdmdjbFhGQUFGc2lRWHFCNjNWNDRfMFVxWkRMY25XMi1KRGlsVXc?oc=5\">↗</a></li>\n</ul>\n\n<h3>🏠 家政与养老科技</h3>\n<ul>\n  <li><strong>中国牵头</strong>：养老机器人国际标准正式发布，主题为\"机器人支持老年人有尊严的独居\"，标志中国在该领域国际话语权的实质性突破。<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IN01FZzVicGh2ckxlcUNtRmFDVTB6SXYtV1NxODFnZGd6UDMtRVRneXRQemd4NW51ZV9tMFZuTkt1MFhISDQwZWhESUwzNEVNU0JIaTR3?oc=5\">↗</a></li>\n  <li><strong>上海老博会</strong>：盛大开幕，被定位为银发经济产业资源\"超级接口\"，上海引领银发经济\"蓝海\"发展新生态。<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZZy1CU1lCN0hKaXRkM1dKUEpwaVNIRUNBVl9QRWc1QklyUlBoNXNGVjRPdGl3RGVZQ1EtRFVxY3hlb0xBVWVpdGhFcTdHTktFZk85cFBOUUp1eS1ybFNDN3hiWldzWFVxaHBVd0lMV0RnanNLbXZLZw?oc=5\">↗</a></li>\n  <li><strong>上海</strong>：启动养老服务信托试点；吉林银发经济产业园揭牌，投资超16亿元。<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LT2VVNUlxRF9ReXVvZG8zRmxDMWdZTnFNUkxBVFJvUkp3YVB3Ql9HTlU3RzVqOGlDVXBPVVlHYmxHQ2NSRG9RdmFoMFNxUnhPWHgySjhR?oc=5\">↗</a></li>\n  <li><strong>长护险</strong>：全面推开提速，汉中试点打造适配样本；中国人寿深度参与成渝长护险试点；数智赋能推动服务质效提升。<a href=\"https://news.google.com/rss/articles/CBMibkFVX3lxTE9DQmIzYzRBOUl6MmJIaUgzU05RVmpLT1dDSGhKS01XVGgyVFBwcTkxUFphOWZZbk42UVg1M0c5UUFycy1WZHVwSlUwcUJWMEhpWGh1ajdKcU1UMjYyYzYxUmhsNXY5U0xTVEM4TUd3?oc=5\">↗</a></li>\n  <li><strong>保险业</strong>：超20家险企密集推出居家养老方案，从\"支付端\"走向\"服务端\"的战略转型明显加速。<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE00Snp1MHpLQWdEaEZCdVBNaHBxQ0Z5dERSMGFHdFhVTTVVZ2pwUkFLdjFmZVNvWFI0SndmcWRGVFFzZk9jazlubVBtS1BKZ0d2ZXFFbkVSNGZTZGgxOG1jcjY2Mkduam56VDg0Mm9kcw?oc=5\">↗</a></li>\n  <li><strong>罗湖银发科技孵化加速中心</strong>：招商进行中，致力于打造国家级银发经济创新示范区。<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GLTBkRTFfbGFmVGE3UVk2UloycHJWc3QyVWVLS09JYjhkcm1EUmhEa2xCc0d1c2tSTjZiMk9TRkpMRV8zdXFLUkdfU2NUWFI4bHlTYmpB?oc=5\">↗</a></li>\n  <li><strong>6月养老采购</strong>：超5700万元采购需求集中释放，涵盖老年活动中心设施、居家养老服务等10大项目招标。<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ocTVTcUVScUNJNjBvaTRvN184Z3VOWE1fTVNaNUZMZ1Z2REZZbUpFRkJsOENBcTZDcjZ5RkdIZ2hTb0Y3dkl2dkVTb\n<div style=\"margin:28px 0;padding:18px 24px;background:#f0f7ff;border-radius:10px;text-align:center;\"><p style=\"margin:0 0 12px;color:#444;font-size:14px;\">对今日洞察有疑问？想深入探讨？</p><a href=\"https://claude.ai/new?q=%E6%88%91%E5%88%9A%E8%AF%BB%E4%BA%862026%E5%B9%B406%E6%9C%8805%E6%97%A5%E7%9A%84%E3%80%8A%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%C2%B7%E5%AE%B6%E6%94%BF%E5%85%BB%E8%80%81%E7%A7%91%E6%8A%80%E5%85%A8%E7%90%83%E6%97%A5%E6%8A%A5%E3%80%8B%E3%80%82%E6%88%91%E5%9C%A8%E4%BB%8A%E5%A4%A9%E7%9A%84%E6%97%A5%E6%8A%A5%E9%87%8C%E7%9C%8B%E5%88%B0%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BB%B7%E6%A0%BC%E4%B8%80%E5%B9%B4%E5%86%85%E4%BB%8E%E8%BF%91%E7%99%BE%E4%B8%87%E5%85%83%E6%9A%B4%E8%B7%8C%E8%87%B3%E4%B8%87%E5%85%83%E4%BB%A5%E4%B8%8B%EF%BC%8C%E8%BF%99%E7%A9%B6%E7%AB%9F%E6%98%AF%E4%BA%A7%E4%B8%9A%E6%88%90%E7%86%9F%E7%9A%84%E4%BF%A1%E5%8F%B7%EF%BC%8C%E8%BF%98%E6%98%AF%E4%B8%80%E5%9C%BA%E6%B3%A1%E6%B2%AB%E5%87%BA%E6%B8%85%E7%9A%84%E5%89%8D%E5%85%86%EF%BC%9F%0A%0A%E8%AF%B7%E5%B8%AE%E6%88%91%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90%E8%BF%99%E4%B8%AA%E9%97%AE%E9%A2%98%EF%BC%8C%E7%BB%93%E5%90%88%E5%BD%93%E5%89%8D%E8%A1%8C%E4%B8%9A%E8%83%8C%E6%99%AF%E5%B1%95%E5%BC%80%E6%8E%A2%E8%AE%A8%E3%80%82\" style=\"display:inline-block;background:#0071e3;color:#fff;padding:10px 28px;border-radius:20px;text-decoration:none;font-size:14px;font-weight:500;\">💬 与 Claude 深入探讨今日洞察 →</a></div>",
+  "articles": [
+    {
+      "title": "硬氪独家 | 唐文斌「原力灵机」并购物流机器人公司，并获智谱、商汤、阶跃等投资",
+      "url": "https://36kr.com/p/3838835333253385?f=rss",
+      "source": "36氪",
+      "published": "未知时间",
+      "summary": "作者&nbsp;|&nbsp;邱晓芬 \n   编辑&nbsp;|&nbsp;袁斯来 \n   硬氪独家获悉，具身智能企业「原力灵机」近期完成新一轮融资，资方主要为数家大模型公司，包括 智谱、阶跃星辰、商汤科技。 此外， 华勤、上汽恒旭 等产业投资方持续加注 。  \n    「原力灵机」 是一家通用具身大模型公司，2025年3月由旷视科技联合创始人兼CTO 唐文斌 创立，团队核心创始成员为旷视科技原班人马。 \n   有意思的是，此次融资也是商汤、旷视这两家曾经的对手，在具身智能的热潮中罕见“会师”； \n   另外，算上A+轮独家领投的 阿里 ，这也是具身智能赛道罕见同时聚齐国内四家大模型厂商——此前，智谱仅通过Z基金小范围投资具身智能领域，阶跃星辰则几乎未出手具身智能。 \n   而这一集体动作也释放出一个信号，当 大模型竞争的主战从Token向Action转移 ，拥有物理世界交互能力的具身模型，已成为模型公司们锚定的下一片高地。 \n   伴随着此次融资，唐文斌也在兵合一处，着手整合机器人资产。 \n    硬氪独家获悉，「原力灵机」近期通过股权并购方式，完成了与「Atomix」（原力聚合）物"
+    },
+    {
+      "title": "8点1氪丨分析师曝苹果Vision Pro产品线被移除；黄仁勋将首次亮相综艺节目；粉笔CEO就骂人大学生“活该找不到工作”道歉",
+      "url": "https://36kr.com/p/3839505332161026?f=rss",
+      "source": "36氪",
+      "published": "未知时间",
+      "summary": "今日热点导览 \n   \n    微信正与手机厂商合作推出Agent-to-Agent助手能力 \n    擅用“LABUBU”相近标识商业推广，泡泡玛特告奈雪的茶获赔32万 \n    腾讯客服回应与华为、小米等合作 \n    神农旅游集团就国道收费进行道歉 \n    苹果智能眼镜推迟至2029年，无显示屏AI眼镜仍将于2027年推出 \n   \n   TOP 3 大新闻 \n    分析师曝苹果Vision Pro产品线被移除，2027年推AI眼镜  \n   知名苹果分析师郭明錤发布最新供应链调查称，苹果已正式从其XR头显与智能眼镜路线图中移除Vision Pro系列后续产品，资源全面转向更具大众市场潜力的AI眼镜品类。据悉，这一重大战略调整已获苹果下一任CEO约翰·特努斯批准。 \n   郭明錤表示，他大约一年前整理的苹果眼镜路线图“已不再是有效的参考”，目前路线图上仅剩两款智能眼镜产品处于活跃开发状态。其中，配备光学波导显示屏的AR/XR智能眼镜已推迟至2029年发布；而不含显示屏、类似Ray-Ban Meta的无显示屏AI眼镜仍按计划于2027年出货。 \n   值得注意的是，彭博社记者马"
+    },
+    {
+      "title": "00后创业者站上C位，「go big or go home」｜36氪离线聚会第二期",
+      "url": "https://36kr.com/p/3838702884604421?f=rss",
+      "source": "36氪",
+      "published": "未知时间",
+      "summary": "“妨碍真理发现过程的，不是谎言，而是极其精辟的错误见解。”德国物理学家兼讽刺作家利希滕贝格在面对启蒙运动中的种种愚昧时，戏谑式地写下了这一句名言。 \n   许多误判之所以危险，恰恰因为它们看上去过于正确。它们能在一个短周期里解释世界，也容易在世界已经变化之后，继续以“共识”的面貌停留在原地。 \n    AI也曾经历类似的混沌阶段。 过去两年，人们习惯用一些简单指标理解这场变化：谁拥有更多GPU，谁训练了更大参数的模型，谁的团队烧掉了更多Token。以至于硅谷一度流行“Token消耗量”的隐形竞赛，以证明到底谁是最AI&nbsp;Native的公司。 \n   但现实是，Token消耗量可以衡量投入的程度，却无法衡量投入的方向——方向错了，消耗本身就是一种浪费。这也是Token最容易被误读的地方。 \n   5月29日晚上， 36氪联合光源资本在北京举办“离线聚会第二期·&nbsp;TokenAge” 。这次我们不过多关注消耗量，更关注AI生产力带来了什么，一个判断、一次迭代、一场创业……当AI成为“生产力”本身，我们如何跃向未来？ \n   我们请来了4位身处AI创业一线的嘉宾： 黄一，萝博"
+    },
+    {
+      "title": "36氪独家｜2026 年字节 AI 的四个关键命题",
+      "url": "https://36kr.com/p/3838454229027072?f=rss",
+      "source": "36氪",
+      "published": "未知时间",
+      "summary": "文｜周鑫雨  \n    编辑｜张雨忻 杨轩  \n   《智能涌现》从多个信源处独家获悉，2026 年，字节 AI 有四个重要的命题： \n    加大对世界模型训练的投入，年底前，模型 性能达到现阶段世界模型全球 &nbsp;SOTA（最佳）Google Genie 3 的水平。 \n    视频模型继续保持领先地位， 探索“动态生成”等新方向。 \n    进一步打好&nbsp;Coding 的地基， 做好 Coding 的 Dogfooding（数据回流、评测，形成飞轮），提升 Agent 能力。 \n    豆包强化商业化能力， 重点场景是“办公”。 \n    字节的未竟之地：世界模型  \n   如今，字节的 AI 矩阵中，有让字节终于得以进入中国大模型第一梯队的 Seed 2.0，还有做到世界 SOTA 水平的 Seedance 2.0，另外在应用侧，豆包也形成了断层式领先—— 我们从多方了解到，2026 年春节过后，豆包&nbsp;DAU&nbsp;达到 2 亿 。 \n   “没有明显短板。”一名大厂 AI 战略如此评价字节的 AI 业务矩阵。 \n   但在一众模型中，唯独少了大模型"
+    },
+    {
+      "title": "打造国家级银发经济创新示范区：罗湖银发科技孵化加速中心招商进行中 - AgeClub",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1GLTBkRTFfbGFmVGE3UVk2UloycHJWc3QyVWVLS09JYjhkcm1EUmhEa2xCc0d1c2tSTjZiMk9TRkpMRV8zdXFLUkdfU2NUWFI4bHlTYmpB?oc=5",
+      "source": "爱老网 AgeClub",
+      "published": "2026-06-04 09:24 UTC",
+      "summary": "打造国家级银发经济创新示范区：罗湖银发科技孵化加速中心招商进行中 &nbsp;&nbsp; AgeClub"
+    },
+    {
+      "title": "人形机器人商业化前景全面研究报告 - AgeClub",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yX3dzaWxGVjA3WW5nMlI1UGVnZHczODJKQ0lXV2tnQklvUVVRX19feFc4cUUyUi11UUhJc0dIdmdCR1NDNzhDVUtpZmx2VDZBNFdyYXJR?oc=5",
+      "source": "爱老网 AgeClub",
+      "published": "2026-06-05 01:30 UTC",
+      "summary": "人形机器人商业化前景全面研究报告 &nbsp;&nbsp; AgeClub"
+    },
+    {
+      "title": "超5700万采购需求紧急释放，6月老年活动中心设施、居家养老服务等10大项目招标中 - AgeClub",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ocTVTcUVScUNJNjBvaTRvN184Z3VOWE1fTVNaNUZMZ1Z2REZZbUpFRkJsOENBcTZDcjZ5RkdIZ2hTb0Y3dkl2dkVTb0NudjNac2xiZEdB?oc=5",
+      "source": "爱老网 AgeClub",
+      "published": "2026-06-04 08:58 UTC",
+      "summary": "超5700万采购需求紧急释放，6月老年活动中心设施、居家养老服务等10大项目招标中 &nbsp;&nbsp; AgeClub"
+    },
+    {
+      "title": "比亚迪宣布入局人形机器人赛道 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPTjhxdllXWlhEZnY0ODBmZ192VE9pQlVWSmt2UG5jSFp0TkUtNW94Unlia1BxWkFGbDdxV1Q0a04xNW1zemM1ekp5eUZfaGc0UkRxbmViM2dNSUlsbkVHejE0S2ZvRFY2X2Q3QjlNMHhJdmg4Q3BPcmJJVGhGaFljbUpJNTVtVGdlRWxVWUp3Z0JlYnpRbkwwUA?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-05 02:54 UTC",
+      "summary": "比亚迪宣布入局人形机器人赛道 &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "比亚迪正式官宣入局人形机器人：代号\"尧舜禹\" - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZEVFUjRKZjFlSjNPM3lkZF9Uekt4UW5jMFMwamc5SURxWjNkWFNJZXhhT0xHV1RWaFNwMjIxQ1Fyc19PeGlabXNQZWF0V1diSUt1MkVuOC0xdTNFM3FKdkJEeElkTkdqWTVXUC1MS21McFU1RHRCWmRucHp6NEVnZUd4TzNPbEtJU2NDU1V4ODR4WE9VM3pNdWphc3VDcFVxSndOazE4dXFRQWw0YjFEdHAtc3NxR0xLRWVRV1BoOTUtYmFNNTZlczNHam1hRTBiWmRQZWw5OXVoWU1zcDRR?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-04 07:35 UTC",
+      "summary": "比亚迪正式官宣入局人形机器人：代号\"尧舜禹\" &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "我国科研团队取得人形机器人“关节”精密加工领域研究新进展 - 科学网—新闻",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0tM3JFUHNMbENaRURaSFlQWmIwRV85QlkxVzVYeHdadUNWVTQwWHRWUlBObVhkMVhwLXJ5eHUtLUpZNGtHQzFyVGU2UzZXdnY2OHBZT2JPc1lJNUo4U2tXSU1LbWM?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-04 09:04 UTC",
+      "summary": "我国科研团队取得人形机器人“关节”精密加工领域研究新进展 &nbsp;&nbsp; 科学网—新闻"
+    },
+    {
+      "title": "UT Austin朱玉可：人形机器人的数据困局怎么破？答案藏在「数据海绵」里 ｜ICRA 2026 - 雷峰网",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ydHNGTy1sWFBBN040TzN1TVE2djFvRDVWSjlQamFYaDVzWVB1Zzh0TlQ2QWFwMFAzNDFkVVR4V2lSTVFTMFVEUGZmYndRZ1p6MWpQTEZnZEp2UjNESXBYQ2I4MlBSaGhVS2c?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-04 07:08 UTC",
+      "summary": "UT Austin朱玉可：人形机器人的数据困局怎么破？答案藏在「数据海绵」里 ｜ICRA 2026 &nbsp;&nbsp; 雷峰网"
+    },
+    {
+      "title": "别急着担心失业，人形机器人距离全面\"上岗\"仍需数年 - 华尔街见闻",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBEV28xcmdHUE9DT041NEcxTU5RQ21XVXVuY1ZjODlWUkZoV0wzMDU2bkwwRlcxeUFEN0RMQnF6NHVSek43ZmpvUFVEZHpWbmdUODln?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-04 12:08 UTC",
+      "summary": "别急着担心失业，人形机器人距离全面\"上岗\"仍需数年 &nbsp;&nbsp; 华尔街见闻"
+    },
+    {
+      "title": "科技早报 | 人形机器人价格大跳水；分析师称苹果Vision Pro后续版本被砍 - Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tUGRqTFVLV0Vpd3NodUdiY2dDWVp6OU8wcll5TmxMWV8xbFdGako5QUwtZXZUcXFFU0UxcjM0a2llWHZfTGdQMkhMRkZsUHdnWFV4OC1BdVU?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-05 00:19 UTC",
+      "summary": "科技早报 | 人形机器人价格大跳水；分析师称苹果Vision Pro后续版本被砍 &nbsp;&nbsp; Jiemian.com"
+    },
+    {
+      "title": "首款全尺寸超仿生人形机器人启动预售 情感陪伴新选择 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95c1h1ckh4emd6dU9SUFZfVXRYSThacU16aTRhajhQZE1ydGk4NmlqZUhwNWxWOEZDOW5qWFBiRWhpRlFPRVhsWlV4dlNaUjhvMGhHUHBWWlpIVFhEVDVHbENnNVBiZ3Q1ZktfNDdueV8?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-04 09:17 UTC",
+      "summary": "首款全尺寸超仿生人形机器人启动预售 情感陪伴新选择 &nbsp;&nbsp; 中华网"
+    },
+    {
+      "title": "“机器人大战”开始了！全球首款全尺寸超仿生人形机器人启动预售 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSndvWU9oLWxPRWdfX0tJTXVRcnRnbjlqdFlXZXFiZnBVdzNydmJVWmxGemZmSmdzOUhDczdJdzkyNjB4V01NZW9SWm1zUHlkWTh2WlVFYnRpZzJqTkM2ZU83MlpoRHFkSEhKeTZTalNTUi1LTWdiV0gyZFZJTDh4b19yQTRsUzFNaXRrZVVSTndSYjNVb1Z4ODNJMVVIV2ljSHZSVjRvQQ?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-05 03:07 UTC",
+      "summary": "“机器人大战”开始了！全球首款全尺寸超仿生人形机器人启动预售 &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "赛博伴侣？首款全尺寸超仿生人形机器人启动预售：男版身高183cm，女版168cm，续航2~4小时，主打情感陪伴，定金3000元！ - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZEVaWTlybWNCa3ZZc1JhTVplUXBoYlhCVURyTHNRWUd3cVpxMGpKcXNKeFBrTVNrNWlsZkUwNTdacENKRWVsY1FYVUtILUp1UFFuQ1J5Y0tVQzFoQVFvMTNTVXNSRnBRY2lMdVRXSF9VRnVSOEt3NlhPSVo0VDNDYkFzWDR6MU1V?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-04 14:08 UTC",
+      "summary": "赛博伴侣？首款全尺寸超仿生人形机器人启动预售：男版身高183cm，女版168cm，续航2~4小时，主打情感陪伴，定金3000元！ &nbsp;&nbsp; 搜狐网"
+    },
+    {
+      "title": "消息称小鹏机器人核心产品一号位施晓鑫6月初主动离职 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTkt5dEhYOGNwTkRLd2kzZ1ZHMUxJQ0ZOQTdKc0MxSThXc0JsSldDODlTaVlNLTA0TTVLR3hTTjRUbzBRbGFhRlVkelIycFBDQTNHZkY4WGdQVFpzZkF4cVg2VHRqWG5HZXJNcnBhMXNwQ0hSM2ZjbV9OMVVnWldrdW9Fc3R3TGVM?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-05 01:49 UTC",
+      "summary": "消息称小鹏机器人核心产品一号位施晓鑫6月初主动离职 &nbsp;&nbsp; 搜狐网"
+    },
+    {
+      "title": "人形机器人价格大跳水！一年前近百万元 如今“5万元一车”打包清仓 - 驱动之家",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11UWFIanB4UUlpZkVpanBHS1FubG5NdHNjRXlLbjBUSlFJMG1KeGI0SWprSDNhXzhBMnZVQmpiZUpyZVZhM2dlV2kzdDNRSmVFOURLdFViRnY?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-04 06:50 UTC",
+      "summary": "人形机器人价格大跳水！一年前近百万元 如今“5万元一车”打包清仓 &nbsp;&nbsp; 驱动之家"
+    },
+    {
+      "title": "人形机器人集体降价：二手市场“5万元一车”清仓，消费级入门价跌破万元 - 电子工程专辑",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBjRG5sSGhzSUc3alBBU01JMlBoMUdRSXp3UHJwbkhFUEwwTkZudGx1SVdLNEpiM2JYVFlFUmVLQWFQM0VFVVp1TlplTmNnUXdSNFBDUWNTekJJZ0RS?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-05 01:33 UTC",
+      "summary": "人形机器人集体降价：二手市场“5万元一车”清仓，消费级入门价跌破万元 &nbsp;&nbsp; 电子工程专辑"
+    },
+    {
+      "title": "比亚迪官宣自研人形机器人，“尧舜禹”计划曝光：已秘密研发了4年 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAxT1AybDlQRlpKTTVfSk02cjBvRUVEOGZ4cmVCa21GcDZ5YWZHZTBxaHIwc2JrTGpRSFEwX2pLdnZiM3M5b19wQkF6Zzg1dw?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-05 03:26 UTC",
+      "summary": "比亚迪官宣自研人形机器人，“尧舜禹”计划曝光：已秘密研发了4年 &nbsp;&nbsp; 36 Kr"
+    },
+    {
+      "title": "比亚迪入局人形机器人：代号“尧舜禹”，以汽车工程基因重构具身智能量产路径 - 荣格工业传媒",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE80RFNpNkxKc2xnTDVRT05xZmVINFVSSmtFLW8tR3FGejhYWEJvTUpVdUwxeVVib21obGhyb2hyY3B4clVaXzhOa2ZlR2FaeklkWEd3N3lfdDBaUQ?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-05 02:52 UTC",
+      "summary": "比亚迪入局人形机器人：代号“尧舜禹”，以汽车工程基因重构具身智能量产路径 &nbsp;&nbsp; 荣格工业传媒"
+    },
+    {
+      "title": "英伟达“押注”宇树，业内预判将加速人形机器人产业升级、破解同质化内卷 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5zY1dPQ2lBSXlZSWQ4T0ZmUk5mbXNJYUd1T2cyY0t5cmpoMmljdlRESVkwRi1QYnJraUtNRkhna2hnWGg4RTFCRFRmTndVMFhpeExPV1FEXzc5a2ZUVkJ5cGJLZ3JaTGhqT0FNV0F3?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-05 02:14 UTC",
+      "summary": "英伟达“押注”宇树，业内预判将加速人形机器人产业升级、破解同质化内卷 &nbsp;&nbsp; 中华网"
+    },
+    {
+      "title": "入门级售价不足万元，人形机器人加速进家门？ - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTzE4T1F2SlpkZW9KaDl0OGEyVFFxbUdsZ2p3dDZ5SmY4eGh1VWtsOUtEb0RNSTJpamtZaTB0bm1zZ3BHLWhTQW54bDFLZVJMU2hrc1BKUUEwQ29xNmtfUVFtaUYtOFMwRHZ1dVpURkw2bmdxOFNlZXd2NWNTTmlLY1QtekZlMFNV?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-05 01:49 UTC",
+      "summary": "入门级售价不足万元，人形机器人加速进家门？ &nbsp;&nbsp; 搜狐网"
+    },
+    {
+      "title": "人形机器人售价大幅跳水，已出现万元以内机型 - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5sSVkxRHJINDJVYm5zWll0OEY4RUZ2Yl9RT0ZEN2xGU1Z0ZzlYbUpVS1R5bEZvZGlzcmlaZW51cWNVcUJndVBQM0JPSG5ZZGoxZk5VWVFwMjd6WUk?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-05 02:35 UTC",
+      "summary": "人形机器人售价大幅跳水，已出现万元以内机型 &nbsp;&nbsp; 汽车之家"
+    },
+    {
+      "title": "比亚迪自研人形机器人：团队超4000人、年内部署2万台！ - 电子工程专辑",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBpcnZEbnR6ZEpuakFjMlRJSl9JczdtWmpFNzhJTTZBWEtETU9WRThXNWYwZ3I4WmJKZC1TdWJVQnJPMGt5dDVhTXZfZ1Vqd3U0WTZv?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-04 12:52 UTC",
+      "summary": "比亚迪自研人形机器人：团队超4000人、年内部署2万台！ &nbsp;&nbsp; 电子工程专辑"
+    },
+    {
+      "title": "宇树发大招！给人形机器人装上风火轮，能走还能滑 - 雷科技",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE52ZkNuNU1uc2NZdEdKTEhLYm9EMk1NdzVCSG5RbGtXeWlrREptMDNsaE9KSnB0X2VvVjRKTUNqVU5jNEpUVkpnd2VSR2U5QQ?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-05 02:13 UTC",
+      "summary": "宇树发大招！给人形机器人装上风火轮，能走还能滑 &nbsp;&nbsp; 雷科技"
+    },
+    {
+      "title": "比亚迪首次官宣：入局人形机器人 - 电子工程专辑",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1RdHRjYXAwQW1YdjQwQkx6WHl5WEZXR3ZOb0w5NEZsUmg2aklIejljTHRnQlNIWUlrT3JDVGh5cTRMZHNHTmpyZFFQcXI3Y0FXQng0?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-04 10:30 UTC",
+      "summary": "比亚迪首次官宣：入局人形机器人 &nbsp;&nbsp; 电子工程专辑"
+    },
+    {
+      "title": "FF已完成Master人形机器人交付_车市动态 - 中金在线",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtNDNRWWI4VmdURzdYbks1dlRrajlhWjNLWEJlTkRSZmhwS1hKVnlqVEdKRW9fRnVtMVBxbnMtOFFhUlU1eEpPLUR0aHZ1T2ZRNDNBZ2VFei1udUoxYkMwd1U0ZW9jRVdORXRn?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-05 02:43 UTC",
+      "summary": "FF已完成Master人形机器人交付_车市动态 &nbsp;&nbsp; 中金在线"
+    },
+    {
+      "title": "家务“甩锅”成真：武汉免费发放100台人形机器人充电2小时能干7小时活- 湖北日报新闻客户端 - 湖北日报传媒集团",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5LcmRYbzdTU0tRWUlJbUtkMUd1ZUljYS1uZEZNZ1cyekhXelVEcTVnNmZjZ2N4RmZYcTF4R3RIaE1CVzQ3QlhOaTc3V2E4S2hpRlJfYVpFdFg?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-04 05:51 UTC",
+      "summary": "家务“甩锅”成真：武汉免费发放100台人形机器人充电2小时能干7小时活- 湖北日报新闻客户端 &nbsp;&nbsp; 湖北日报传媒集团"
+    },
+    {
+      "title": "英伟达首席执行官黄仁勋宣布：联手宇树打造1.8米人形机器人，英伟达提供“大脑”，宇树造“身体” - AgeClub",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyd2g5SmNfTGtWTk5RR2dzU3hpdzFQTzNwU2tvMHc5ZE0tTklyM0hmZGhWbGx5bjVPb1Nuam42TjBQdms3RHdiWmhzY012ZTVoSTNQcVNB?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-05 01:10 UTC",
+      "summary": "英伟达首席执行官黄仁勋宣布：联手宇树打造1.8米人形机器人，英伟达提供“大脑”，宇树造“身体” &nbsp;&nbsp; AgeClub"
+    },
+    {
+      "title": "赛博伴侣？首款全尺寸超仿生人形机器人启动预售：男版身高183cm，女版168cm，续航2~4小时，主打情感陪伴，定金3000元！背后公司股价上涨 - 每日经济新闻",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5fTDd0eWNqcHNLTlR2Z0xteXBYWUZHUy14RnphWlRGbUk3VzQzZUFCODZWUE5UUnFZU2NMMXFybVRPUUNXYWl3Vzk1TTFFZ1QtdTNYN1pESzh2aFJiU0dJdkM1SUpBUQ?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-04 07:03 UTC",
+      "summary": "赛博伴侣？首款全尺寸超仿生人形机器人启动预售：男版身高183cm，女版168cm，续航2~4小时，主打情感陪伴，定金3000元！背后公司股价上涨 &nbsp;&nbsp; 每日经济新闻"
+    },
+    {
+      "title": "小鹏机器人核心产品一号位施晓鑫6月初主动离职 - 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9yeDk4RVVoenVHR1A1RFhHblFzMHg0NEw4NVY3TU9KcHNCakZCdWhSdmI1VjMzX3lQZkxsRld5MVV6OVB0NHZ3RWFLUHdzVzV3Wk5VaGlFdVVVa3ZWR014Tk1B?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-05 01:16 UTC",
+      "summary": "小鹏机器人核心产品一号位施晓鑫6月初主动离职 &nbsp;&nbsp; 观点网"
+    },
+    {
+      "title": "小鹏机器人元老施晓鑫离职，新一代IRON人形机器人即将亮相 - 第一电动网",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yWFBVOGtDXzJlSDdsZGVhUExMbThELVpFUDZqN0p4QXp3OEpkZnJzaWVnTkVSSDV5YnBtb1NyNEdncVJWYndTS21MWVl6UQ?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-05 02:49 UTC",
+      "summary": "小鹏机器人元老施晓鑫离职，新一代IRON人形机器人即将亮相 &nbsp;&nbsp; 第一电动网"
+    },
+    {
+      "title": "人形机器人价格大跳水，不到1万即可入手，1年前花近百万元还得排队预购 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdm45aGQ2SGliT25wbUE0OUQwRmUyOUV4VkFTaGhvRHIwU2w5VVZlOURSWldJUzkyZjdIaHJFNnkzcDdMT2tWalBvZnlOaC1OdkNfOEhfQjk1d3FhZEVlNDliTmN6UEptWlprYTQ1RTBHc092NFF0emdycnVPV1N3MlVUZURaUXNRcWFLdw?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-04 14:09 UTC",
+      "summary": "人形机器人价格大跳水，不到1万即可入手，1年前花近百万元还得排队预购 &nbsp;&nbsp; 搜狐网"
+    },
+    {
+      "title": "消息称小鹏机器人核心产品一号位施晓鑫 6 月初主动离职 - Donews",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KWVFQbjdfaTJzMmtQeFVtaXBmR1IxcFVielVOeWdMaUh4LVdQTkJ1MlFWLUsyVnY0MkFwbXpqVG85aVBub2YweFJPdlMtNEFSRlFGNzhoTGM5N1ByX1E?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-05 02:19 UTC",
+      "summary": "消息称小鹏机器人核心产品一号位施晓鑫 6 月初主动离职 &nbsp;&nbsp; Donews"
+    },
+    {
+      "title": "比亚迪人形机器人要来了，将在4S门店销售 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mUXlubk85SGJWYW41YjM1bl91dWlHanpQTTVDbW9FVkV6NG5ZZjM4eUNyclpuWXA0aFlIdUxUMVlUQ0N5blZaeDNOaTdQUU82bkhyVUtHRWczSXZNM1lVeWo2N2NIRDVJQlo5WXFBWW1aSVZZdVE?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-04 10:54 UTC",
+      "summary": "比亚迪人形机器人要来了，将在4S门店销售 &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "【视频】曝小鹏人形机器人，产品一号位施晓鑫主动离职 - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Vck4xdEJqRTlNdXZQcGx0WUhPVmtfWTBmeHhOX0pRRXdDTjdGV2FRdHlpblFIUkV3Y3I0OWNLNm1qeEtGZ1U1Ykd0Wkw1c0g5RnJoM2NKUzJVZUU?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-05 02:53 UTC",
+      "summary": "【视频】曝小鹏人形机器人，产品一号位施晓鑫主动离职 &nbsp;&nbsp; 汽车之家"
+    },
+    {
+      "title": "证券日报：比亚迪正在开发人形机器人 - video.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdzVEVkZXZkpLcW1uQ1k2bjFZYmg2a2lVSTBiVVA1UmVTQng5WkV4c1VzTjI0c2hrZm52YmV0clJHOE1ZNEI2NlhGZnpuN1BXWHRVNkxkMUhlcm8yTThjXzlxdVlXa1BTZnlxdkkxTzU5MmQ0amMtWHpPZk1mUGktdGRB?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-04 23:48 UTC",
+      "summary": "证券日报：比亚迪正在开发人形机器人 &nbsp;&nbsp; video.sina.com.cn"
+    },
+    {
+      "title": "比亚迪、京东参投，传人形机器人公司帕西尼拟赴港IPO_车市动态 - 中金在线",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1FZ0w0Sk4wcmJXUmVITVJmbXZESHU2WW0xeTh6cFlvUmh4dm5oTEFJX1J5am1VR2hJajlQU3BMbTRrQV9mcUFRMTJzdmlWb2tXcm9yb3NxS1dKU3d6bTR4S3YtN2V0Tzl1SXNr?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-04 10:26 UTC",
+      "summary": "比亚迪、京东参投，传人形机器人公司帕西尼拟赴港IPO_车市动态 &nbsp;&nbsp; 中金在线"
+    },
+    {
+      "title": "比亚迪确认自研人形机器人 成熟后走向4S店全网开售 - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9hVzJhQkVueFBhb2FwckZ2RHVFRVRrSk05YXJ4QmtXcHRWa0wtV2RCNWxsUnB5ZER3SjZ0VWtFRnZTUl83SXpkMVkybUQxMkRFa3U0bFdPT21fUUJIYnlqbTRfbUJGclc1bE1Ra3hfSFlhNC1nM3BjQTV2eEYzYU0?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-04 05:33 UTC",
+      "summary": "比亚迪确认自研人形机器人 成熟后走向4S店全网开售 &nbsp;&nbsp; 新浪新闻_手机新浪网"
+    },
+    {
+      "title": "人形机器人集体大降价#机器人 - 财富号",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FZXg2TFRneXlIekJUQ3ZKdWQzMUdkZmFtY3dmSkxYeUN2aWtiNGluS2Z5cjFqcVNTQlcyR3RoOFhUM0ZWRE1IV0VhMEVRSk9na2s5ckdDaFZHOTJJR3R6akRnal8yV0RkNnNz?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-04 10:15 UTC",
+      "summary": "人形机器人集体大降价#机器人 &nbsp;&nbsp; 财富号"
+    },
+    {
+      "title": "量产前夕，国内外巨头齐聚人形机器人赛道，布局机器人ETF景顺(159559)及联接基金分享产业爆发红利 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GVHNUeFpLNnF5S0xmOWlLZDRZMVhfSzFDTWU3UlNfOVdZcGxDNThNLUE0d25KZDBjQ2l2WU9qaXVjNzNnbm9QRThQcEVHeWZBd1gtVUM3Q1RJdU1OMUp4UE83dTYzSXdXVWVjY3NtNA?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-04 07:42 UTC",
+      "summary": "量产前夕，国内外巨头齐聚人形机器人赛道，布局机器人ETF景顺(159559)及联接基金分享产业爆发红利 &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "杨德龙：人形机器人是长坡厚雪的产业机会 重点布局产业链上的“卖铲人” - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMjRDSU11dldhMmZGUXFXU01WRzNWUjhtX1E3c241Vk5TcWVEQlAtUkpjalR5MkNuaFQ5elYwRW9ZQzJ1N1libC1QR0d3MFdGRnRua2RUSTZ1dDJ4OFJfUVdfNUhGRThHQUpqYUFaaGxUaUhhcUlWa05LMHRyV2VYZm4wZUJ1TWFHMUQtLVZydw?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-04 05:12 UTC",
+      "summary": "杨德龙：人形机器人是长坡厚雪的产业机会 重点布局产业链上的“卖铲人” &nbsp;&nbsp; 21财经"
+    },
+    {
+      "title": "比亚迪开发人形机器人_新浪新闻 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SUGN4RU1vbWhORUFKc09VYXJUUDRTOXpWT1VjMnpnYVllZWRKU0ZMQkh2Q21wUlIwekIzRE1wSUliVmhVTHd4VENlbEdHNGozRG81a1FBcmZnWU5YbkZ2eTJEdw?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-05 00:38 UTC",
+      "summary": "比亚迪开发人形机器人_新浪新闻 &nbsp;&nbsp; 手机新浪网"
+    },
+    {
+      "title": "比亚迪官宣入局人形机器人领域 布局开放合作生态 - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1abnJoQXFkeElES2VpMGdSZFRuQ1U5STRXQkFEYnFNQTlnWC13RnllV2hScWtCWTJSeU5fUjhDRW1VLU1PYnpQUkoxRUNaQm9vRGx4WVVoZ0I4Q3c?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-04 10:37 UTC",
+      "summary": "比亚迪官宣入局人形机器人领域 布局开放合作生态 &nbsp;&nbsp; 汽车之家"
+    },
+    {
+      "title": "全维度拆解具身智能：底层技术 + 实战落地+ 全球产业竞争 - 电子工程专辑",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE52c212SFVDb0xKQVhpdUJuNW5FRG5fX0RzZkZhcWZHMXl0Yjd3Y1ZwSXpicU85QTNGa2YtdllYSmxDeGtmZFIzUDExVVNFM0VpX084?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-05 01:53 UTC",
+      "summary": "全维度拆解具身智能：底层技术 + 实战落地+ 全球产业竞争 &nbsp;&nbsp; 电子工程专辑"
+    },
+    {
+      "title": "百亿估值！比亚迪、京东加持的人形机器人黑马，帕西尼拟冲刺港股IPO - 电子工程专辑",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE15czBkazgweFV1aG9wRmdDeVh6bS1KTGVvM00zcElYd1hLaHVQRWhYdk5YMUo4bWlISWUwSmgzcUlNeF9ROEZvZGRIaDA0Vmtsd3dF?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-04 03:35 UTC",
+      "summary": "百亿估值！比亚迪、京东加持的人形机器人黑马，帕西尼拟冲刺港股IPO &nbsp;&nbsp; 电子工程专辑"
+    },
+    {
+      "title": "比亚迪确认入局人形机器人 - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TWVljUmx2cDFoUGozSnZSTDR4YnY0bVROeTQwdk52LTBvZVhTc1E1MkZkaTdiSmFJOTZnTm1RT1MzdXhxbnVQTFVwcnFySmtPQjFtNktPZTRUam8?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-04 14:22 UTC",
+      "summary": "比亚迪确认入局人形机器人 &nbsp;&nbsp; 汽车之家"
+    },
+    {
+      "title": "自家工厂先打工！比亚迪官宣自研人形机器人，代号“尧舜禹” - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wOUFKeldXcW5jZjYyRGtnUWFxaGxjWkg5bk5RNVNuOS1KS2FValEzeEtPR2dITTJPNHprQl9WcTRGWDJsUDVFUC04NGJQUnY2QVMwcVExWmdTckE?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-04 11:36 UTC",
+      "summary": "自家工厂先打工！比亚迪官宣自研人形机器人，代号“尧舜禹” &nbsp;&nbsp; 汽车之家"
+    },
+    {
+      "title": "比亚迪披露人形机器人战略，未来将依托4S门店全渠道开售 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZzBVOEFiMm9vRlp4RzVMQjZIUzdvX3YwX3VfeFEyT1M3cXllYllTWWNXeW5FckdGV2ZhMnJIZ01SZl9NZE05RnBOU1dPQUp0b2trak9VZjRua1NncXZXSGNkNFpreFhiZDJ5NGtScXY4b2hoUDFncWhpbmNxU3RtRjJEYTFUcnBTQVFJemZsRl9zTjRCU2czeHNzQmVoeU5PWU9IcXh5c2I2QWZqT1lkcGl3?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-04 03:46 UTC",
+      "summary": "比亚迪披露人形机器人战略，未来将依托4S门店全渠道开售 &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "【视频】比亚迪也入局人形机器人，有得天独厚的条件？ - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1KNlVVTFFDbm1pbGR1aERGc0tCQTZFU2JVbjRwNEJkLWw1UHdSSTdaa1c3U291ZEVTVExqQUtWb2FkMFdOc3ZQTWNKN2wxajNud2hQdW9iWlhBb28?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-04 09:01 UTC",
+      "summary": "【视频】比亚迪也入局人形机器人，有得天独厚的条件？ &nbsp;&nbsp; 汽车之家"
+    },
+    {
+      "title": "比亚迪或将入局人形机器人 - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1c0trSmxBQmpzRDYyZWFLanJjV21yOEYzY090RF9LeV9DNDItT0UybXpPdlRYeGlIT0MxaW9YY3lOY1BYTUY1c2wxZXdESFFWRGR2QVFQU2IycjQ?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-04 06:03 UTC",
+      "summary": "比亚迪或将入局人形机器人 &nbsp;&nbsp; 汽车之家"
+    },
+    {
+      "title": "比亚迪入局人形机器人：汽车软件移植到机器人很容易 - 证券时报",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE13Y2FfRzZ2dG83eDRxRnhxOHRYcVZxckxkOExBZE5VYXE3TjBlaWNIcVBzVEU2UHJkV1dvc2MtQlVPSFE4clFraHEyY1BsUUQ0Mzhtc0t0Qzh5c3QyR2c?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-04 02:26 UTC",
+      "summary": "比亚迪入局人形机器人：汽车软件移植到机器人很容易 &nbsp;&nbsp; 证券时报"
+    },
+    {
+      "title": "6月4日世运电路涨停：PCB板，人形机器人，智能眼镜/MR头显概念热股_个股掘金 - 证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5pdGdEendmS1luWGpsSjVLTFg5VW1GWkwxZGptYnk2VDlTN0RkSWJwRUFyNWt0WUR6RU9QZDZqTzVWMkhjLXNNMGg2bXVLSFY1RFhHV0hreC1sbU9RRWJWV1ZR?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-04 08:30 UTC",
+      "summary": "6月4日世运电路涨停：PCB板，人形机器人，智能眼镜/MR头显概念热股_个股掘金 &nbsp;&nbsp; 证券之星"
+    },
+    {
+      "title": "这家机器人公司拟向俄乌战场部署人形机器人士兵 - RFID世界网",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Dc3hZRWVDYmZ1RjQ4VExxa1RKWVBNZ0R1T2dQQ3U0elJsOWlZSlVhWXAtX1JrcWFaVE14MUtoSks5ZTYyekZDQ1N6S09kS2M4NTNHbEdOUWFMSWt6N3ZTb1dyaTN1VXZGd2cwWQ?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-04 03:18 UTC",
+      "summary": "这家机器人公司拟向俄乌战场部署人形机器人士兵 &nbsp;&nbsp; RFID世界网"
+    },
+    {
+      "title": "#打卡杭州赛博风景线机器人交警、人形机器人店员、公园智能灭蚊机、智能穿戴设备…科技成了杭州\"人工智能第一城\"最日常的风景。 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOWVV4WHQ4RzAwTllGZy1tbjRBQXU3UEE0QXlpczF1dkFIUnRqaHFDNGRzemlaLWRpcE5PbVlXRVp1eGJCdjlDMnhUTDhWdDZtWVgxZWRMSlV2OW5ZZEp0TlM5WV9wa1VhMFVPbFNDczloS1RaZlotaFY4Sl94anNRVEQ5Q2xVeGh6dXhjYnhKSFdrSVJPdy11aW9UYTBmUVF1alhvMW9UUXk1WUN2NEFVTm9yVQ?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-06-04 03:54 UTC",
+      "summary": "#打卡杭州赛博风景线机器人交警、人形机器人店员、公园智能灭蚊机、智能穿戴设备…科技成了杭州\"人工智能第一城\"最日常的风景。 &nbsp;&nbsp; 东方财富"
+    },
+    {
+      "title": "科技show场 | 2026BCS具身智能安全论坛：机器人的命门，不在AI，在安全 - eeo.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBVVWZDV2Z4azdEYk01M1NSOHhmU0p1VUZzN3R1QklidWZGRkg1aC1iTXZUdmdjbFhGQUFGc2lRWHFCNjNWNDRfMFVxWkRMY25XMi1KRGlsVXc?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-06-04 10:08 UTC",
+      "summary": "科技show场 | 2026BCS具身智能安全论坛：机器人的命门，不在AI，在安全 &nbsp;&nbsp; eeo.com.cn"
+    },
+    {
+      "title": "浙江省人民医院成立“双创中心”推进具身智能医疗机器人体系建设 - hznews.hangzhou.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQT2NNWmQ2N3NtSUtOWlpRTVBDX3B5c1pMT3prZ3p1R1VCSXA1dE9XQnU0c2dBUDZYTlA2MEVwRUF4cks3TXFsUFc0TE5PMXZYRmR3cUxHcEpjWHVVZGVSY0IwMGd4Qy1Db3NVNnJMX2pVdUVBNkJQTUZNazBjc0wwTC13?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-06-04 23:23 UTC",
+      "summary": "浙江省人民医院成立“双创中心”推进具身智能医疗机器人体系建设 &nbsp;&nbsp; hznews.hangzhou.com.cn"
+    },
+    {
+      "title": "它石智航亮相国际机器人与自动化会议|具身智能|奥地利|数据|模型|学术_手机新浪网 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZnc0MXVTQUU2Mlp1V19iTEZHcml2eGJLMUlSekh2eXQ0MmtKRktwNnF4RnhxS0o2d1gtRjJEM2pGd0poU2JIS205MkZmV1pzM2FZVE1OS3ZsUGJ6anFEWms1bjZYWklXNWFmTkxjaWdoRkdUNXNOeWJfR0Y2bVZFYm9KNE9ZUDZRcVRTei15akxxMmkxRnJ2MExzMEllUGNRSFc2TTVLNUh6ajRQZXNxazJ3?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-06-05 02:23 UTC",
+      "summary": "它石智航亮相国际机器人与自动化会议|具身智能|奥地利|数据|模型|学术_手机新浪网 &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "首钢园冬奥广场具身智能生态基地在京揭牌 - bj.chinanews.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PT2JITTRHMWxxTlQ1T280Si1ER3BMZUZUZW9kYzNobnoxQ1lfVk5TVDRpWnVhODRuX0dGbTVjYldFM1M1QVo0Zmtrd04wZzFKazhUOF9fUi1hQnFLcVhQWXZzTHo1MmVf?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-06-04 13:21 UTC",
+      "summary": "首钢园冬奥广场具身智能生态基地在京揭牌 &nbsp;&nbsp; bj.chinanews.com.cn"
+    },
+    {
+      "title": "华为云发布全流程具身智能开发平台CloudRobo，将于6月30日公测 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPSDR3UzBBX0ZzZEU2N2VMOHRnZzhBNkhOVzBsQU9ZQTc5VzlXODROUWQ0eVA5R3N2bk50Ym5ra3UzOVp0MHhGUmpDRWhoc3g4aFZQRGtZM2xWejZTaUJNV3VlMzFMU1YxdlEwVWJpRE0tT2xOMmhoZGxSeHdMejVOU21B?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-06-05 03:16 UTC",
+      "summary": "华为云发布全流程具身智能开发平台CloudRobo，将于6月30日公测 &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "博登智能赵捷：打造Physical AI基建 推动数据服务产业价值升维|连线创始人 - 财联社",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB5eWh0ZDExckNVOWx4NFNJNlY3MTlwVHBnWmp2emJCTnJPYkpnNlR0M3ZNaEVrakdub2VFUGZjd0JRQkkycjZZLQ?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-06-05 03:10 UTC",
+      "summary": "博登智能赵捷：打造Physical AI基建 推动数据服务产业价值升维|连线创始人 &nbsp;&nbsp; 财联社"
+    },
+    {
+      "title": "5月具身智能融资：喧嚣回落，量产提速 - 盖世汽车社区",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1MRVlCTTl5RWc2NmE5SDdOUktVd05OczlGZFlrWWQwYVRXa0NEenkxNlZWdW5ZNm12M0dtOHVsZXkwSnoyV2dxWlVrV0QwT3dD?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-06-05 01:07 UTC",
+      "summary": "5月具身智能融资：喧嚣回落，量产提速 &nbsp;&nbsp; 盖世汽车社区"
+    },
+    {
+      "title": "量化派附属与北京瑞宏签署战略合作框架协议 布局全场景具身智能机器人商业化落地 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPd2hzekZVWHRORVU0TVVYclB5T0VpNkNlaUNpSWRCYXY5alpsWHVidWhFb3BENG54QVVwMjVmMVdDOV84WnVOUWtIV0J1dHkwX0Q2OU1ycXJUR3lUaVMzZV9jcEtJUXVnLV9WRlpCVGpQaTExdXdYWVN2S3V4Z3AtX1ktaVhiMlZzNUpQVzBB?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-06-05 00:57 UTC",
+      "summary": "量化派附属与北京瑞宏签署战略合作框架协议 布局全场景具身智能机器人商业化落地 &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "追觅系NAVO完成数千万元Pre-A+轮融资：用摄像头撬动具身智能赛道估值 - AgeClub",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB3VENrNF85REFXTG1oU0Z4WmUtRnFpSlo5RHdLMERmXzFCNlh0c2U3dGhWaUIzZlU2QTE3NHVoamZxcTFybzRvSGJySjRJTXZwQ21qTkhR?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-06-05 01:10 UTC",
+      "summary": "追觅系NAVO完成数千万元Pre-A+轮融资：用摄像头撬动具身智能赛道估值 &nbsp;&nbsp; AgeClub"
+    },
+    {
+      "title": "一根绳子撑起百亿具身智能公司，凭什么让资本连投三轮超10亿？ - 机器人大讲堂",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE44WEQ1RDFKMElSclBZTllPdlA5UlhOTjJjWWtwR0diZ3dubUI3ZzNORjVwV05UdE84T0VjdEF4akVySklEUVFObUdhbnA?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-06-04 13:53 UTC",
+      "summary": "一根绳子撑起百亿具身智能公司，凭什么让资本连投三轮超10亿？ &nbsp;&nbsp; 机器人大讲堂"
+    },
+    {
+      "title": "融资丨清研精准完成数亿元B2轮融资，全面跃升“物理AI工程化底座”，深度布局具身智能 - 创业邦",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE02bVpnUEJVNDJoZmxXOUE4SEtFZnd1TXlzQ3FCVDFKWFgzdnhydlRMajVEcVpkcG9CTEdTanQ0TDl3NnNvREhYMnI5VTAzTjFR?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-06-05 02:55 UTC",
+      "summary": "融资丨清研精准完成数亿元B2轮融资，全面跃升“物理AI工程化底座”，深度布局具身智能 &nbsp;&nbsp; 创业邦"
+    },
+    {
+      "title": "博银合创推进工业具身智能进入真实工厂，加速落地交付 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSkFvN0F5TE1KZ0h3dDZsYkRtMUxIb0dpOTRlSl9MQjdJMjh5VGhKWGRwUG90eHA4VW1OYS1lemllU1IxVXJZbENvSkV3SFZ3SFpJenFlX0p1YjFyZUtadldFT3V4U0FKeUV5N3NaUlBWS3pTMm5WbmVUSHVabGU5U0pDa1JwOE5D?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-06-05 02:23 UTC",
+      "summary": "博银合创推进工业具身智能进入真实工厂，加速落地交付 &nbsp;&nbsp; 搜狐网"
+    },
+    {
+      "title": "完美收官！EVH2026中国国际具身智能机器人产业大会于5月27日在深圳圆满落幕 - 电子工程专辑",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ZZVVyMlR4WWgzTG9meDFHT2dWUmNIZ21qM3M4eWxlOXBOMUs5YktEOEFPbXRTci0ySlF3U0hZcGpsOXlpdzVJQnRUQWp5alhlODVJ?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-06-04 03:20 UTC",
+      "summary": "完美收官！EVH2026中国国际具身智能机器人产业大会于5月27日在深圳圆满落幕 &nbsp;&nbsp; 电子工程专辑"
+    },
+    {
+      "title": "支持智元机器人出海！中国信保承保首单具身机器人出口信用保险 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONWNHV1E1OUl1VkJBcFFrSlp1ckhzbjdRSG1EczJzdjJoRVNqYnZhY0Q2QXJwVXlDU0g1X3VTejdjd2ZWZmlUQkp2TFFWNEFFV1NxR1NjdGdkZ3Q5SGRvOW5rcXM3Zll4NlRheTdYZy1nQ1ZUU0JzSmIwZzRFdGkzT0pqVmRMR2xLUFhRZQ?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-06-05 02:05 UTC",
+      "summary": "支持智元机器人出海！中国信保承保首单具身机器人出口信用保险 &nbsp;&nbsp; 搜狐网"
+    },
+    {
+      "title": "宝安区科技创新局相关负责人做客央视财经节目，详解宝安如何加码具身智能 - sz.gov.cn",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1FRDZuTFlDbm1lNU5xMHREN1pramhyay00TEVud3hOZ0g0aWkxQnlQUWp6TDNFeW5Ycld1aEpuTnlmc0RhWVk2T0FhSWx2bVVvQzAzcG9jaVVKT21xdmc5ckV4VXU1cUNxakhZckQxSW5rWWsyS2VB?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-06-04 02:08 UTC",
+      "summary": "宝安区科技创新局相关负责人做客央视财经节目，详解宝安如何加码具身智能 &nbsp;&nbsp; sz.gov.cn"
+    },
+    {
+      "title": "具身智能投资价值重估：头部企业融资量产提速 优艾智合加速资本化布局 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9JSm5odzJSU3FMbWVxNlI0WEZwQU1xN0RJd0o3cnJIa3VSdEttb3dsZzlZcFpjMDJTelVDYmF2aG1tWUQ3bjBDUDJob2cxWU1uZWVxUzFGVmRTaXNhaXBrcnd3NmRMT1pNZzVIcQ?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-06-05 03:18 UTC",
+      "summary": "具身智能投资价值重估：头部企业融资量产提速 优艾智合加速资本化布局 &nbsp;&nbsp; 中华网"
+    },
+    {
+      "title": "华为云发布全球首个全流程具身智能开发平台CloudRobo - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBRUVF5T2tfZzVHd0lFQUo2S2xFMTNVVGFqeXBDV0FOTHpMTHdmQmhSWjZuUXZuSnpxQUUyT0lYeDI1MTJ0eVJEUDdJMA?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-06-05 03:30 UTC",
+      "summary": "华为云发布全球首个全流程具身智能开发平台CloudRobo &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "2026上海复兴岛具身智能实景空间实验实训实测平台春训营开营 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92QmNaTDE5aEdpMU51eGcwTW5WOW5iQ3dseGJCTWlTLU04TjE1M0FlWVM5OF9FYzVxRkZtenVLZE01bTdkdzlIOVNMZFVvQ3Y1X2RTcV90N3hXd0F0ZGhTQlJUMFRhdVlKQkprN2tkR0xQX2lTczBwag?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-06-04 15:30 UTC",
+      "summary": "2026上海复兴岛具身智能实景空间实验实训实测平台春训营开营 &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "“具身智能” + “数字孪生”｜申昊科技助力中核集团核电变电站迈入智慧值守新时代 - 同花顺财经",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9lRHRTX001SUlVMklDYXBoY0hadTZQaXBobFkwRjlTRkx1UjdmcGw1TGdaVm1WNnFFSjNXLTl1ZWNnaFZSZFVjZzJmbHNrYUFrWW5RTHF5MmdoVi15OXc?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-06-04 11:04 UTC",
+      "summary": "“具身智能” + “数字孪生”｜申昊科技助力中核集团核电变电站迈入智慧值守新时代 &nbsp;&nbsp; 同花顺财经"
+    },
+    {
+      "title": "具身智能搅动百亿融资，但这其实不是新概念了？_精彩视频为您呈现_36氪 - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vMzNyX2ZKeVRJUWM1N0tZbG5KcWpRemdWVXpWeXFlQ0Y1UXRxR1ZXY0F4ZFRsY2FvaVYyc1dNSUFtd1pjaEZMeFZsdG5YU094MHIzeFN3?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-06-04 13:35 UTC",
+      "summary": "具身智能搅动百亿融资，但这其实不是新概念了？_精彩视频为您呈现_36氪 &nbsp;&nbsp; 36 Kr"
+    },
+    {
+      "title": "融资丨深创投领投！具身智能赛道再添独角兽潜力股，指尖智擎完成Pre-A轮融资 - 创业邦",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE01SFFFS0g2WGlrRUt6eVhPdDlNMjlla1J6WF9qcWtrQXJQMGR3RXJPeDAtaHFWWmdHS05Lei1laW44X2wyWjhPWmx0OFhUcEV0?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-06-04 07:41 UTC",
+      "summary": "融资丨深创投领投！具身智能赛道再添独角兽潜力股，指尖智擎完成Pre-A轮融资 &nbsp;&nbsp; 创业邦"
+    },
+    {
+      "title": "融资总额763.80亿元，Agentic AI与具身智能成核心主线丨2026Q1 AI产业观察报告 - 创业邦",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBaNVdhend4Tklqdmk3bFN1QzJ2NlppQ2h5NmwyM0V1Ul82NXRBOFFkWllOUWZCb3R5TFFtVVVQamhnZkdNVWo5RGJwZ2ctZDct?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-06-04 06:55 UTC",
+      "summary": "融资总额763.80亿元，Agentic AI与具身智能成核心主线丨2026Q1 AI产业观察报告 &nbsp;&nbsp; 创业邦"
+    },
+    {
+      "title": "宇树科技：机器人将如何改变未来生活 - 中国日报网",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE40WUpfd2dxajBVRmo1TXhVLXNnamRVbmd2aml4OThkVk53LWF5MjI2QlZHLTVqNDh3UE10d0wwV041dm9TZUJuYUxKS1JHbzhRQzFYMDRfRHAySzlpME5yQ2Y4NHhhYlR0ZFBRakZaMWNpZ1RiMzczNWtCOA?oc=5",
+      "source": "Google News: 宇树优必选傅利叶智元",
+      "published": "2026-06-05 03:26 UTC",
+      "summary": "宇树科技：机器人将如何改变未来生活 &nbsp;&nbsp; 中国日报网"
+    },
+    {
+      "title": "中国小伙携宇树机器人登上《美国达人秀》，现场画面燃爆！全票通过晋级 - 新蓝网",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9oUkJqdkZxbGhhcjhfVC1id0p4SHVyM21OaFRnN19GZ2c0QXZqRkV0WjlYVUpmTkV5N1pMak9rWmw5QUVPZTdLbnBVYkF6cnM?oc=5",
+      "source": "Google News: 宇树优必选傅利叶智元",
+      "published": "2026-06-04 13:37 UTC",
+      "summary": "中国小伙携宇树机器人登上《美国达人秀》，现场画面燃爆！全票通过晋级 &nbsp;&nbsp; 新蓝网"
+    },
+    {
+      "title": "国际｜中国小伙带宇树机器人登美国节目人机共舞 评委惊叹 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBPb3Jzc1JCcDNtWEx4RnBBQ3ZucHpuUkFLR25ybUhBTjNQdU5neE9hT2FDcWZfMnVxN0ZLTmJpdFh1X05MWm9kTy1fcmZ3X24yN1BmYkZYYVpTTWVGRkRkMWxPck0?oc=5",
+      "source": "Google News: 宇树优必选傅利叶智元",
+      "published": "2026-06-04 05:24 UTC",
+      "summary": "国际｜中国小伙带宇树机器人登美国节目人机共舞 评委惊叹 &nbsp;&nbsp; 新京报"
+    },
+    {
+      "title": "智元机器人线下首店将于6月13日登陆京东MALL上海店 - 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE40aE40QVRtcXJYNDBKN0FrWmxhTTBPMHdrUGN0N0V1V2RkM0NFVHFIWjA4WDNYdHZ4aWNjUkl3aFdHOHlIYVhXcXp6RXZ2QlZxU2FsNG9zSnl1T3gzMDFuSlR3?oc=5",
+      "source": "Google News: 宇树优必选傅利叶智元",
+      "published": "2026-06-04 07:32 UTC",
+      "summary": "智元机器人线下首店将于6月13日登陆京东MALL上海店 &nbsp;&nbsp; 观点网"
+    },
+    {
+      "title": "宇树73天闪电过会背后：美团8年硬科技布局或成最大赢家，押注物理AI万亿新赛道 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCbEJuSzB0bXlJR0t0Yk9DZ19PRDhQRnZMdzRpLUVCU1BrVnJxOVY3OXF0Z0tzNWRDdzNmZkF4TXhNV2J5eDlzc3ZsLTVZMWVwdlRocUJfWEpTSEpkZEs0TlctQzhCZw?oc=5",
+      "source": "Google News: 宇树优必选傅利叶智元",
+      "published": "2026-06-04 10:42 UTC",
+      "summary": "宇树73天闪电过会背后：美团8年硬科技布局或成最大赢家，押注物理AI万亿新赛道 &nbsp;&nbsp; 东方财富"
+    },
+    {
+      "title": "宇树科技背后的四川资本，藏不住了 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE96dGtxeW9FWG1hZTh0ZGEzUnBoMEtzbkM4LXJtdHlPZlVKQkp0aFNjTmNFSWVwVEdCUmNMTTFNUWJrc0twczZmM04wbDJpNW04U1JvTHhkMXdlX3VkYk9nRF9iQzlZMl9TWjRTTEVR?oc=5",
+      "source": "Google News: 宇树优必选傅利叶智元",
+      "published": "2026-06-05 02:33 UTC",
+      "summary": "宇树科技背后的四川资本，藏不住了 &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "宇树“闪电过会”并联手黄仁勋，146亿王兴兴难挡业绩放缓？ - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPWGN2dmZqTVpjSkVSbFlpQnpwbGZ3S3BfZnVNemtzVWxxc1hsTDFHTHpRM0F0QkpVYURCcVhQdVVGM25xelZHak96eEdYTTdWX1JLNG5OaHdYU051cmhqMmhIOHZpMzdNaHczdTRoY0FmU1FtWk42ZTRGdnN5SFRlT05EaUtocW4wMVRWcldOSTg0b050M0UyY2tScGJjbkhuTlMteFJzUnRrUnZsR01rRTNLM3I1WDRlem8xYmc5YXRJZDJlNVQ1aEtqSUNyUlFid3g3UDVkQ3JwOWpZTDVSVm5qZmtMemZlVy1SZ2xBNnhnMVlfcmFNaTdZUnNGTEFqMC1YbzF3Vm92QVRLLVlpN1RKT2J4SnJ1ZTJvcXZTWnFySWR4RmFFa1BXVm1OeEFXbWdzZzB3dnBMOXhJOUxTbW5FclRsSnZmNlQtcUJBNHA5VS1ZTzA4MHpxRGRiRWxxU3A1dW9QVQ?oc=5",
+      "source": "Google News: 宇树优必选傅利叶智元",
+      "published": "2026-06-04 02:05 UTC",
+      "summary": "宇树“闪电过会”并联手黄仁勋，146亿王兴兴难挡业绩放缓？ &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "宇树和英伟达的这次合作，是“身体”与“大脑”的理性结合 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNNXhNMDZQT3hYeUlmdUNQMnZmSzlEUlB2T3YxTmpuTnQxa05kcG9wSjNfa2oySlpDel9JNGdCQWt4Q3ZiXzl4emtBN29Yb3Y4Zmx3UWRuaGxVOEEwbkFrYnNNbUVJVnZ3VkNyN0pqbkoyZzVsaFJYTGhWN05vRlBmWW5nbzhSNXll?oc=5",
+      "source": "Google News: 宇树优必选傅利叶智元",
+      "published": "2026-06-05 02:45 UTC",
+      "summary": "宇树和英伟达的这次合作，是“身体”与“大脑”的理性结合 &nbsp;&nbsp; 搜狐网"
+    },
+    {
+      "title": "实益达：子公司间接持有宇树科技股份有限公司约0.01%股权 - capwhale.com",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ3I4REdUTjF0VTROSXFUMkxSbDgydzNhY1QtNFlpX0dWeXgwZHVRUVhpZUd3Y3hZMmFoY09HUHkzaml2YUE4Y0h2SjdsWEdhV1hxZnZIaXBmWjJ6QkZGS1haa1RtWjFhUEZkdWtHWUcxMjhONG13MWNudlFpWWpGbHYzbUhXaFhzN0gzc01FRmttdw?oc=5",
+      "source": "Google News: 宇树优必选傅利叶智元",
+      "published": "2026-06-05 02:18 UTC",
+      "summary": "实益达：子公司间接持有宇树科技股份有限公司约0.01%股权 &nbsp;&nbsp; capwhale.com"
+    },
+    {
+      "title": "73天420亿元和一份被改了五处的风险提示：宇树过会后的“反直觉二阶投资法” - OR新媒体",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9OV3RMbmVfRXNfNVhEd3psTmxrWGczYU9iYmExNXdrZVhVZXBuXzNnc3AzWTdpZVVtOHVnMzUwTDF5TWti?oc=5",
+      "source": "Google News: 宇树优必选傅利叶智元",
+      "published": "2026-06-04 23:52 UTC",
+      "summary": "73天420亿元和一份被改了五处的风险提示：宇树过会后的“反直觉二阶投资法” &nbsp;&nbsp; OR新媒体"
+    },
+    {
+      "title": "人形机器人价格大跳水！一年前花近百万元还得排队预购，如今“5万元一车”打包清仓，网友：我要下手了 - 新华报业网",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9YZEM3YWhIR1lNQThPZTlCcFZpTW1FaEFCemVneUR1cWJxYU04VUFkUThvUU5Sd3o0UXhob1JMZVVjVkRtTVlFRERHTk95Y3lrS2kzbEFRVFEyUG80NE41ajNKeFQzZTZVSlFz?oc=5",
+      "source": "Google News: 宇树优必选傅利叶智元",
+      "published": "2026-06-04 07:43 UTC",
+      "summary": "人形机器人价格大跳水！一年前花近百万元还得排队预购，如今“5万元一车”打包清仓，网友：我要下手了 &nbsp;&nbsp; 新华报业网"
+    },
+    {
+      "title": "宇树和英伟达机器人的巨大隐忧 - 乌有之乡",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nbXdxQkg3LXFHTTFyd0NOMlRwTTBIQU5YMDdYbTRkM1pocTN1RWl6U1Z0WkVaaW1hQ3hQMVhvZDdxbW9WOU1BV3BUM2Fia1MtcWt5TjRDc3lPeWR3VWc1OFFjcmJfcUs5Y0JqUkxZS1hjT0ZUbUE?oc=5",
+      "source": "Google News: 宇树优必选傅利叶智元",
+      "published": "2026-06-05 03:45 UTC",
+      "summary": "宇树和英伟达机器人的巨大隐忧 &nbsp;&nbsp; 乌有之乡"
+    },
+    {
+      "title": "宇树科技、长鑫科技冲刺上市背后，有这些险资身影 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNDVGR0ZfWmFoQ2pXTUV3WEs0eFVlR1QyU2gzTU5XZnliRkJ3cmU2Q0hhU3NUb0NzTGRUc1NHXzNucnI3bWJQRmZCVmlKQ09FY014eFpZRElubkt3V1hFQ1RwdzFUblBZcHdpZzlra1hpVWVYQXBLTDRmOVZIaEQ2alBlMEEwNmtBV1JxZ1hhcHl6cGtSeFNtUw?oc=5",
+      "source": "Google News: 宇树优必选傅利叶智元",
+      "published": "2026-06-04 06:54 UTC",
+      "summary": "宇树科技、长鑫科技冲刺上市背后，有这些险资身影 &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "最快的过会，最慢的功夫：宇树启示录 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZ3g2NUFKY0VJUXMzX2xBSTVJRS1vLXBiYnJ2aUE5MkpxOF9OVjRQcks5Y1puRy01dTZHV0FtczlwM2pxbUhsQXNQaWFaRDVmdzBueU16UmVjUllneUc2NUwxbUwzMll4ajFCWGVNTl9uN1BOQnJjbThFVTg4WGhqamhoblVBd2F5U2c?oc=5",
+      "source": "Google News: 宇树优必选傅利叶智元",
+      "published": "2026-06-04 05:04 UTC",
+      "summary": "最快的过会，最慢的功夫：宇树启示录 &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "小鹏机器人核心产品一号位施晓鑫6月初主动离职 - video.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNakNTRWxlemJybE5tNkxnUFJDYnJvUW9LN0hyUnYxQ3ZEM2h6eUdoSGJOemNfQ210amJQVUZVOWl3WXl0dlJGdld3SzMwVkR0R2VheVllQUlQXzVxN3hjWmFoWHRNenBncXVqWlVBY21URUZNWWt2WjdJRFFNNWJaZ0dB?oc=5",
+      "source": "Google News: 自变量穿山甲小鹏机器人",
+      "published": "2026-06-05 00:54 UTC",
+      "summary": "小鹏机器人核心产品一号位施晓鑫6月初主动离职 &nbsp;&nbsp; video.sina.com.cn"
+    },
+    {
+      "title": "小鹏机器人核心产品一号位施晓鑫离职，知情人士称其短期暂停职场择业 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQM0hROThGSjhTckxmb0pHbHp5ZlJ4WmRmZ0dINHQ1ZXctNDBmZ3BoZGVob2FhbFAxb2FSbmRiS2NaS1FieC01UHRjOTN0c0pvRjJiTE1XX0FKUmtvQ0xFOEgteTRmRk53ZzZFaEtCZEdqYTJQdFlWbWdkeDFmcHk0NEtzQUNDZ0p1NUUybA?oc=5",
+      "source": "Google News: 自变量穿山甲小鹏机器人",
+      "published": "2026-06-05 03:24 UTC",
+      "summary": "小鹏机器人核心产品一号位施晓鑫离职，知情人士称其短期暂停职场择业 &nbsp;&nbsp; 搜狐网"
+    },
+    {
+      "title": "越疆午前涨逾7% 第三批ATOM人形机器人量产交付 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMihARBVV95cUxQYmFnaDVDemRySGpFX2pLMDlNbl9BUUk5MmZsRjhYUGRISlZLbnQ3Vy1DbjdxNFRIYkphV1p0OFdCZDJPLW9kZEdtSHJHUFZnd1hKTFhkNlNMRmtlWkZldUx1M2h2dHBZSjhYYzVxaHNEc0JNcUoxZmthUG15a1liZ3hkMDYta09mMktHTmR2dTN0VWFDRWVxdmpnTVB6Z0NRWGowdi05dTI3VmxJUU9waUtyOFVMdXFkVzFjRmZmSnRZNzJZMzBDSUFBN3ZEd2RJM1VqZkJ0cHlKNnIteExIbmY0Z1JXTWtZb1ZiQVU2VDd0UVhpUnlXQ0dPd18yWmpDVTBibmpQOGZMZDd0bDlIbVBYNVdFakthSV9fWklldVJqel9wb0xEZ2ZmYzNWVWZObXRBRzk0Vld1NFh2QUI4UFdvTUc3Ty1SWWtrTXNxZ2JVLWpxNU5KREk4YXNCRERiLWN2ZTlPQ3JOTXVPbDhXcjBJSWxKam1qVUx3QXh1aGd5MlIxVUZ5YVY3Zjl5OWl5eGxBR25jXzBVbXNWcFpvRGJ3Mm5mSHAya2hKXzB6NGtLQVhPOGNRdmV1ZDB2c2hGRHRZQjNsd1VITXJaejg4Ykd3bmJCNW9HZFFlVUQwdmx3R0xwbWFlVGNXa1IyemdBX2RCWmx0SUhCWGpRMXF0RDB5V0s?oc=5",
+      "source": "Google News: 新松埃斯顿节卡越疆遨博",
+      "published": "2026-06-04 09:28 UTC",
+      "summary": "越疆午前涨逾7% 第三批ATOM人形机器人量产交付 &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "周五早评：沪电股份，埃斯顿，工业富联 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSmc1andNWlhESDVyWTJ6LTFkVjZmUDRSNng3ZUdyUVVBclp3aXpOMUliTWwyQTNIcXhkVzREaGstRDVRUkRCYVMxenFqcTg2N3B5LTlOVjBYUGpHZ29CeXpfcUZ5QnRBOG9MQ0plUHlpWkppS2tQSXlwZmp5SElSUnVVYkNJZ2M0MmU5ckpnVGZHNEFuSy1fR3otY0k0eU14c2xXZWRyTG11SFBnczAzbTN4Yw?oc=5",
+      "source": "Google News: 新松埃斯顿节卡越疆遨博",
+      "published": "2026-06-04 16:31 UTC",
+      "summary": "周五早评：沪电股份，埃斯顿，工业富联 &nbsp;&nbsp; 东方财富"
+    },
+    {
+      "title": "德意志资产管理、Solactive、越疆机器人、德国外贸与投资署、Oceanpayment发声 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQT3RKb1RVY2czdUxIdVpMMER4LWhKVHd4cjg0cHJiMjZHYk1WWThEVXJDZDdsQ2tfYVpaSkZpVk05WUNjcDFtcUN0MHlzM1pXM2RHTXVLQ2diYjczSjhHVWdBalJzVFVVZmduY29pZkVaRTUwTTRFNWdFR0xRX3IzQ1lKZTd6aWVt?oc=5",
+      "source": "Google News: 新松埃斯顿节卡越疆遨博",
+      "published": "2026-06-05 02:08 UTC",
+      "summary": "德意志资产管理、Solactive、越疆机器人、德国外贸与投资署、Oceanpayment发声 &nbsp;&nbsp; 搜狐网"
+    },
+    {
+      "title": "股票行情快报：埃斯顿（002747）6月4日主力资金净卖出1.23亿元_主力研究 - 证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxX0ctWjFBQW55TzdjZWxCVHJpUm5qWnFrY2dhSFp0aWhjb0pBOW05UHplTDFlWmtZSVREMUc3SjJjSEpCbXFiQTFxelRNTVJiY1hxNm9fRlRKanFuM2ZFWVBn?oc=5",
+      "source": "Google News: 新松埃斯顿节卡越疆遨博",
+      "published": "2026-06-04 13:42 UTC",
+      "summary": "股票行情快报：埃斯顿（002747）6月4日主力资金净卖出1.23亿元_主力研究 &nbsp;&nbsp; 证券之星"
+    },
+    {
+      "title": "周五早评：沪电股份，埃斯顿，工业富联 - 财富号",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVFhQakNnV1lZbHBZWVBkSk5rcE1VeWJlcGZtUUZMNlZFSi1ndlU3UDRZenUxejdnNzlNRGZ5YVpXZ25zc2NGcGF2UGluOWNiR2FZUXVRYTlhUUx0aHBOTkZZREp2azNVWlh5VW1VN0NVR253bzRGaVF3ckdIQWJ4ZEQtemFrc1dZZlF6bXFtTHBOcjhtMHJmWGJkYXU4VEtET0hLbUh6SnBkUERXM1Q3UEdwRlFSSVIyQWcwZmFIMnpnZGVwVDQ4cTBaeF9YcjF0VmF6U3kyQjFVLTlwdDQxeXp3UnRFczhxNzlKQzdZUmpEZWZJUmp3eUY2VEw?oc=5",
+      "source": "Google News: 新松埃斯顿节卡越疆遨博",
+      "published": "2026-06-04 16:07 UTC",
+      "summary": "周五早评：沪电股份，埃斯顿，工业富联 &nbsp;&nbsp; 财富号"
+    },
+    {
+      "title": "港股异动| 机器人概念震荡走高，埃斯顿涨超4%，德昌电机控股、五一视界、三花智控涨超3% 港美股资讯 - hstong.com",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpNVBYY1FTOUtOcTI4Y3pld3NhTnFoS1I3U21MWndXb29ZV3dPWlRaSjE2aUhrdHFHdXhJMGdpaWtTN19LQXlzakxkOE5ILWpxdUE4X3JUNDNYRGZRc2duQTdR?oc=5",
+      "source": "Google News: 新松埃斯顿节卡越疆遨博",
+      "published": "2026-06-04 02:25 UTC",
+      "summary": "港股异动| 机器人概念震荡走高，埃斯顿涨超4%，德昌电机控股、五一视界、三花智控涨超3% 港美股资讯 &nbsp;&nbsp; hstong.com"
+    },
+    {
+      "title": "深圳企业越疆登顶具身智能行业权威评测LIBERO榜首 - MSN",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOOVJNT1V5QU03M0FWY2E3YnBmUGZrXzdHMWh6dG11aGJUNm55ajMtd0tzRUdHV1VKcTdXamMxV3l2OU5ud0FaRXNuYjVKRC0tZ0wwNlBRVVFpb19fWGphUl9hNERQelRTaFBHTmUzVG13eFZ2QWZBMXZjT0swaHlmb3dzWGowekUxZjNWNDN5blNObTVuRkRISHRXWkhOVEVuLUpzZEZqZmI4N2RwaU5kYlFGS3A1TFNhZG54NXZHTmRGTUxhV0Iwc3BCSnAwQVdxcGg2WVhWeXlyYTl4LUJTYVhjYnFTUFdndkNSYlZKeG1hNWZvT0xtSldhYVN1RTNpZE5XdlFnTjdWcFRUcE5udU9xNUVobDJOWWFZdkRUdGRHRUZjZW5URXhmeVlvUmUxdWVEclZTN0pXdjE5ckhUcnlmWUVOclEtSldsR3NBWFdLMnEyQmc?oc=5",
+      "source": "Google News: 新松埃斯顿节卡越疆遨博",
+      "published": "2026-06-04 16:31 UTC",
+      "summary": "深圳企业越疆登顶具身智能行业权威评测LIBERO榜首 &nbsp;&nbsp; MSN"
+    },
+    {
+      "title": "为社区老人张罗幸福晚年 退休干部郭卫中巧解社区养老难题 - 台州新闻",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB0ZzJIc0dIZTJmWVlRcktGcnBtV2pWM1ZnQjNOdzdkQktZX1BKTFZoQzJSY2hHQVNnWHJZU3hITHdid2xLYVo2X0t2aWxLck9oLUR2YWVOVUN3Vmt6Wk5NeUNtTXZpTXpWOVBB?oc=5",
+      "source": "Google News: 居家养老社区养老",
+      "published": "2026-06-04 08:12 UTC",
+      "summary": "为社区老人张罗幸福晚年 退休干部郭卫中巧解社区养老难题 &nbsp;&nbsp; 台州新闻"
+    },
+    {
+      "title": "乐享银龄生活：如何破解居家养老的“幸福难题”？ - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRnk2eUE5TkFKR1U5VDVUWFkxQzJaME82YmtxRmlQbkRkeDg1OHBMNWl1WFRyZzhXTVBQRHpJQ2VtWXRnTjFhQTZWSEt1UnhXVGFkR21jNkNCZk9ENG5YLW9CZ1pJeUp6SUN6eTRNTW0xdG1XY2ZJWGhvTWNFQlhNZG5TTHFXSmx5M25iNA?oc=5",
+      "source": "Google News: 居家养老社区养老",
+      "published": "2026-06-04 03:48 UTC",
+      "summary": "乐享银龄生活：如何破解居家养老的“幸福难题”？ &nbsp;&nbsp; 搜狐网"
+    },
+    {
+      "title": "破局大健康时代| 从“支付端”走向“服务端” 二十余家险企密集推出居家养老方案 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00Snp1MHpLQWdEaEZCdVBNaHBxQ0Z5dERSMGFHdFhVTTVVZ2pwUkFLdjFmZVNvWFI0SndmcWRGVFFzZk9jazlubVBtS1BKZ0d2ZXFFbkVSNGZTZGgxOG1jcjY2Mkduam56VDg0Mm9kcw?oc=5",
+      "source": "Google News: 居家养老社区养老",
+      "published": "2026-06-04 03:25 UTC",
+      "summary": "破局大健康时代| 从“支付端”走向“服务端” 二十余家险企密集推出居家养老方案 &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "长护险全面推开提速 汉中试点打造适配样本 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiqARBVV95cUxNUU9ld2hDdy1RTzFET3ZDS3EtQ0RfV0tRYzhOaHJnTUhhN01GUmtjUVF0Y2JhMzlGVHpNQXVZcjV0emlmeUlxREpSTTZob2tmRDlNVWJNaUxFT3loUWxaUEpfVWJTdVNaQUZZWE1vR00wbXZyU2s4MU5HaFJ0WF9aalJiTXVzRjEtdGJEaWxaNVNTbjBQUS1ra0N1cV9BMXNrRnFKOHg5TE1NQlVzTnlGSDEyWVdNZEZMY3AzSUhnWmR3bzM0VmtUczYySWJFVjNLMzFvOGp1TkE0UlpqcmhKVlQzQVBEbHNSVER0UzVfUVpNWUZMWWNrSUFTR1hMS3l2Z3owaTUwUkwxN1BGbThUM3pTWUdFaXdzMmxOUGY2RGZxekw4TXlQRU9WYzRZUTNGN08xQXYtdHAyYlFfUy0xM201V1FJNlRZUkNEY1FCVkdvN0N6aEl0dGhIOFNWcVk2QWZjT0c3dTYxT2R0RFN6NEFVelBWWEpCRnFVRkVxMXpGZkE0M0EySl9BZmg2allJZ2hiVzNkdTdaRVJIV3dudHRSMzVzT3MtWHpheHhFbDRmVEdaUVgwSnE2TFdUVkR1aGItYWpJQmdDcXJLLVlNUW52Q1YtOFNSQkQ5bkJya2s5Zk0yQ2pqNURIYnBYeXV2SVZ3VVlTeTBaUXBaZjNhc0NGOUI2eHdrRjk4UktFX0I0NUplb25nOTZMVEhrZE5hWGhSSzd3cWY?oc=5",
+      "source": "Google News: 养老保险长护险",
+      "published": "2026-06-04 22:47 UTC",
+      "summary": "长护险全面推开提速 汉中试点打造适配样本 &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "中国人寿寿险深度参与成渝长护险试点 - 人民网",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ibUs3blQ2cHowWU1lMHpyLUhyUUJiVmhZOV9QUzBobVVnUm1LVXhneTJITUR0MFZBeHF5bHBwREdaWHRhMW5OT1ZmYVR6TElhSjF6VWRyemZyZGtNem9uNkFVWkktdWVRbHc?oc=5",
+      "source": "Google News: 养老保险长护险",
+      "published": "2026-06-04 12:24 UTC",
+      "summary": "中国人寿寿险深度参与成渝长护险试点 &nbsp;&nbsp; 人民网"
+    },
+    {
+      "title": "长护险观察 | 以数智赋能提升服务质效 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9DQmIzYzRBOUl6MmJIaUgzU05RVmpLT1dDSGhKS01XVGgyVFBwcTkxUFphOWZZbk42UVg1M0c5UUFycy1WZHVwSlUwcUJWMEhpWEh1ajdKcU1UMjYyYzYxUmhsNXY5U0xTVEM4TUd3?oc=5",
+      "source": "Google News: 养老保险长护险",
+      "published": "2026-06-04 01:52 UTC",
+      "summary": "长护险观察 | 以数智赋能提升服务质效 &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "探馆上海老博会：银发经济和养老产业资源的“超级接口” - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZZy1CU1lCN0hKaXRkM1dKUEpwaVNIRUNBVl9QRWc1QklyUlBoNXNGVjRPdGl3RGVZQ1EtRFVxY3hlb0xBVWVpdGhFcTdHTktFZk85cFBOUUp1eS1ybFNDN3hiWldzWFVxaHBVd0lMV0RnanNLbXZLZw?oc=5",
+      "source": "Google News: 银发经济老龄化适老化",
+      "published": "2026-06-05 00:02 UTC",
+      "summary": "探馆上海老博会：银发经济和养老产业资源的“超级接口” &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "每年增加“1个百分点”，云南逼近中度老龄化 - 第一财经",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YSjZGYm9Wb29jWVM4RjZzTjNtb1gwSHNtYUpZSnhCYjZsdHhHMW1iSVc5aUpvU3lmenVQXzNXLTI3N0Q5M0x1ZW5oUmpNNENvNTlj?oc=5",
+      "source": "Google News: 银发经济老龄化适老化",
+      "published": "2026-06-04 14:08 UTC",
+      "summary": "每年增加“1个百分点”，云南逼近中度老龄化 &nbsp;&nbsp; 第一财经"
+    },
+    {
+      "title": "“十五五”规划洞察：锁定智慧养老核心赛道，构建银发经济新高地 - AgeClub",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Ec01GSFE4ODZTUXZGVkp5M2lCOHk5dG9Gby1IQzVuWUFicEJoZW8zNnFGX1FvY2VSVGtoUHFRWHdmRjZUQmhNOTBoNjd0NUZhbVYtV2Fn?oc=5",
+      "source": "Google News: 银发经济老龄化适老化",
+      "published": "2026-06-05 01:30 UTC",
+      "summary": "“十五五”规划洞察：锁定智慧养老核心赛道，构建银发经济新高地 &nbsp;&nbsp; AgeClub"
+    },
+    {
+      "title": "老博会在沪开幕，上海引领银发经济“蓝海”产业发展新生态_上观新闻 - jfdaily.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1RSks0ZWJwSjluVzRIb1NvT3dnbE9jUzZVQVZCdVBkMDRHbW5JeS03Sm5SMU15NVJGUFVGbFgtNHRnTWpLdU5mZk1EeXJwZU1zd1ZTV2lUUDI?oc=5",
+      "source": "Google News: 银发经济老龄化适老化",
+      "published": "2026-06-04 12:07 UTC",
+      "summary": "老博会在沪开幕，上海引领银发经济“蓝海”产业发展新生态_上观新闻 &nbsp;&nbsp; jfdaily.com"
+    },
+    {
+      "title": "中国“银发经济”增长 日企密切关注 - jpchinapress.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdjR6YXJWUDlVQWpZRS1UWjZ1RjU0VjhlOGVZUzV5akdHbC12bmlUekdDMEd0VzBvUkRTNXJLNkVyellLMWZkbjZkdWFLY1RFNE44T0dzZEFFX1Q2eE5QS19KdU5CcVFCRXhSaW9Qb0VNTGJwLXpiT1BNQklocW5mSWhoUE80d0R4dFE?oc=5",
+      "source": "Google News: 银发经济老龄化适老化",
+      "published": "2026-06-04 20:07 UTC",
+      "summary": "中国“银发经济”增长 日企密切关注 &nbsp;&nbsp; jpchinapress.com"
+    },
+    {
+      "title": "上海启动养老服务信托试点；投资超16亿！吉林银发经济产业园揭牌；5起银发投融资；《老红书》记录60岁+银发生活 | 行业动态 - AgeClub",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LT2VVNUlxRF9ReXVvZG8zRmxDMWdZTnFNUkxBVFJvUkp3YVB3Ql9HTlU3RzVqOGlDVXBPVVlHYmxHQ2NSRG9RdmFoMFNxUnhPWHgySjhR?oc=5",
+      "source": "Google News: 银发经济老龄化适老化",
+      "published": "2026-06-05 00:09 UTC",
+      "summary": "上海启动养老服务信托试点；投资超16亿！吉林银发经济产业园揭牌；5起银发投融资；《老红书》记录60岁+银发生活 | 行业动态 &nbsp;&nbsp; AgeClub"
+    },
+    {
+      "title": "上观时评｜发展银发经济，要技术，更要对人的理解和尊重 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0xNUtEV0hVVGNkdHFNOWpvNGhjYmVnSGxISTBsVU41S0txTmI4SzN6bU1HSUFQeFlDMklxdmd6cTBOS3FHM1F6ZzVablFHbGtVM0U2MFdBUldZdGxpQUNfbHVRdVIxMnRrNmp4eGpNZlVCUzdOb29VTw?oc=5",
+      "source": "Google News: 银发经济老龄化适老化",
+      "published": "2026-06-04 11:02 UTC",
+      "summary": "上观时评｜发展银发经济，要技术，更要对人的理解和尊重 &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "银发经济被严重低估？当退休老人开始\"花光积蓄\"_综述_全球资讯 - bihainews.com",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9SRHB0Qkp4Uzh3Ty0zUXVuTE9NLTkxa1hxYWRNUFY5V3YzV0NSczdkTkJxSFZrZzlxamNEU2JTVG5TQTdidXVRanAtUXlMbG14VDBhX25ZcjFFVVV3WE5JRFpqcWtTWGs?oc=5",
+      "source": "Google News: 银发经济老龄化适老化",
+      "published": "2026-06-04 11:44 UTC",
+      "summary": "银发经济被严重低估？当退休老人开始\"花光积蓄\"_综述_全球资讯 &nbsp;&nbsp; bihainews.com"
+    },
+    {
+      "title": "《星球大战》《最终幻想》面临同样问题：粉丝老龄化 年轻人没兴趣 - 3DM",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9yWUFhSWlnQ3BDMlQzeldPUmJVbmJwN24tcXh4OGNvd1lWS2tlYV9WNnpfMENWSlRkbUVFTllPX1lrUml6NEIweGoycFdRbUZISksyQVVMVHRnTzJr?oc=5",
+      "source": "Google News: 银发经济老龄化适老化",
+      "published": "2026-06-04 13:42 UTC",
+      "summary": "《星球大战》《最终幻想》面临同样问题：粉丝老龄化 年轻人没兴趣 &nbsp;&nbsp; 3DM"
+    },
+    {
+      "title": "结业即上岗！雄安新区首批高端家政服务能力提升班结业 - thepaper.cn",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YbmRoRVVDMTI1UXZwMjZNdjhwbnJqbW1McW5EaW43eGZBV1FKdzZQbE1JNEd2TFdHcEUxQlBWVWpZbk5Ialc5eGUtVWVnd2xwcFlzYUJnX3h0aElSMkE?oc=5",
+      "source": "Google News: 家政服务行业",
+      "published": "2026-06-04 09:27 UTC",
+      "summary": "结业即上岗！雄安新区首批高端家政服务能力提升班结业 &nbsp;&nbsp; thepaper.cn"
+    },
+    {
+      "title": "我国牵头制定！养老机器人国际标准正式发布“机器人支持老年人有尊严的独居” - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IN01FZzVicGh2ckxlcUNtRmFDVTB6SXYtV1NxODFnZGd6UDMtRVRneXRQemd4NW51ZV9tMFZuTkt1MFhISDQwZWhESUwzNEVNU0JIaTR3?oc=5",
+      "source": "Google News: 养老机器人家政机器人",
+      "published": "2026-06-04 10:19 UTC",
+      "summary": "我国牵头制定！养老机器人国际标准正式发布“机器人支持老年人有尊严的独居” &nbsp;&nbsp; 搜狐网"
+    },
+    {
+      "title": "The skeptic’s guide to humanoid robots going viral on the Internet - Ars Technica",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQeWFmU2tHWF80UldZaEQwaEJhdGtKb01lY3VQb2tCMi1adnhhbTA0UTFGT0ZTZ0pGZTNxNXFOVkx4NnUxbGZZbEtmMDNEcWowRDVmMDg2N3pOTEJ4aGRuY0xDQzRvRU5NSjllOFBtdktjYjVHTzZSdkpMdHJSZFhrVnVpbFJQMHNmaEJCbEp1RnIxTFNDT1pUQ0tRM1RHSUtlNy1z?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-06-04 22:23 UTC",
+      "summary": "The skeptic’s guide to humanoid robots going viral on the Internet &nbsp;&nbsp; Ars Technica"
+    },
+    {
+      "title": "1X Launches World Model Lab to Scale Humanoid Intelligence - 1X | Home Robots",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DbjY3ZkhXakRSNVk5QnJVN1g5NWJNR2NwLWxtNlR2dll2WnUxYWMzN2dVU1RkeEdVcy1QcTRaQkZWNE53ajJEelJVUk1SU3RNVlFBZUJ1UHVEaGs?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-06-04 19:04 UTC",
+      "summary": "1X Launches World Model Lab to Scale Humanoid Intelligence &nbsp;&nbsp; 1X | Home Robots"
+    },
+    {
+      "title": "Are humanoid robots now coming for retail jobs? - Fox News",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoWkZyZUVGcnlOM2h5V1B2cmNqYjlZSzJDbzJZc0d4RjE4Y1VLdzVCcVkwZGRGZFlORUNzT2hid051YTBvM2dpYTVoTEU2RlRPTWpEMzlnQW5mZlNNZHFNOC1KenJxbGRIQXE3eTRORFLSAXZBVV95cUxQMjI3d2RfcFdGaGplR2Q1cHRaNFZ1OGdvcDRPLVNPLU5pRHdFcGFwWXRDMWVIZEJESENpUW9Xa1lxRHQwc3V6bm1UN0FZT0c0dDNGa1Z0UG85Uy1vc2N4T3hkNVowNHhTcGxIWWNpYmlmNDMtZ0xR?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-06-04 11:58 UTC",
+      "summary": "Are humanoid robots now coming for retail jobs? &nbsp;&nbsp; Fox News"
+    },
+    {
+      "title": "1X Launches Humanoid Robot World Model Lab: ‘You Can’t Fine-Tune Your Way To AGI’ - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUUgtVUxoU3lrNE5wdnpmQ0lTXzNBZXFuXzJzTXVRQlQybU1HSWZfeW1VcTNvVnFHYU5QWGFKbnZ5Y0JyN0hsRWkzcWlycnlhaUl1MWtHbnhCTG5vb1FGQUJrUkY3T3g5N0FwRWlWb091YlJuYTZPSzBZR1BHNWstcnZUVHp0UGs2LXVKOURRRjlWX0U3Y3RxNU9yT25IUnFOZHBSSmdrZW9Vdkt3WS02ZTUyNXNNWDhzcE9fenVGTnY2SkV2QWx5VGlhTQ?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-06-04 13:00 UTC",
+      "summary": "1X Launches Humanoid Robot World Model Lab: ‘You Can’t Fine-Tune Your Way To AGI’ &nbsp;&nbsp; Forbes"
+    },
+    {
+      "title": "BYD Officially Announces Self-Developed Humanoid Robot, \"Yao-Shun-Yu\" Plan Exposed: 4-Year Secret Development - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA2dzVhOExZTVVpYkd1ckR3REs2eTRRRzl3ZU1VVFpULW9JajBmZFRMWnQzREgtYVlEeXNOX0FCNi1md1VfVktSWllUQlFzUVRhMVdv?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-06-05 03:40 UTC",
+      "summary": "BYD Officially Announces Self-Developed Humanoid Robot, \"Yao-Shun-Yu\" Plan Exposed: 4-Year Secret Development &nbsp;&nbsp; 36 Kr"
+    },
+    {
+      "title": "New humanoid robot brings human-like dexterity for industrial roles - Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbXpXejNCOFpKYkt0anQ5UjdZblJCX1Fmd2lkYzlLVGZsc0ZVR3VaX19SUjM2VTdPbjhwZXhNZUJOR0FXQk96VllZZG1KQ3l5eVhIanRsWnI4elg4R2NVWDNIQmFEaXBpb3I3d25OaENRWHN0eW96bjZZYzQ4cXpobjg5NUZnQ2FlcWxjT2FQd1lVQnFtaXVR?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-06-04 08:55 UTC",
+      "summary": "New humanoid robot brings human-like dexterity for industrial roles &nbsp;&nbsp; Interesting Engineering"
+    },
+    {
+      "title": "Unitree and Nvidia unveil H2 Plus humanoid robot reference design - news.cgtn.com",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcUpkRlQyN2ZlSUNZMW5vZlh3Q3k2M01MaWFoR0tZeFM4UzMwYjNLSEJUX0lJdXowa2JFaU9Va3R6WmRqUFZsMllEMEVZVzk0Z0xrWEttLWljRUZEdlJGY1dxNmhFaGE0WGpvNUZMZzlibF9DYVo3TTNncmw1b0llQ2VHcmI1WHpwbXhKZ3RCUGFIY1ZveVpnTFZVd2ZNRUlHTFgyWWZfc2NHYk5FcWxLZkNveW02RjZwRDdMMnUzNA?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-06-04 13:41 UTC",
+      "summary": "Unitree and Nvidia unveil H2 Plus humanoid robot reference design &nbsp;&nbsp; news.cgtn.com"
+    },
+    {
+      "title": "China's new humanoid robot sprints while carrying firefighting gear - Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONVdTM1h5b1dZbzhkQnVONTBZRFRKVEJYVE5XQTdMVHBDVk9QMlBCaHc0UWJKbml0eXBkc0c5SGlPa0cyZHV3MnJRMEFZSFJiODA1bEM3b211eHBsQjQwdzZsSzFOVmI4TEZFTzB5X3lEZ3A2bE9PbjIzeHpuMG5sTy1fUVNZV0FyS0VLSVpnS1JiNi04UXE4?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-06-04 13:12 UTC",
+      "summary": "China's new humanoid robot sprints while carrying firefighting gear &nbsp;&nbsp; Interesting Engineering"
+    },
+    {
+      "title": "BYD Secretly Develops Humanoid Robot Codename 'Yao-Shun-Yu' as Auto Giants Race Into Embodied AI - Pandaily",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUG14dDF1U213VVFwQzNpd1hjdVAzN3JhQ2hKVUlGOWlZcGV0WWVCMGJpUlZUNkZPTzZTd1pqRHBFSVJEQ3owRHgzM1JpaGUxVEp2ZS1jQ0NaZVRBYTZzLUxFSjJYSEplWWlsNDk5enNBbUQtYjVYWmlNOGgwR25wbEMtejFIbVVfb1VYTA?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-06-05 01:59 UTC",
+      "summary": "BYD Secretly Develops Humanoid Robot Codename 'Yao-Shun-Yu' as Auto Giants Race Into Embodied AI &nbsp;&nbsp; Pandaily"
+    },
+    {
+      "title": "Murata Next Era of Humanoid Robotics - Engineering.com",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ueG9WTnVoSzBaQ1hMeWVoSHdEUkVNU0UzNmhwTTBVTUE4aGhSc19mY1FjaGd5UmxoY1ZkQjJyZ2dyZ3Vfc3lpYzFRUUIwcWFNZFJUTEdzZC02M1pzUm9MYmJBQXJCMVdjMUlha2VLUG9CcWc?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-06-04 18:39 UTC",
+      "summary": "Murata Next Era of Humanoid Robotics &nbsp;&nbsp; Engineering.com"
+    },
+    {
+      "title": "Faraday Future Intelligent Electric Inc. (FFAI.US) Delivers Master Humanoid Robot to Renowned Los Angeles Medical Institution - AASTOCKS.com",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc0NvdlRwX3RTd0FrQ0M4MktGbTRCVlpfMENoR0g1TFk3NTQ2SzhWdkx1d1FIdDZpelBjWlhJZVNLcnNIakxKWHFwdXhNQko3QTVjcXJSTkpHcHlEbkZsclhGNW1pRVh6VTRqdWhLQzZ6b0N5WFBObXU0b1owVDdHN0E2alMwN3RuU0E?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-06-05 03:11 UTC",
+      "summary": "Faraday Future Intelligent Electric Inc. (FFAI.US) Delivers Master Humanoid Robot to Renowned Los Angeles Medical Institution &nbsp;&nbsp; AASTOCKS.com"
+    },
+    {
+      "title": "Chinese scientists achieve major breakthrough in precision machining research for humanoid robot ‘joints’ - Global Times",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1keFJucU9jYzlNelBKWEdwX3lUY1h3ZXE3b3ZUOWE4cThieEQxTEN5SWtCT185clBxTHktaF91dHVvc3VsZng3cS1ncnNSWEkzMUNYbVlzVm11N2lTM01DUkx3?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-06-04 13:06 UTC",
+      "summary": "Chinese scientists achieve major breakthrough in precision machining research for humanoid robot ‘joints’ &nbsp;&nbsp; Global Times"
+    },
+    {
+      "title": "Humanoid Robot Waves at Russia's SPIEF Forum - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZ1BUeWdycUo0SzB1dE9USkJDX0VRM2lLZWRrOUdscEdfMlRpYUxmQ3lBRm05ZTQ5Z1FnQWtGRU94R0VyZWNhM1djM2VDZnZ0cFhCOGlCeENZak1PcjVBMEZ2bVFjNFR2VUpMVk5mc3Qzb2VkOUkwZk1tUEh1SHlSUllBcGVMUlBL?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-06-04 20:54 UTC",
+      "summary": "Humanoid Robot Waves at Russia's SPIEF Forum &nbsp;&nbsp; 조선일보"
+    },
+    {
+      "title": "Humanoid robots won’t be the future: purpose-built robots will - TechRadar",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYy1mWV9ia3pMREpKWUFMUjlqN2N5THlLVlBRWm1sTHJJUE9EeGVveFFWNlNDMS1oMzZhM1IwZnYyelFjTGtRb2Iya3JEZlB5WjVCcl9MYlJYbThLeVU4ZTNWZnpsMy1kbFlFWmtiR01VMlZ1UmVsa1pweFhTSTRiT3F6X0dWR2VEaDYxempPbzY5QXFW?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-06-04 14:19 UTC",
+      "summary": "Humanoid robots won’t be the future: purpose-built robots will &nbsp;&nbsp; TechRadar"
+    },
+    {
+      "title": "Are Humanoid Robots the Next Trillion-Dollar AI Theme? ETFs in Focus - Zacks Investment Research",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQanA0cm9XY21wRTdPSlA0a3RKWUd5S3BiS3B0NU5RWjE2WDV4SjVwVnNOWlZxbWRnVmFrX092QVgzSGp6MjJ3VUpheDZXY2cxSGRRQkZpZDdCbWZyREJZLVJwYjNKS3hLWmdkalllZV9sTXNqc252NmtMcmZIUEhrdHNoZndBVzRwNkpmYU5FNlF3S3BwMEVkeXhxTk5GQnhWOHBVWmFiMlBpVF80?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-06-04 14:07 UTC",
+      "summary": "Are Humanoid Robots the Next Trillion-Dollar AI Theme? ETFs in Focus &nbsp;&nbsp; Zacks Investment Research"
+    },
+    {
+      "title": "Unitree dancing humanoid robots wow judges on ‘America's Got Talent’ - VnExpress International",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU1hCY040R01jZU5NZmhBQ25XN2tmV3N4Ukxkd0JTYTJJMURabGlIUll1c2N0dDhSTUdvZGJJb2REN3ByaktHWmtRamdmR0JTcEtSaEs4V1BrYkVNaXBMdmJMYzh4bFFMYV9pSDRDRVJLSnE0ZmxVbmFkUlk1QXZQMVgyQ2ZaQVhzV1Nsdms3RmRNb1ZJTlF5dTBiVHJCM3p1VkRQeE56bUxKUHBhcXhFRVB3aTM0OEQtSVlSd2dKNzM?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-06-05 03:06 UTC",
+      "summary": "Unitree dancing humanoid robots wow judges on ‘America's Got Talent’ &nbsp;&nbsp; VnExpress International"
+    },
+    {
+      "title": "Are Humanoid Robots the Next Trillion-Dollar AI Theme? ETFs in Focus - Yahoo Finance Singapore",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWNVMVpYeU5KNDVaN3FON1hKdXh2MmY2WnlkRUsxNFdRYWI3bG9pbXBkb0kwWURhLXFqUXFGMWZ3Z25XYzJaQXByS0NJLWNtTjluTm9WSGd3SndzTVpTdkMwTWFnZzRPZ2JmZjdkZEh6WDRGa1ZSeG51NGFBUXdBdjRrS1pWR3YwbFk2MHd3?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-06-04 14:59 UTC",
+      "summary": "Are Humanoid Robots the Next Trillion-Dollar AI Theme? ETFs in Focus &nbsp;&nbsp; Yahoo Finance Singapore"
+    },
+    {
+      "title": "Are humanoid robots now coming for retail jobs? - AOL.com",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUV94a0N4Zk9FMGxBbkI2SFkzSG84MjhsODhDcmZ0WXdMbzBMbzJ2Z2JWMGVUUExhR1o5d19wTnpuLXhUT1R1eEZydHlKZDA0Q19WZkVLZmtmNUlVcWw1V0RPTFRUQXo1ZTJHejI3ZHFEMktidlVVaUQ5UlhGNHVGTDRiOA?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-06-04 14:27 UTC",
+      "summary": "Are humanoid robots now coming for retail jobs? &nbsp;&nbsp; AOL.com"
+    },
+    {
+      "title": "BYD joins race to build humanoid robots - digitimes",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX0k2XzlfQlJUZTgzYnVhWDNqZW91c09CQmo2TkJELWxOVFdwRE5RSmZ3VzVVMEMydGlkMmp3TFBiellBb1pnS2g3UFdPc0JVR0Z2LTNvUy1ZX09lMFVsamtrN0RSUFg0US1GTjg2NUlfdHdzRVZsRTJMT2FPZF9BNWdHYTU3TGh3VG44Zzd0b2JnbjBIa2tLZ1QybzhUekVkM1Ew?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-06-04 04:10 UTC",
+      "summary": "BYD joins race to build humanoid robots &nbsp;&nbsp; digitimes"
+    },
+    {
+      "title": "\"Humanoid Robot Takes the Pilot’s Seat\" KAIST’s PIBOT Earns Top Honors from IEEE RAM - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1OZGZzYW0zejEtNmI5S0hGSDFmTXQyVDhTR1Zwa0tpTGl3QVhKRm03OFVka0hHU1dmbExGUzVUVnhNR0xyU1N0QV80ekNPLWRydGtDTzhRRkkyb0JRUV9GczVVMFJZaXA0Zmo4Q211dVNDUHpnTUxMeQ?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-06-04 23:28 UTC",
+      "summary": "\"Humanoid Robot Takes the Pilot’s Seat\" KAIST’s PIBOT Earns Top Honors from IEEE RAM &nbsp;&nbsp; 아시아경제"
+    },
+    {
+      "title": "A wheeled robot may beat humanoids into your home - Kurt the CyberGuy",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA3Mmk0QTVLQ2ZLVXoxNEdEeFpxckEtVS1OVDNTU3RqR1ZJSENlWDVvenl2SmxxbmNpSElSQ3kyUkZJejljZWNSZ05zYmdacGx2V2VSMUlFNXdjLWo4c01IS2RsTHYzOXlISDR3blN5RDhXSDJt?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-06-04 12:00 UTC",
+      "summary": "A wheeled robot may beat humanoids into your home &nbsp;&nbsp; Kurt the CyberGuy"
+    },
+    {
+      "title": "Watch: Chinese humanoid robots perform flawless Lady Gaga routine on America’s Got Talent - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOFBLZnhtREZ6Nm1ySVAwN2ZOQUFRaDEzYWtnYm1tR1NMdkFtX2ZCTVZ2TFZmVnhpZGRfcmluRVFlYUMtMzg1eFp6WThtRlI0NFFHb1lhd09IZVlCLW5JTmo0VUZZS21rTnA0NHM2RG10M05TODRNNENkYVVfVUVvWlg3R0MxR25Kb0kzR1lKb0pPUC11dEZIUC00NXBWdjBmcVFSRzM5alBwVjY1UFI2QzJmNll0NG0zMVp1bFZvTDg2emhs0gHLAUFVX3lxTE5aY0tsYXhIOExVMm5EUmtjd25PWGtqRFR5T05uVC1ncU5wOXdwbl8wLUVWajY2elBCYkpDUXFoQTlDZlBJcUp4T3ZlaE50cjI1OGdFVDl4ZkZlR0I4cVZjcV9JTk5KUVhGVUJKckxiX0VQc0gydUdlRzJ6aWRaeDlDc3czWnVrSlRweXZQMzRQb3FtdnNFQ0p2MmI3cERQM3pxZXNscU10UXktS2VmZzZSelNnRk9Cemh0Xy1xdEN5RDhpYS02RjFqZTZR?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-06-04 11:00 UTC",
+      "summary": "Watch: Chinese humanoid robots perform flawless Lady Gaga routine on America’s Got Talent &nbsp;&nbsp; The Indian Express"
+    },
+    {
+      "title": "Humanoid robot study tours ignite new passion for AI among Chinese youth - Borneo Post",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPakZIWmVuOUdzY1JQVmx0SlZLSWFYb1lIMWtXVmxWZVR2aHRLb0c3bEE5R3FQaWtEM1hoNWlYU3ZfUGlsZUVubHlGelVIMmt0M3QwUXlQM2w0RGQyOGRINi1GWlgzS2hqQTRLMF84UzZmbC1qQ3hXQ1ZDZUlaRmZuNUY1bHZYcGEzUC1wemRzb3BPUVVqWjFnczZNVjdCLTBhMWtVTVJoMlVGUTh4TklSVkVEOEM?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-06-05 00:22 UTC",
+      "summary": "Humanoid robot study tours ignite new passion for AI among Chinese youth &nbsp;&nbsp; Borneo Post"
+    },
+    {
+      "title": "YY Group launches humanoid robot training lab in Singapore powered by NVIDIA - Vietnam Investment Review - VIR",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMnN2dmJHNnJIQVJpak9KVXozY2lqRzg2MXYwTm15UmJJbk9VMzBpVjktNTRtRnlmLW1ESVE3WUhCT2o1TU8xZktqRnZiUmNaRkgyVm9UYWxZN1BvWXlhaHBmeVM3TTlfUkhEb0VBNFpTR1lNTWlJMmJmNWsxdmhkWmNpSzl1SDJSbjZ5ck1yNEFJcjdIOURkUGRtemgtYUsyUkpCU3ROb2FJajA?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-06-04 02:55 UTC",
+      "summary": "YY Group launches humanoid robot training lab in Singapore powered by NVIDIA &nbsp;&nbsp; Vietnam Investment Review - VIR"
+    },
+    {
+      "title": "Nvidia Unveils New physical AI Research and Agent Workflows - AI Business",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdTJ5R3BqX0tBTklHQ29yb2hWcy1PdnFubFVSSXJZZXIzdEdmZlIzZDhVQmxtTk1XUDdlYUdLN2pCT1JoVWN3bXBrMzdFMEFkMTU5U1RNbFJoYnVhZlNRYS1VVUNFVWgwUGdxeVUySGVCV2hGWFA3MHM1S29IaTZaMHBPR2pXS1dMQXZ4M3BJOTUzdw?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-06-04 15:42 UTC",
+      "summary": "Nvidia Unveils New physical AI Research and Agent Workflows &nbsp;&nbsp; AI Business"
+    },
+    {
+      "title": "HKUST Partners with CalmCar to Tackle Physical AI - Gasgoo",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa0FBOWlCRVVxQ1hkOWhJUzBhVUpWRWdvcE1JLTg1NHdFaFoweTZNN0RJbkhoR1dTNDczbVhQaTNjN3JKb1lfUl9lbU5lLXUzV0dDdkxHbmtLM1NubjVLXzFReXBZYWVVRkU2cFVsN3BmckNoa0NEb1VObFRWOTRHUHY5cHVsT1N0TXlnQUl4ampRVmFJakRYVU54b1g0RlJqcEVMRjNMYjVUTGg4TGc?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-06-04 13:21 UTC",
+      "summary": "HKUST Partners with CalmCar to Tackle Physical AI &nbsp;&nbsp; Gasgoo"
+    },
+    {
+      "title": "Zensors physical AI enables TSA’s new standard for Real-Time passenger experience - The National Law Review",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN1hzUDhtZmpKMTJwZTF6NWg1eEkwVTk2aFNZanlSZi1pNHc2eEcxX2dTbUU1VGVFdnhwWGNmXzUtaVpPcmFHWkMyTTVFeGM1QXZZcjN0ZlB4QmxCRjA3bWdzZTE1WmZ1ZlpiU3hLNFRtay1KQ0R2cWxxWnRsX2JnTzhIWWVlRlRXYjJWSmlVdGVFRVVWRy1LaU5oWFVnUFZuaF9YeXpHcVg1UnJKcTBvSndmTXExOUU?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-06-05 00:54 UTC",
+      "summary": "Zensors physical AI enables TSA’s new standard for Real-Time passenger experience &nbsp;&nbsp; The National Law Review"
+    },
+    {
+      "title": "NVIDIA launches Cosmos 3 for physical AI models - Engineering.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZV9yb2dETjBXM19DNmZ3VFdzRDRMLXdoX3VYa1U3dDlPc010ZjVZOFhyRlBSTC00dlg0MEMxNC1KLWFjc3VGd3JLWmFZTnNUdkhXazRrR0pWX2xKVVJGcGppdXUzN0ZUbndVVHdxdXNDMXlrZHRFbFlkNlk2MFI2MVBR?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-06-04 11:40 UTC",
+      "summary": "NVIDIA launches Cosmos 3 for physical AI models &nbsp;&nbsp; Engineering.com"
+    },
+    {
+      "title": "Micron and MetAI Advance Fab Twin Development on NVIDIA Omniverse to Enable Physical AI - HPCwire",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaTBQQXFUX05tM0RpOGd1OWJGa2F0Ykg1aU5DQWpISmdZXzY4bHRfVE1EOWVtajJNYkxrbnhJTmVDcUZWTzNzUFpJbC02aFRCUXVjUlktNDMtZG8zdl9JZWhreGJ1MTQ1WjVGT01SVXNEbHVyVWRxeXNnc2llNHBzd293UVppajRtZEJCLWgwajh5YmRCWUNzQlFobkJzV0NwWFhxYkp6WUd3VHdIelZCUzJDcE03SW1WNlE5ejdVMExGbHlsN2Rub3Fn?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-06-04 21:38 UTC",
+      "summary": "Micron and MetAI Advance Fab Twin Development on NVIDIA Omniverse to Enable Physical AI &nbsp;&nbsp; HPCwire"
+    },
+    {
+      "title": "HKUST Partners with CalmCar to Establish Physical AI Innovation Center - EE Times Asia",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa3BvQUU2XzI3cEpfbFVUcmJSUlRKYWN6LXJLS2s1OWJ4anVMQUltRkdPcG9uRjg4d3Y2X0RjQVVBbVVfaDYtb19HdmE5Z0NwWTRfNGhtbE9uTEp1NXM1dXZfMHpRa3hJejZwWGp6S1cxcVd1QTcxX0RIQ3VRb29IMDBrUFZaLU9IY21OYXhiaElVQXBnT3hVdUdFOA?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-06-04 22:31 UTC",
+      "summary": "HKUST Partners with CalmCar to Establish Physical AI Innovation Center &nbsp;&nbsp; EE Times Asia"
+    },
+    {
+      "title": "Manual, Pre-programmed, and Physical AI Finishing Compared - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRGthcmJuTU02RGpuTFhLcXhnLVAtYkJuaElReFlkT1JZcE5wNmJnbmMwYXZoZEpOaUtSNGVIczh0OU1veGlEdlFNajQwcktVeXNTS1Fja1A1anhqN0c4M2lMM2N3NFhYUndpZE9tN0xaRTVUbENjcTVTczJ1ZC1jcWF6T2V6MjhvM0VlMWkyWDNPWnh1aUZXcllDb2NSU3h2N0U4VQ?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-06-04 11:00 UTC",
+      "summary": "Manual, Pre-programmed, and Physical AI Finishing Compared &nbsp;&nbsp; Yahoo Finance"
+    },
+    {
+      "title": "As Physical AI Advances, Bigger Models Are No Longer Enough - KoreaTechDesk",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ZdzZiNXN4c0JEUGpfeU1QUjh1V043enJPeWczVGtvdWgzbjRYOU02ekxkU2ZPM21TS3gtdWliMnY1aWNEbVJyQmc0SHdHQ18wXzBaanVxZWdWbnJadWswRE9UeVdRVVI0R2c?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-06-04 23:09 UTC",
+      "summary": "As Physical AI Advances, Bigger Models Are No Longer Enough &nbsp;&nbsp; KoreaTechDesk"
+    },
+    {
+      "title": "Why robotics can’t advance without physical AI - Robotics & Automation News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOalh2Sk5Mb3RhQk5ha1ZrTng4ZHVERnB2MHh4dFVDX2I5Rm1ZNUg4bmVoQjlsUF9ockVOSjRZblVrbVBMb004MWhjSFNvbGJRYzdlbm05TEVwZm11NWZlTTJ1bFZxM183aXA0MEhmY056eXdmNl82dUkzXzAzTDZjS1VpZ0xIaDJjc1VXTTFMbGlKQkxSbU80bVZMVjRDUmxsUi0tWg?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-06-04 15:35 UTC",
+      "summary": "Why robotics can’t advance without physical AI &nbsp;&nbsp; Robotics & Automation News"
+    },
+    {
+      "title": "SolidRun and Peridio Accelerate Development of Physical AI Deployments by Adding Avocado OS to RZ/V2N Vision AI Platforms - AiThority",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeEhmZFpNVGphR1pSWUhsNmpOc0VfU1ZvTFNGMXNmYl85QTJpTWRSZXZYLVJtTTh3UnJRSmRlMnBlMmd2NERrb2dVSXhWRk1XR192aHJwZUhoc0NadG04SGN1Wi1yNVZxQTNROEl5MkN5b2ZHODREZXFmYktJVGFkdDJ4UmVrT3FnV25iWnF3UTY4dW1iRm96cUhjc2VBRndMb0pweFRzcUZPTTNhd09iRDB6akhrb2NBUWZUcnN1QlJyZHpVNDBoa0NWdWRHMjNXaDFLd1QwbUhZV3lwcXZNbUpINDM4U3plTTEzUnRnYVdMS2s?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-06-04 14:29 UTC",
+      "summary": "SolidRun and Peridio Accelerate Development of Physical AI Deployments by Adding Avocado OS to RZ/V2N Vision AI Platforms &nbsp;&nbsp; AiThority"
+    },
+    {
+      "title": "XPENG Invited to CVPR for the Third Time, Showcasing China's Advances in Physical AI to the World - Yahoo Finance UK",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORGkxZHRRbEZ0bHhaVFVXWVlKTXYwTjFaNEwwT0g1bDllcmctU3o5cG51RnF2TkRkSi1EWGhFek5Icjl2TzBRLWpvbHdNUzdTQ0NMdUNQVVFQamxpd2wzZFJxczNPWXlKa2MzU2xBMndxTS1DbDVlZFZDZmVzYTVBOGF4N0c?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-06-04 14:59 UTC",
+      "summary": "XPENG Invited to CVPR for the Third Time, Showcasing China's Advances in Physical AI to the World &nbsp;&nbsp; Yahoo Finance UK"
+    },
+    {
+      "title": "AEye Partners with Michigan Department of Transportation to Showcase Physical AI for Real-Time Traffic Intelligence at ITS America - Business Wire",
+      "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPdUdPb3kxaDc4Nzh2UEt6U0JMZGR2UkVvV1I1c3kxcUxKZXpCckU4blZMQ09ZM1ZYVk9tS1ZKc1RtamRqZ2ZFeE1HUjR3dWU3TVJBS3Y0bHMxWnFlRDlFc29ZQ2dGTGlKRmthUUIyVlM4OG9fOGtPTEhtVE1ZZ2Mxd2VPaXdEbjBZMTRhXzFsT1BpNkhScVJ2ZVhYLUVUamEzN1JQS1p3VjNnZEl1dENWUEl5UGJCTjR4Tms4aUFqN2VwTC10c2tNOGI0RmFSVkc1RzdUdUpXSFkwVVhSS1Z1S3RIN2JBdEdvdm5wVW5GazVvck92VHVMOGdQdEhZNFdycDhTcFhqX2dIVUxHVGhLQ1Q4V2JpUQ?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-06-04 11:00 UTC",
+      "summary": "AEye Partners with Michigan Department of Transportation to Showcase Physical AI for Real-Time Traffic Intelligence at ITS America &nbsp;&nbsp; Business Wire"
+    },
+    {
+      "title": "Nvidia Names SK Telecom Key Physical AI Partner: Joint Committee Targets Chip Fab Autonomy - Tech Times",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNblpVRHRUVUtlQ1BWb0twaVlsVEtFMkN1VWtJTTlyaGdJdm9iT3A2OC1Dd1VTckktWGlyZmxibm1xMGgxNDZYRXhtQ3BpWUZodGVxSUhTcXpoa3k2N0hHazJWV190WHBTT1N2OThrMlpkVmp0NzY2RmpzdVRubHVBcGVsenZvV20wWnhXSnZnTUZlUWpiNmRMLUMwZXRWT1JBYnQ5TmRQcVhMMUMtSnRjdnVxUDkxSzBoNGVXdmdnMVlWTXpGYUJPdE1aSmVtYnV3VkIzVkVCc21veXNB?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-06-04 14:18 UTC",
+      "summary": "Nvidia Names SK Telecom Key Physical AI Partner: Joint Committee Targets Chip Fab Autonomy &nbsp;&nbsp; Tech Times"
+    },
+    {
+      "title": "Beijing's robot 4S store showcases embodied AI in action - China Daily",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03N2ZLNXU4anVkbFIyLWpUV1ktQ2N1TEFmVkZBeEgybWpjbmFLNVBLNTBfUDRXZ29DU3czSGN3MFdMeHJYOFFKVXEzcy1WNFQ4UjRtNXVjVE50SHJmcy03cDA0WW5VRlU5ajlmNUlrTlFZV053d3R4TnZaZm5yUQ?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-06-04 11:26 UTC",
+      "summary": "Beijing's robot 4S store showcases embodied AI in action &nbsp;&nbsp; China Daily"
+    },
+    {
+      "title": "Are Humanoid Robots the Next Trillion-Dollar AI Theme? ETFs in Focus - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ2phV29na19NaXpMYWF4YUx5eDJzQ1RXS1VHQjVUVFBSXzBCdEtsbzY2UkxubzZad0tGSEk0T1BycDJxMFEya2Z5UEl2WDJSYlN3M0V4TkVsa3VtNk9tdDBuQXVHZVN6OUc0cjBsX1Y2LWxTX2RUUUdIaDdtWUo3Wm9xUl9EN3RXaGlTNFl5Mk02VFJGUWlpWlRfdFdoWFJXNXJUdXlIamYydXgwUFdiaDd0ZFdyOXNoajNVNF9CMUk?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-06-04 14:59 UTC",
+      "summary": "Are Humanoid Robots the Next Trillion-Dollar AI Theme? ETFs in Focus &nbsp;&nbsp; TradingView"
+    },
+    {
+      "title": "Interview with CreateMe CEO Campbell Myers: From stitching to bonding – physical AI could transform the way clothes are made - Robotics & Automation News",
+      "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNC1hT2dfd1d2NnBNSC1lc1ltOVQtb2RXN0dndEdJdlFBZE5XUndqN0NDVFFDc08yeFhxWnpDZDY4TXd0cjU2WDJjVUJZeXBnalZVMm5Td0lOSHVaNWpaZkUybzV6OUlNTG1vTUI1OUxVa0I5dHJwcVRiVHIyOWNPWlZtR3pvOUdHTFBnMFpQVFZyclJ6SGg3djVlZzBIOHFrX2dEcVNZMGV2ZFEySjhzdEMtTS11bVU0dXQ4VHN6dlR6c2dMVFBITWN5U2tJNjFtbkNYcW4tcUpLVkt3T2tpMnc1a0IxRGxHZXM1OURSdndoU1l0enpyVURmOUgxV25Gd213emwtN2hfUQ?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-06-04 08:59 UTC",
+      "summary": "Interview with CreateMe CEO Campbell Myers: From stitching to bonding – physical AI could transform the way clothes are made &nbsp;&nbsp; Robotics & Automation News"
+    },
+    {
+      "title": "The industrialization wave of physical AI is surging, and Wuyi Vision surged more than 10% intraday. - 富途牛牛",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPR0NuVWZjZWcxLUZzdUpjWmp4bUR5bkVLc2Y1eXhyV1R4Zkg0eldlY3hCcndkZ1lfRGUxWnlJQ2F5WVUtaXFMaWJJQlg4dHdkUEdIdnZPR2ZZZWc0dGxrNkhBMkZKVGJIYlZ5SDFXbFMzemstaExYVnM2R05nMHE3M2VHcEJVV0JHeTQ1LTZfcmt4RkY5Vi1CcTcxTURXR3d2SzNKMQ?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-06-05 02:02 UTC",
+      "summary": "The industrialization wave of physical AI is surging, and Wuyi Vision surged more than 10% intraday. &nbsp;&nbsp; 富途牛牛"
+    },
+    {
+      "title": "Aeye, Inc. Partners with Michigan Department of Transportation to Showcase Physical Ai for Real-Time Traffic Intelligence At Its America - marketscreener.com",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQWWdwVWMzUnBISlhaYm9lRFpieDRSUmNLVDF6VW9KT05kemszanh6OU9lOTZ4OEg3OUo0WEgtMjZzR0t6X0d5dW8yMlRERThaTmZKTTJVS2xQMHZkMUtRYm95dnlEMHhDQTMweUVieWp4RklaMm9Mak1NZ0Q3dU5fMk5pNjFqSnlWYjEwQlJCbHZ0eE50SHJjWlZlUXBnY2RMZndwTnBUc011eDViRFhqOVU1VTBVN3hET3pxcllQSWRTY3ZqOThwNHBVeHZncHJrUzIyMmhtbDNNdkQ4bEp4Nk5nTEJCdw?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-06-04 15:39 UTC",
+      "summary": "Aeye, Inc. Partners with Michigan Department of Transportation to Showcase Physical Ai for Real-Time Traffic Intelligence At Its America &nbsp;&nbsp; marketscreener.com"
+    },
+    {
+      "title": "Krafton, Nvidia chiefs to discuss physical AI in Seoul - The Korea Herald",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5KdEZOcG0wUTVTMVgydkZQMjR0MktLS2t5cDNwRng2MWwtb0ZFaXFHTnFWaVNPeUFiN2VlcWV2NWIxNXJtWHM0UnRfeEFYRXoyUkg0MGd5QQ?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-06-04 05:42 UTC",
+      "summary": "Krafton, Nvidia chiefs to discuss physical AI in Seoul &nbsp;&nbsp; The Korea Herald"
+    },
+    {
+      "title": "'Special Act on Physical AI' Proposed Ahead of Jensen Huang's Visit to Korea - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9GN0VLb3Rqc1FYU1YtTXhwSHJ2YzZBSGNFbHBUSGhyWkJvelZhbVFsR18wbERvUkMwYnJnRXppWWZISWsteVo4b0V0c3JZRGRXTUZhWWdYUnZ1OVRaYzh0Q0tibEZkVUx2?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-06-05 01:44 UTC",
+      "summary": "'Special Act on Physical AI' Proposed Ahead of Jensen Huang's Visit to Korea &nbsp;&nbsp; 아시아경제"
+    },
+    {
+      "title": "Special Act on Physical AI Introduced to Coincide with Jensen Huang's Visit: \"One-Stop Regulatory Relief\" - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5jeXc5dTdGUGdtZEJVNUh4anBWODJlYVFKc25BcWNoYTIzTlozdl9pS29XbDI1Z1JBWTR2blJjc01LaFVvdlNjN0hqM2NtNWs3RFpvTjZrdXVqVmZaNFBwOC13WEg?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-06-05 01:20 UTC",
+      "summary": "Special Act on Physical AI Introduced to Coincide with Jensen Huang's Visit: \"One-Stop Regulatory Relief\" &nbsp;&nbsp; 아시아경제"
+    },
+    {
+      "title": "Global Objects Announces Strategic Collaboration with Microsoft to Build the Ground-Truth Foundation for Physical AI on Microsoft Azure - AiThority",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQRlB3VHJhOFV2TXZSVHpiM3Npb1BTTTZfc3pscHh0RHdtUkZGdTZfSkhCRmVucU55QlVrRjRXQVRoa3NtRjlJZ1FvbE5FTDJlaUF4ZFQwQjBRTlBpSjNhdEtwOTZOUEg0SHUxN1pyS3BXYWJMLURKWWxmU0dwTXZLdGRKX3Z1bHc1N045c2NWX2FrMkMyMW9teUVNMk41M0dxM0R4eDJnUElBb1duTVptSGxGdU13T1VvSkZBQW81RERrZjMxQ0tyeGdTMTRXb1UtT2NjTTBLTF84c0NXdFFYYzdhT3M4d2YweXE2XzA5OTZEZUV4YXNKdFd0Tk1kcFV3eEE1SHBR?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-06-04 07:45 UTC",
+      "summary": "Global Objects Announces Strategic Collaboration with Microsoft to Build the Ground-Truth Foundation for Physical AI on Microsoft Azure &nbsp;&nbsp; AiThority"
+    },
+    {
+      "title": "Busan Port Authority to Develop Robots and Physical AI Tailored to the Port of Busan - 매일경제",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wd2g1QXFMcGU3UmQxU1VtMjVxZ241MmVpdmQza29tQno0ZjJpUXVKZDg4QkJFMFFORXZoaktRV0lEOTgwa0ZTeEg0Wk01OElVZDhR?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-06-05 01:53 UTC",
+      "summary": "Busan Port Authority to Develop Robots and Physical AI Tailored to the Port of Busan &nbsp;&nbsp; 매일경제"
+    }
+  ]
+}
