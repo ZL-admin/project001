@@ -1,0 +1,842 @@
+{
+  "date": "2026-10-12",
+  "generated_at": "2026-10-12T04:41:51.999430Z",
+  "article_count": 118,
+  "important_events": [
+    "Mecka完成6000万美元B轮融资，红杉领投、英伟达微软跟投，Physical AI赛道资本持续加码",
+    "优必选与建发股份成立合资公司，2030年冲击万台人形机器人销售目标",
+    "摩根士丹利预测人形机器人市场规模将达5万亿美元",
+    "川崎重工宣布豪掷5500亿日元押注Physical AI与机器人",
+    "AWS发布开源Physical AI工具链，巨头基础设施争夺战升级",
+    "埃斯顿登顶国内工业机器人出货第一，打破外资长期垄断"
+  ],
+  "html": "<h2>🤖 具身智能 · 家政养老科技 全球日报 · 2026年10月12日</h2>\n\n<h3>🔔 昨日重要事件跟进</h3>\n<ul>\n  <li>【跟进】<strong>优必选 × 建发股份</strong>：双方正式宣布成立合资公司，明确2030年冲击万台销售目标；优必选深圳工厂已实现每10分钟下线一台机器人，深圳加速冲刺\"人形机器人第一城\"。<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE51OGxuWGNTQXBNdFFLOUlBbGhqajdKMzd5dENuMTBYcDE0U0RpOUNpc1lZSXFxemtmVVhpNWd5eGd0Tjc2emRIVzZSUGNlLU1IaVlOdDJKRGJIZlU?oc=5\">↗</a></li>\n  <li>【跟进】<strong>微亿智造</strong>：港股上市进程持续推进，多家媒体跟进报道\"工业具身智能一哥\"通过聆讯后的市场预期与估值争议。<a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yRTA5NWNNX3JWNGhBVGZUbGNVMTFGUjJCTGZMSldiSVpCaDVxM2RoZkdOajF1RjVuaUNVTnJYbXZTY2lESzdsZTlRWFFreVZS?oc=5\">↗</a></li>\n  <li>【跟进】<strong>厦门长护险</strong>：制度正式落地后，全国长护险扩面趋势明确，太原宣布明年起分批兑现待遇，未来5年医保、长护险将迎系统性变化。<a href=\"https://news.google.com/rss/articles/CBMi2gNBVV95cUxPTHBCa2pwOFdYalE2R3NVSmJwY3NrYU1pTHVqODc0SzFlSUxCdnlDOGQySTY4aVNnbkpNeU1mZnJHOGRIXzlZMGtFdHp1MGVDT1R1bWdXSXg4VXEtRmhMMTVLZ2dESDMtQXotMlFLNjBXRWdPa2xiS1M5aTdyTllDZ1o1RUdwMDJJTkZ2b3phYjI0djh4UHljQXhJNm43TklKVkNUaXhVcWZGeWZ5QWs5SktYb0d3LUZZVm9YVlBjZ2k1UC1pbHhiYlZQTlpQRU5WcnlXWC1LOXFxc2hSSjJpSnRDU01TanZ4aTVjWVUxLU5SWUVNWFhQXzFuMVdGWVpmemY4LS1kMENOYXhRTE9sM1VTaHBicDVfckZZNFRqYzU3QjMzTHZ1NXpzVXVVVDhKbFR2bHFFTWRUdkh5NEE5TnRKUmNtSWlDU0luZjBTSQ?oc=5\">↗</a></li>\n</ul>\n\n<h3>💡 今日洞察</h3>\n<p>\n  今日最值得关注的趋势，是<strong>人形机器人产业的\"链主化\"转型</strong>。头部企业正从单纯的融资受益方，演变为主动布局上游的战略投资者——极智嘉入股深诣、乐动机器人联手华中科大布局传感器，这一动作的背后逻辑是：在商业化验证期，谁掌控零部件供应链，谁就能在量产竞争中建立护城河。与此同时，<strong>Physical AI的基础设施争夺战全面升级</strong>：AWS开源工具链、川崎重工豪掷5500亿日元、韩国MSIT本周启动Physical AI Tech Week，这表明全球资本与产业巨头已将Physical AI视为下一代算力基础设施，而非单纯的应用赛道。<br><br>\n  <strong>思辨性问题</strong>：摩根士丹利5万亿美元的市场预测与行业现实（云深处两年仅卖4台、租金暴跌七成）之间存在巨大张力——当前的融资热究竟是在押注真实需求，还是在为二级市场讲故事？<br><br>\n  <strong>容易被忽视的深层规律</strong>：人形机器人正在经历一场\"手机化\"路径复刻——从硬件堆砌到软件定义，从单打独斗到生态绑定。比亚迪专利曝光、宇树科技王兴兴反思\"对AI不够相信\"，都在释放同一信号：下半场的决胜点不在机械结构，而在AI模型与数据飞轮。谁先跑通\"数据→模型→场景→更多数据\"的闭环，谁才能真正穿越商业化临界点。\n</p>\n\n<h3>📌 今日要闻（3条最重要新闻）</h3>\n<ol>\n  <li>\n    <strong>[Mecka / Physical AI]</strong> Physical AI创企Mecka完成6000万美元B轮融资，由红杉资本领投，英伟达与微软跟投。这是继Inner Sky Labs之后本周第二笔超3000万美元的Physical AI安全与基础设施融资，标志着全球顶级VC对具身智能底层平台的投注全面加速。\n    <br><a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOWFRCaWpaakU1SWx3OFU0Q1ZKdzIxV0dHWG5HNllpNDdJdnowMzZVd0xuRXFLSFZYUjhxU0c2WnpiOXZlQ1lPZDFQTDdLZEFhQ19raGQ5S2dZdElETUhFRHNrcHdQakxDN21MeURNejU1NXJlMFgwT2JEWER0QnhIYkpBdjJTU1JaT1ZSdA?oc=5\">阅读原文 →</a>\n  </li>\n  <li>\n    <strong>[摩根士丹利 / 市场预测]</strong> 摩根士丹利最新报告预测人形机器人市场规模将达5万亿美元，与Yahoo Finance同日报道形成共振。这一数字为全行业融资叙事提供了新锚点，但也将泡沫争议推向高峰——如何在巨大的长期潜力与当前极低的商业化渗透率之间定价，成为资本市场核心难题。\n    <br><a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxPNC1EODdTOENrTkNRbHR1YkZzeFFyb3hMNXlvQzV4ZGpDWGRPR1cwREw1eldXOVlvSWphVm9iOUtEMkdpZzg3VTctUjg4ME8xcmN3blhwajR4ci1wYlFrb25SRTl6TDBnbUVGeGU3d3ctWGVxV21XU2dUTDdRMkF1OHRZWnhhRWp6TmJ5c09aeW1EUUdmZGh5Tw?oc=5\">阅读原文 →</a>\n  </li>\n  <li>\n    <strong>[埃斯顿]</strong> 埃斯顿登顶国内工业机器人出货量第一，打破外资品牌长期垄断格局。这一里程碑不仅是国产替代的标志性节点，更意味着国内供应链体系已具备支撑具身智能大规模量产的工业底座，为人形机器人零部件国产化提供了有力背书。\n    <br><a href=\"https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZMXJOZ0JkNzhqN0pQbk5QVnhicWJwTzJDU3F5RFc5OWJzRmZiVFBQYVhWc2hkRmViZDlGN0diaF9pb1JValFpQ2p2NEhZQWlW?oc=5\">阅读原文 →</a>\n  </li>\n</ol>\n\n<h3>🦾 具身智能 · 人形机器人</h3>\n<ul>\n  <li><strong>比亚迪</strong>：具身智能机器人\"小迪\"外观专利正式获授权，披露31个自由度与灵巧手设计，近年相关专利申请量呈爆发式增长。<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNMTB2OC12SllYTG1wc3dFVjBhcWRuczc5TTI0Ml9IQl9Ma1ljTXRleEI5dV9aTmM2VlFlVTJRTE9UVXpmYXh5bTB6MVg2TlpSYkpKMVlYQTlhelB0SV9FYlQtY0F3S1Ntb2dLcXVYajhHOE85aDVVQXlUMXNHa2htdTBB?oc=5\">↗</a></li>\n  <li><strong>优必选 × 建发股份</strong>：双方成立合资公司，2030年冲击万台人形机器人销售目标，工厂已实现每10分钟下线一台。<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE51OGxuWGNTQXBNdFFLOUlBbGhqajdKMzd5dENuMTBYcDE0U0RpOUNpc1lZSXFxemtmVVhpNWd5eGd0Tjc2emRIVzZSUGNlLU1IaVlOdDJKRGJIZlU?oc=5\">↗</a></li>\n  <li><strong>宇树科技 王兴兴</strong>：公开反思\"过去犯的最大错误是对AI还不够相信\"，表态将加速AI-first战略转型。<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTE1WNUVCZ3hOWXNMdFdrSmxxVHlJOFdadS1pMzNNV1ltM19MVjBoRnVjQ3ZhN2xVb1dKYWtlUGh4NUhtYWxIREVQNnpMd0dldkVjcEZqSXpSZndTSGVtTVpwUGxmX1djLXBpcF9qVEpfVWlBZw?oc=5\">↗</a></li>\n  <li><strong>节卡机器人</strong>：将在工博会全球首发Kargo50重载轮式人形机器人与Zu50协作机器人两款新品。<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPdk44aVpVZWhhdEM0NWtBMEtXeGNUMVNmbFlvcy1HM2tDMmt4YzREcVRlNmU3aTNzQlByWW1zOFVERWtZS2JvQ094Q2dlXzAtZGRUWjhSQ1BzMXpGak5XdGZBeVZuZHc0ZU11eVFOOS10SFBEbUlpNUFOX05Ha19KUmpWSkh6SDRfNkJESWhoQzBySm1fNmN2WGt0ZElNcFNna0VEUXJUMjZnQjdqS011MDRR?oc=5\">↗</a></li>\n  <li><strong>魔珐科技</strong>：发布端到端具身交互智能\"星云\"，推动人形机器人从工具向智能服务角色演进。<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVkk5RlNzRkZ2TzdDSzZxRDN2T3FBNmoxQkJHOVE0X3d6WklTSWltQXVoQy12OVZ6aEFmMURpN19aQldKNXlIYU05RU4yNmZBejZDRTY5NkM5NnNmQXhESURzb01ITlZDdWJBcU9XanNiZktZU1JrNFZyaEROemFrT05LWktLUWYt?oc=5\">↗</a></li>\n  <li><strong>天嗅智能</strong>：杭州智造基地正式启幕，以机器嗅觉传感器切入具身智能感知层，填补非视觉感知空白。<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZVThtdzNIblFzbnAySGtQX0tWUHNCemVRTUFWM0xKMVdLUjlHV2x1aDd2dHRsZnR4RHNFTU54TFZDdlJHSExvcWJvVm9UUzZFeUw5dU1Fdkc0R1FaMTBHS1FwM2RTaXVZUnFNc3VmTFEtdllDNWFwWA?oc=5\">↗</a></li>\n  <li><strong>乐动机器人 × 华中科大</strong>：联手布局三维柔性传感技术，瞄准触觉感知这一具身智能规模化落地\"最后一公里\"。<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VSGwwa0hUQlIxV1Y0Q1ZzbzQxUVBvb3hydkkxcTJLaWJrQi12ZWc4dUR0dDVXTDluSjJDYmNTbUZhZk1HR3dINlkxXzhpbWlLODJfcnJ3UDM0Tjluc3c?oc=5\">↗</a></li>\n  <li><strong>鹿明机器人 × 面壁智能</strong>：达成战略合作，聚焦具身智能规模化落地，推进大模型与机器人本体的深度融合。<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE44T2ZGcU5yalpZQ0FKSi1xTllCd0NzcWJ0REU2OWtUSVAza3BBT0Q2RTRreVZzQ1IzV1BKNDNwSkVrRk1xMkx0RWs1anptLXV6Ym02UmY4cl9WZERBdUoySFd3?oc=5\">↗</a></li>\n  <li><strong>极智嘉 × 深诣科技</strong>：极智嘉入股北京深诣，探索具身智能工业制造规模化应用，仓储机器人龙头向具身智能延伸。<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE00cl9oTlVoQldDOEtKTHI0Uk4yRDhhQ3hiMjVRX0dubDNGb3VhRFp1dmppWDZPbDdidW9pSGw5Rk9ZdDlwTVl1a2pZVnA4elduZGRtd3hSQi1nQVhuRHZuR3RCSi1tRkdiSWZXVTZRWmVQamo0LWhCNA?oc=5\">↗</a></li>\n  <li><strong>BeingBeyond</strong>：发布Being-M0.7，利用1万小时人类视频数据训练人形机器人行走与抓取能力，数据驱动路径引发关注。<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPcXlNS0hWWk5IcUlNMGNPTWxYWUVzV0hFUTFIX2pNUVVoczNWaWRmQlVKUW9sR2NTX2ZKZ1RQUW5ZdjNfN3R2VTlGV0NPT2RJR1pqeDFtVjRfaXU5MVpIMUpSOU5TUXY3LXVXNy16T3lyb3ExT1czYnZtVzJUYlV0cmh5UDlJa3diNUlsODZMX1FkT1lWSHdpWnAzTjdKd0lrcEdRMnVsU3hrVndC?oc=5\">↗</a></li>\n  <li><strong>小鹏汽车 IRON</strong>：宣布人形机器人IRON计划于2027年下半年在欧洲市场推出，国产人形机器人首次明确海外时间表。<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ01Ud3U4Skg2cUUxby1yb0hEZjNwTy10OGFrX3JVZFc1bUd5QWdCNEZXcTVzWkhVWUl3UV9PaU5XOExQaG1uaUR0NkU2enFGOGw1b3NaVGtfU1QxWWJ1N2JjM21sUVFRV09oVzZ3eEpmX09NMUdDZjZZT3JLX1JuS2xKaWxkTVpzaXdsRzRpbE9kd0NKVDU2aDY2dEY2OGhYd0N0aE5Ycw?oc=5\">↗</a></li>\n  <li><strong>宇树科技 G1</strong>：G1人形机器人赴斯洛文尼亚卢布尔雅那管乐团游行活动担任\"特别嘉宾\"，全球曝光度持续提升。<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ05OZFNkRmRkdjJxcFhmMS1TbUc4NTdLcVpNaVFFZG5BX0QxX05pdkVrTUhzOXJLQzRkaFdJb3d4UGYyOVJFak9rT3lPV0RqRUV0azgyZEo0Snl0U1F0UkVtTTd2amF6MlJWbDdORGt3WFBTbkFBZ3psUGxubjV3T0Z4ODRwZndHcDFVbHlmWGJQZw?oc=5\">↗</a></li>\n  <li><strong>江苏移动</strong>：具身智能产品进入医疗、制造、安防等多场景落地应用，运营商跨界布局提速。<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPWS1WMDAzQUhCa1dLUjJtQVpxSEFCZWdXOEJDV0QxaFhQdGMzUVdXRnJ1X1NYZ1FUWWtOY0pGdGpQeThMNGNiX1BOVFViei1ya1J5OWJGM3lmYjIxLXRMSnFzTGs2ZE1TaHpQSjNQX0VRNEZLWnlmaGlZQ2F0aWZKZ19ENHJWS0VGeGo4bA?oc=5\">↗</a></li>\n  <li><strong>广东省</strong>：具身智能应用场景揭榜巡回大赛正式启动，将赛场直接设在产线，以实际工况检验机器人能力。<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPczhXMmZjVW1HOG1DcEE5alI4TjJ6ellHNEdBOXlCVWc0X0VudF8tZnBMUWsxRTlyNkJtMGxqZDZ4VVg0bVB3Z192M3ZGdEhfcGRyWjJLNHZIcTJ6M1NlUWhFZDBhM1FVdW1RcjJFMXRJSUxMSFVyalRYbnRXTmtOemNnd3N5RTJRaTlVNg?oc=5\">↗</a></li>\n  <li><strong>工博会</strong>：磁悬浮上产线、人形机器人拧螺丝，今年参展商集体转向\"落地\"叙事，概念展示时代正在终结。<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RWl9zZm9nd0FaQ0NOcG9UQXM1VFdyanNnUVlNR1NpNDNZN3cwQXhsSUR3OE1hWHZST005Y2g1RkJXYU13ZGRJZzRQX1hiYkdaZE5mS3IxVWs?oc=5\">↗</a></li>\n  <li><strong>高交会</strong>：八大头部企业领衔，近百家具身智能企业集结亚洲机器人产业链展，产业集聚效应凸显。<a href=\"https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tODhZbE9QWlo5eWNXQkdTeFlyNVVFZzBzYTgwdzBrTXJpNTlPNms2V0VGbGI1OGItQ3ZYRmtSa3o0SThXeVg5dFYyaTFMdDBNWHU1Wkc1NnQ?oc=5\">↗</a></li>\n  <li><strong>人形机器人行业</strong>：《经济参考报》与新华社集中报道量产提速与商业化大考，官方媒体定调产业进入关键验证期。<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxNX3RzeGxEc3N4Y2NLNzFEVDhBSGIxdFZMZzNtamVFd3pVQnJrQTlicVo1eEdKOXNYSEZTRHVUQXViX0t3d196STFzbkF3WU1mU0hiclFyLWRoVm9wMG1xUk52TzhXQ3p6M2xUaGU3NUN2Nm4xVzZpOThLaFZoUVAydg?oc=5\">↗</a></li>\n  <li><strong>人形机器人企业</strong>：行业观察揭示头部企业普遍\"一边融资、一边投资\"上游，链主化战略成新趋势。<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RYXJJVnVMUm92TVZ2UVZSUVprVHNOOHFFTDdSVHo0WENOZHNUZmVDdzBjT29mM3ZtaUdibEpOal9GZEs1OHA1ZC15cmhnbUNtYlBV?oc=5\">↗</a></li>\n  <li><strong>车企 × 人形机器人</strong>：汽车之家分析指出车企扎堆具身智能的核心动机是\"卡位Physical AI\"，而非单纯跟风制造机器人。<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DZFhvVldvNG96YXd1anhqdmxZVDVZTFk0aEJqaE5LNzhNVGp4YVVzU3ZhV21kb2dCeV9XTGU0OUtDNHF2TXE3eWtxaDdkc2tKcFRYd3lUMXBtSUE?oc=5\">↗</a></li>\n  <li><strong>\"RISC-V第一股\"</strong>：RISC-V芯片企业登陆港交所，明确以RISC-V+AI布局具身智能浪潮，国产芯片生态加速入局。<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTFA5QUFQY0lxUUloQnFkNGtiOU1STkE0RG5TUk1KUDMzRG9KUWJ0aVRpbVQ5UjYzMENSYktrVTBxYjloX3daZEZnX1FLLU5DaVBnVzRBemt5Rzltdk8zTDlCZWdMNnVKeTdCMzl2U0RqWG1DelU?oc=5\">↗</a></li>\n  <li><strong>具身智能产业</strong>：国家层面着力构建\"全国一盘棋\"新格局，具身智能写入新质生产力顶层文件，产业景气向上趋势持续。<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNZkxmTy1SNGdDQW9ValRYNWFPN0JrVUFPREE0M0tYSDl1Wng2VE9NLUZoemtfbWlUcFdKa0R4TXFBdmtmdlZldzlVYTlqT2FyVVZodzJEaGxfeTB0Zy1xTF9lZFpxRzRXTmJoWmd4WHplYjRBQ3VvSmZWX053d1p2S1A1bHZDbnIzeEdqdg?oc=5\">↗</a></li>\n  <li><strong>石家庄工程职业学院</strong>：成立具身智能机器人产业学院，职业教育加速布局机器人人才供应链。<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOWC1RQlVFd1pTWW9QcmtpSnp4NFVNd2pEQUEyc0puRjBIaUY3Rk52UGg3NE43aHNWUE16SklIb1BCZ3B3c1J6YUFrRzR1cks0SDNZeUJ0Y3FSbjA3b3lmLXROTnduRThRd3NpVG5RY0JvNUxEVWRVRTdGNlM0VnNvWm1R?oc=5\">↗</a></li>\n  <li><strong>丹麦超市</strong>：人形机器人正式进入丹麦连锁超市夜班测试，承担货架补货等体力劳动，欧洲零售场景率先落地。<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQUnFydDhqa1ZHMXlGZUVGOEFTWEo0dkpOVkI3Qk45Nk9EY0xkMjh0dllDOXdGb0VQVlp3b0VIeTZuZEQtV1NscnNfNkp0YzRMUHhwal9HNmtMLWw4VkJrS3U1YmVMSlMteGFHVThjOFVkTlVNWnBfaHZPLWRaWnIzU25DZ2RzTk84YW14NDJtYWNaano4R25Xb2x3M3RQa2hZTnV2SlFhQkFrWWhxR013LXpzS05qbDFEZ1VHcUJFUUdqNm1KZnc?oc=5\">↗</a></li>\n  <li><strong>DRAM市场（三星/SK海力士）</strong>：预测显示人形机器人对DRAM的需求将于2030年前激增20倍，韩国存储巨头股价应声上涨。<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNlAzSGVQbDFjZnFtYmlJNXdhX0tQREhPeUV6amx6OUt6VXAzcm4zcUR6Ny1BOS1HVGhkOEYtZ3BPbWpqUGQ1Um1TMDYtekRoY3BFV1lFaFY1MlJRM0NLcnFrbmpSWVZBbjhNZTZoNzhQeUlEeHpIdFk1SlhyMjJUaDZxNkl1eWdR?oc=5\">↗</a></li>\n  <li><strong>川崎重工</strong>：宣布将在Physical AI与机器人领域投入5500亿日元，日本重工业巨头全面押注具身智能转型。<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMTFsaS1QUENfN1ZsSHpwb0RhYkhlVUk1VEZFVTZOR2Q0MFhhX2haSy1kc2JiTVdpNUdzTDloa0gyVFNOV3pnV1dOSmp4cExDQ1ctaXItWGEzOTF6a1FQQ2lZc0U1S0NidjNhOVcyQU9laHVQa3ZfQ2V1RFFYUHFsT3dQRWNya08wWEJDa1BaX2dmeGlTMzBaLVVESXZ4TmZMUjNERjlMS3o?oc=5\">↗</a></li>\n  <li><strong>AWS</strong>：发布开源\"Physical AI Toolchain\"技术栈，云计算巨头亲自下场构建具身智能开发基础设施。<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPT3JuaFdzN2RzaktJaVdaV3lkU1FKQzh5UUxBY0xIM0N1ZnZQV1hMRFVEQ3V3bGdLUDN0MXEzN3ZnNFM2T3hUOE9HQWdWdkN4RlM3SXotaFFZbF94Y0ZhMG0xNHZucjRCNHdDelhjdVFHTFQ4SHFZZF9RX1FHMTRQSjNVSk1kTUJ1OXNKajd0bjhfQ0pFaldGZzlvcGlzQQ?oc=5\">↗</a></li>\n  <li><strong>KAIST</strong>：发布超越人形机器人单一形态的\"Physical AI平台\"战略，强调通用具身智能的跨平台能力。<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE92b0dydkkyTHd3c1ZnUHBmVG5KSmZ3a092WENLaVU1Zl9PeFJUQkZoc2xsYlhlNU9tOWN2RDNhNmd0d2lONEdwZGZzTmRkV0pBWEZueEsyQ2Z4eUxwZk1Kb3hFTmZDMktVd0lDb0kwOF90MjFiMVE?oc=5\">↗</a></li>\n  <li><strong>SK Square</strong>：投资日本Physical AI独角兽Mujin，韩国资本加速布局全球具身智能供应链。<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE11MmVCemRFM1JRQ2FCc0xZRlBjZHVJNW82MHFhMGJYZUlZblZYdXVxOW9taFpXd2pyVUFJa2REbUpyaHJiVWtDOF9zYnlTZ3N2Qk13UlRSMFVENWlibzZHNmU2TWo5bkNWcG9RSnB3QjVuZkdsazRjSWFRWHpEWlk?oc=5\">\n<div style=\"margin:28px 0;padding:18px 24px;background:#f0f7ff;border-radius:10px;text-align:center;\"><p style=\"margin:0 0 12px;color:#444;font-size:14px;\">对今日洞察有疑问？想深入探讨？</p><a href=\"https://claude.ai/new?q=%E6%88%91%E5%88%9A%E8%AF%BB%E4%BA%862026%E5%B9%B410%E6%9C%8812%E6%97%A5%E7%9A%84%E3%80%8A%E5%85%B7%E8%BA%AB%E6%99%BA%E8%83%BD%C2%B7%E5%AE%B6%E6%94%BF%E5%85%BB%E8%80%81%E7%A7%91%E6%8A%80%E5%85%A8%E7%90%83%E6%97%A5%E6%8A%A5%E3%80%8B%E3%80%82%E6%88%91%E5%9C%A8%E4%BB%8A%E5%A4%A9%E7%9A%84%E6%97%A5%E6%8A%A5%E9%87%8C%E7%9C%8B%E5%88%B0%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BC%81%E4%B8%9A%E6%AD%A3%E5%9C%A8%E4%BB%8E%22%E8%A2%AB%E6%8A%95%E8%B5%84%E6%96%B9%22%E8%BD%AC%E5%9E%8B%E4%B8%BA%22%E6%8A%95%E8%B5%84%E6%96%B9%22%EF%BC%8C%E4%B8%80%E8%BE%B9%E8%9E%8D%E8%B5%84%E4%B8%80%E8%BE%B9%E5%B8%83%E5%B1%80%E4%B8%8A%E6%B8%B8%E2%80%94%E2%80%94%E8%BF%99%E7%A7%8D%22%E9%93%BE%E4%B8%BB%E5%8C%96%22%E6%88%98%E7%95%A5%E7%A9%B6%E7%AB%9F%E6%98%AF%E4%BA%A7%E4%B8%9A%E6%88%90%E7%86%9F%E7%9A%84%E4%BF%A1%E5%8F%B7%EF%BC%8C%E8%BF%98%E6%98%AF%E6%B3%A1%E6%B2%AB%E6%89%A9%E6%95%A3%E7%9A%84%E5%89%8D%E5%85%86%EF%BC%9F%0A%0A%E8%AF%B7%E5%B8%AE%E6%88%91%E6%B7%B1%E5%85%A5%E5%88%86%E6%9E%90%E8%BF%99%E4%B8%AA%E9%97%AE%E9%A2%98%EF%BC%8C%E7%BB%93%E5%90%88%E5%BD%93%E5%89%8D%E8%A1%8C%E4%B8%9A%E8%83%8C%E6%99%AF%E5%B1%95%E5%BC%80%E6%8E%A2%E8%AE%A8%E3%80%82\" style=\"display:inline-block;background:#0071e3;color:#fff;padding:10px 28px;border-radius:20px;text-decoration:none;font-size:14px;font-weight:500;\">💬 与 Claude 深入探讨今日洞察 →</a></div>",
+  "articles": [
+    {
+      "title": "Paragon养老机构融资突破1.25亿英镑，支持全英550余张床位 - AgeClub",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE95c0FjcjlPQVZTSFZQVm1WMEtPWGVlT2JhWk9lZ2k0ZzNBdjJiSERERjV4eDVuOTJCdW9xbzVoZzdCV1pZVHpfOVVVeVNoUWk1WHZ0WTlvZw?oc=5",
+      "source": "爱老网 AgeClub",
+      "published": "2026-10-12 01:03 UTC",
+      "summary": "Paragon养老机构融资突破1.25亿英镑，支持全英550余张床位 &nbsp;&nbsp; AgeClub"
+    },
+    {
+      "title": "新华读报｜量产提速 人形机器人迎商业化大考 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdFVJcnBvQU5Jem93OTZYLXc5Zk9JZlROOHhXTUVTX3l3c0xGUE1xQnpwTFhjZ0VrMTNtQXJqdWxOY2g0alBVSk83Qm5lZmdsd0N1TVZzeVFXTXRiNVltX282dDdzd1V3d0FCSVRJbGxnMWU3dm9ETHFza2dGZWZleVJYYlpDZl9Z?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-10-12 04:14 UTC",
+      "summary": "新华读报｜量产提速 人形机器人迎商业化大考 &nbsp;&nbsp; 搜狐"
+    },
+    {
+      "title": "乐团的人形机器人指挥 - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ19ETXc3Yl9yV2hEaklTSl9vLXNPbXpsMm4wZGV0RTVWcTl2SFd2N2pZRUxtZEY1SEEzYk5oaFluaUMtNm9xTkhsMkJsSmxHWUFmLVg0Ul9OOHB3ZlBaLXh2M0JqQWxQeUhVbG5xVGJMOTNSU2pNMkhhU2xlRkxsN2F3Q2twQQ?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-10-11 22:24 UTC",
+      "summary": "乐团的人形机器人指挥 &nbsp;&nbsp; 新华网"
+    },
+    {
+      "title": "比亚迪人形机器人外观专利公开 - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1sNl92OFlBSXg2VHVPS0V3Rk5TNHFLNmotYjJHYlRyS2puenh4ak1OSEVkY3hNbi00Z3Z0ejB5NHItQ3ZTdWprSmJxYkl5TVJFVW5ubk4ycTFfdjA?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-10-11 09:58 UTC",
+      "summary": "比亚迪人形机器人外观专利公开 &nbsp;&nbsp; 汽车之家"
+    },
+    {
+      "title": "比亚迪人形机器人外观专利曝光，近年相关专利申请量呈爆发式增长 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOYXBIQ3MwUkkxdzF1TjNfLXl5ZmxPalA2QW9tS1RCMUlyemJXcXBCTXpQMlZCUlZIMm9tRTlqc3QwYTduSDR6dXJmbUM1bHZYM0VfWi14R0c0ZVFjX0xxb0VJQ2pweXNhWS0yZkZHb0NhWkZ0b1ROSWNId1pBWFF4dkZBeU9Ud3A2ZGZPYQ?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-10-12 03:42 UTC",
+      "summary": "比亚迪人形机器人外观专利曝光，近年相关专利申请量呈爆发式增长 &nbsp;&nbsp; 搜狐"
+    },
+    {
+      "title": "车企扎堆押注具身智能：不是跟风人形机器人，而是卡位物理AI - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DZFhvVldvNG96YXd1anhqdmxZVDVZTFk0aEJqaE5LNzhNVGp4YVVzU3ZhV21kb2dCeV9XTGU0OUtDNHF2TXE3eWtxaDdkc2tKcFRYd3lUMXBtSUE?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-10-12 00:49 UTC",
+      "summary": "车企扎堆押注具身智能：不是跟风人形机器人，而是卡位物理AI &nbsp;&nbsp; 汽车之家"
+    },
+    {
+      "title": "磁悬浮上产线、人形机器人拧螺丝，今年工博会参展商开始拼“落地” - Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RWl9zZm9nd0FaQ0NOcG9UQXM1VFdyanNnUVlNR1NpNDNZN3cwQXhsSUR3OE1hWHZST005Y2g1RkJXYU13ZGRJZzRQX1hiYkdaZE5mS3IxVWs?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-10-12 01:27 UTC",
+      "summary": "磁悬浮上产线、人形机器人拧螺丝，今年工博会参展商开始拼“落地” &nbsp;&nbsp; Jiemian.com"
+    },
+    {
+      "title": "人形机器人企业“变形”：一边融资，一边投资 - 电子工程专辑",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RYXJJVnVMUm92TVZ2UVZSUVprVHNOOHFFTDdSVHo0WENOZHNUZmVDdzBjT29mM3ZtaUdibEpOal9GZEs1OHA1ZC15cmhnbUNtYlBV?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-10-11 23:31 UTC",
+      "summary": "人形机器人企业“变形”：一边融资，一边投资 &nbsp;&nbsp; 电子工程专辑"
+    },
+    {
+      "title": "量产提速 人形机器人迎商业化大考 - 经济参考报",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX3RzeGxEc3N4Y2NLNzFEVDhBSGIxdFZMZzNtamVFd3pVQnJrQTlicVo1eEdKOXNYSEZTRHVUQXViX0txd196STFzbkF3WU1mU0hiclFyLWRoVm9wMG1xUk52TzhXQ3p6M2xUaGU3NUN2Nm4xVzZpOThLaFZoUVAydg?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-10-12 02:20 UTC",
+      "summary": "量产提速 人形机器人迎商业化大考 &nbsp;&nbsp; 经济参考报"
+    },
+    {
+      "title": "湖北人形机器人组团亮相2026武汉人工智能与机器人博览会 - 国际在线",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9iUmhYWURiUGZsV0g3aFBGcy1STURqckE4S3FDUmlfQV9GVVF2U3dzNFd5RmxUeC1JLUhrQmxDUmhXdjJrOHY4ZWhRS2FmYnoxeE0wbWRxTVNrZnZORVRuNmxONk4tS1ZjWVlueVNhd0ZOZzZoaVJIXzJR?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-10-12 02:14 UTC",
+      "summary": "湖北人形机器人组团亮相2026武汉人工智能与机器人博览会 &nbsp;&nbsp; 国际在线"
+    },
+    {
+      "title": "人形机器人进入量产验证期 国内零部件交付有望持续放量 - 中金在线",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBJZk5BTzd1b1Yxb0FDZFFSakpvczU3MmFmV1JUUUpIX0x3Z1FNd2lIaTFZRWt3MmdScks0X2czWlRJWUNPdzl3WmN6bWx6QzVuQlFuMDBremYyN0Rjc0FmRWlHeF8zc1NiVGl1aHZaaWROZw?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-10-12 00:17 UTC",
+      "summary": "人形机器人进入量产验证期 国内零部件交付有望持续放量 &nbsp;&nbsp; 中金在线"
+    },
+    {
+      "title": "人形机器人卡在AI临界点 - RFID世界网",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE80MGhEaGRPejg3MHV1Y2V5aVNwWWRwU2RfdFVPMWg5bXNPM0phNjVSRkZGM1RKVE5KS3Y5alhrR2Z4WGRpR3ZuWERweHoyRFlEb2I4alFMVXFIRko4dkp1NG42dmVXTFBTT1JfWA?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-10-12 02:13 UTC",
+      "summary": "人形机器人卡在AI临界点 &nbsp;&nbsp; RFID世界网"
+    },
+    {
+      "title": "除了不能打电话，人形机器人越来越像手机了 - CSDN博客",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwUUNOUkFsbTZaemw2UDlEMllScnU1RllSMWtCRE5EeU1Ma3FfNnBpRWh3ZUc3RkxyUlNiTWxCbXNQM0xMMmp5OGhwcXQ2U1lnNTN5dkJ2YkNtbDVSTzJ5VzVNdE8xb0wxY3V1UDl3?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-10-12 02:00 UTC",
+      "summary": "除了不能打电话，人形机器人越来越像手机了 &nbsp;&nbsp; CSDN博客"
+    },
+    {
+      "title": "优必选宣布与建发股份成立合资公司 - 盖世汽车",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TdVJ6aFlBS3JBQmlGa2UxajZrZzhISWJrSGd5cGY1cUw2Vm9jcWRmN2pjVXdZUFI5bl9zRmdsNW9UcDJpZzZQVGk3QmZnYk51?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-10-12 01:21 UTC",
+      "summary": "优必选宣布与建发股份成立合资公司 &nbsp;&nbsp; 盖世汽车"
+    },
+    {
+      "title": "英伟达被曝洽谈收购或加码投资Reflection AI；优必选联手建发股份共推万台人形机器人销售｜数智早参 - 21财经",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTWhWYVNGUzNZVTZKa2pLajdTbGZqUW1PMHhvODVsMF9EVDNYZml4a2JMWGt5Vlo0TFMxUmF4bzNVblM0aUltczY2OEczemhnRjhERnM0WklSaXZvYjhxTTk4Si12M081ZHB3QzRMaDdsaXdwVDNZbWY5RVN0TGxMdHRHeDZ1dEc1SHNxdUdGUQ?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-10-12 00:23 UTC",
+      "summary": "英伟达被曝洽谈收购或加码投资Reflection AI；优必选联手建发股份共推万台人形机器人销售｜数智早参 &nbsp;&nbsp; 21财经"
+    },
+    {
+      "title": "乐团的人形机器人指挥 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVUxONml4OE83ZlBkanE5R1ZyaV9VTVJVMVFTX0Zscy1Kbm5WNF81d1cwZmc1RlFTUlFzRkVEZk5IclV6b2drSmgtal9BM0R5WnhQeVM3NUMwRHNERElfbEZmTHRFaUFhby1keDFKTnVnbVhLa0dSeGpCdXB5VU9wa0pUTzNmVFZ4?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-10-11 22:11 UTC",
+      "summary": "乐团的人形机器人指挥 &nbsp;&nbsp; 搜狐"
+    },
+    {
+      "title": "八大头部企业领衔 近百家具身智能企业集结 | 高交会亚洲机器人产业链展蓄势待发 - Jiemian.com",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tODhZbE9QWlo5eWNXQkdTeFlyNVVFZzBzYTgwdzBrTXJpNTlPNms2V0VGbGI1OGItQ3ZYRmtSa3o0SThXeVg5dFYyaTFMdDBNWHU1Wkc1NnQ?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-10-12 03:08 UTC",
+      "summary": "八大头部企业领衔 近百家具身智能企业集结 | 高交会亚洲机器人产业链展蓄势待发 &nbsp;&nbsp; Jiemian.com"
+    },
+    {
+      "title": "魔珐星云端到端具身交互智能，推动人形机器人走向智能服务角色 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVkk5RlNzRkZ2TzdDSzZxRDN2T3FBNmoxQkJHOVE4X3d6WklTSWltQXVoQy12OVZ6aEFmMURpN19aQldKNXlIYU05RU4yNmZBejZDRTY5NkM5NnNmQXhESURzb01ITlZDdWJBcU9XanNiZktZU1JrNFZyaEROemFrT05LWktLUWYt?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-10-12 01:46 UTC",
+      "summary": "魔珐星云端到端具身交互智能，推动人形机器人走向智能服务角色 &nbsp;&nbsp; 搜狐"
+    },
+    {
+      "title": "车企扎堆造人形机器人，全球出货近2.5万台 - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE4wSWpMSUtqN28xZ0hJem1Qdnhna0NTZmN0aGdWendhTTl1aWFTS3V2Z2gzMThJbmJKM2o2RjU0eDJfVnBNNXBOUzhQcEJsYW9jRDQwOERRQWlfQ1FoZGpxWmhvazRHbEFYcV9j?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-10-12 01:19 UTC",
+      "summary": "车企扎堆造人形机器人，全球出货近2.5万台 &nbsp;&nbsp; 汽车之家"
+    },
+    {
+      "title": "车企涌入人形机器人赛道：上半年出货2.5万台 - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYcWtuc1BKbjBmZ3d2YjM4YzdCR3g1Qy02NWFOcnFfRS1OUHVmTnJWOHlpRlNzM185SXBCYWJIcnpCTlVabHIyajgyclM5bEtOMG9zZTNrdjZ1bVk?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-10-12 01:19 UTC",
+      "summary": "车企涌入人形机器人赛道：上半年出货2.5万台 &nbsp;&nbsp; 汽车之家"
+    },
+    {
+      "title": "优必选建发设合资公司，2030年冲万台人形机器人销售目标 - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51OGxuWGNTQXBNdFFLOUlBbGhqajdKMzd5dENuMTBYcDE0U0RpOUNpc1lZSXFxemtmVVhpNWd5eGd0Tjc2emRIVzZSUGNlLU1IaVlOdDJKRGJIZlU?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-10-12 02:23 UTC",
+      "summary": "优必选建发设合资公司，2030年冲万台人形机器人销售目标 &nbsp;&nbsp; 汽车之家"
+    },
+    {
+      "title": "我国着力构建具身智能产业“全国一盘棋”新格局 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZkxmTy1SNGdDQW9ValRYNWFPN0JrVUFPREE0M0tYSDl1Wng2VE9NLUZoemtfbWlUcFdKa0R4TXFBdmtmdlZldzlVYTlqT2FyVVZodzJEaGxfeTB0Zy1xTF9lZFpxRzRXTmJoWmd4WHplYjRBQ3VvSmZWX053d1p2S1A1bHZDbnIzeEdqdg?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-10-12 01:19 UTC",
+      "summary": "我国着力构建具身智能产业“全国一盘棋”新格局 &nbsp;&nbsp; 搜狐"
+    },
+    {
+      "title": "比亚迪发布首款自主研发的人形机器人设计 - Moomoo",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPaEFGMjVpOGNXWVNaTWhORjVicWNwcW5JOUxERERrUmdUY0c3UDR1QmhmWkJ4aE1LdEpsRWZaWlBjWXJObnNoQndIVjdGYV9BNHVzNXRvbGNONENvcmxyVHNUdVJOdUZxYVB4ZWY2QnRrczdvbzNhUHZfc1pXWURVTHExNTZKekNRdXd2R2Utc3JadDJzaUNaRmlCWk5wTjJMNllMT2g1LXhUa2VRdi1wTWpFTE1BTUV1T1FyMnlR?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-10-11 05:31 UTC",
+      "summary": "比亚迪发布首款自主研发的人形机器人设计 &nbsp;&nbsp; Moomoo"
+    },
+    {
+      "title": "小智一周要闻| Figure退役机器人跳入钢水熔毁；比亚迪人形机器人外观专利公布_车市动态 - 中金在线",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBhbXpXendWUVYzckVpbk9VeTV0TjU1bEd5YWRPMG1fRFBfRmhhVmhOOXR3Z3VZdDIzQlJPaDVidFpxcGJJQjVxUDZ5NnNtTmJnTk1tbEYxa2NmaEpfdmRXWnQ4YlF0a3VTWEM0?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-10-11 08:59 UTC",
+      "summary": "小智一周要闻| Figure退役机器人跳入钢水熔毁；比亚迪人形机器人外观专利公布_车市动态 &nbsp;&nbsp; 中金在线"
+    },
+    {
+      "title": "机器人行业周报：具身智能写入新质生产力顶层文件，产业景气向上趋势持续_行业研究_研报 - 证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xbU1EUHN1ZF92ZUlfQTR2djNlajJxR0hrRjVwXzRhZWQxMnowbDdySmZpbUxpWGtEbHhKRTVhQmlnQXlFMldIRGxWMW1zZW1IQ1pMWkEzdXFuMkw5QTlkYlhR?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-10-11 11:55 UTC",
+      "summary": "机器人行业周报：具身智能写入新质生产力顶层文件，产业景气向上趋势持续_行业研究_研报 &nbsp;&nbsp; 证券之星"
+    },
+    {
+      "title": "优必选宣布与建发股份成立合资公司 - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TQ0l2cU1aaDRpQmZWNngzaF93bHVxVkdjRXFzS3VaX3RpNDhfYkdXUUVtOGMxUjJWaTYwYnhuQkxDRnAwOVpkVFpwaDFUTlJmb2Z3YnZsMFMyQjg?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-10-12 04:22 UTC",
+      "summary": "优必选宣布与建发股份成立合资公司 &nbsp;&nbsp; 汽车之家"
+    },
+    {
+      "title": "速递｜Physical AI创企Mecka完成6000万美元B轮融资，红杉领投，英伟达、微软跟投 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWFRCaWpaakU5SWx3OFU4Q1ZKdzIxV0dHWG5HNllpNDdJdnowMzZVd0xuRXFLSFZYUjhxU0c2WnpiOXZlQ1lPZDFQTDdLZEFhQ19raGQ5S2dZdElETUhFRHNrcHdQakxDN21MeURNejU1NXJlMFgwT2JEVER0QnhIYkpBdjJTU1JaT1ZSdA?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-10-12 02:00 UTC",
+      "summary": "速递｜Physical AI创企Mecka完成6000万美元B轮融资，红杉领投，英伟达、微软跟投 &nbsp;&nbsp; 搜狐"
+    },
+    {
+      "title": "人形机器人担任指挥 - 国际 - 国际拼盘 - Sin Chew Daily",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1zNGJzV2VrZFhMRHo4ZGpIVHlHYzVQSDJrR3NmYTJkWTByZ0lyMTIwT3R6ZFdDVVk5cU9oMHhIUmxRUDNGM2d0RldjdUdNZ3lzUkhaVWNIWUtJOWsxQTZjdXZNdElXaTRQMWlCTVFYQQ?oc=5",
+      "source": "Google News: 人形机器人",
+      "published": "2026-10-12 04:16 UTC",
+      "summary": "人形机器人担任指挥 - 国际 - 国际拼盘 &nbsp;&nbsp; Sin Chew Daily"
+    },
+    {
+      "title": "天嗅智能杭州智造基地启幕，机器嗅觉为具身智能打开全新维度 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5ZVThtdzNIblFzbnAySGtQX0tWUHNCemVRTUFWM0xKMVdLUjlHV2x1aDd2dHRsZnR4RHNFTU54TFZDdlJHSExvcWJvVm9UUzZFeUw5dU1Fdkc0R1FaMTBHS1FwM2RTaXVZUnFNc3VmTFEtdllDNWFwWA?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-10-12 03:48 UTC",
+      "summary": "天嗅智能杭州智造基地启幕，机器嗅觉为具身智能打开全新维度 &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "我国具身智能产业化加速落地 - 上海热线",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB5bnZCWGo0d0xYTDZ0TS1vQkExczRreXFJR04tUjR1WW12YnpxR3ZkQm5nZ3BUTzRMdUVBd1laSlotZDhmSWktRnhNeHZfRXhSQVpMcXJrRGVQMFl6MzluUWxaUDZtLVVyZjFOaS1zUWE5bW5xeXNtQXRRMDJYdw?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-10-11 23:00 UTC",
+      "summary": "我国具身智能产业化加速落地 &nbsp;&nbsp; 上海热线"
+    },
+    {
+      "title": "“工业具身智能一哥”通过上市聆讯，微亿智造抵近港股 - 凤凰网财经",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1yRTA5NWNNX3JWNGhBVGZUbGNVMTFGUjJCTGZMSldiSVpCaDVxM2RoZkdOajF1RjVuaUNVTnJYbXZTY2lESzdsZTlRWFFreVZS?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-10-11 14:18 UTC",
+      "summary": "“工业具身智能一哥”通过上市聆讯，微亿智造抵近港股 &nbsp;&nbsp; 凤凰网财经"
+    },
+    {
+      "title": "江苏移动具身智能产品进入多场景落地应用 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWS1WMDAzQUhCa1dLUjJtQVpxSEFCZWdXOEJDV0QxaFhQdGMzUVdXRnJ1X1NYZ1FUWWtOY0pGdGpQeThMNGNiX1BOVFViei1ya1J5OWJGM3lmYjIxLXRMSnFzTGs2ZE1TaHpQSjNQX0VRNEZLWnlmaGlZQ2F0aWZKZ19ENHJWS0VGeGo4bA?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-10-11 12:00 UTC",
+      "summary": "江苏移动具身智能产品进入多场景落地应用 &nbsp;&nbsp; 搜狐"
+    },
+    {
+      "title": "极智嘉入股北京深诣 探索具身智能工业制造规模化应用 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00cl9oTlVoQldDOEtKTHI0Uk4yRDhhQ3hiMjVRX0dubDNGb3VhRFp1dmppWDZPbDdidW9pSGw5Rk9ZdDlwTVl1a2pZVnA4elduZGRtd3hSQi1nQVhuRHZuR3RCSi1tRkdiSWZXVTZRWmVQamo0LWhCNA?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-10-11 11:34 UTC",
+      "summary": "极智嘉入股北京深诣 探索具身智能工业制造规模化应用 &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "比亚迪具身智能机器人外观设计专利近日获授权 - 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE11clVxdzM0Yy05dkxDRDIyU3NYaFl6RUxRdlYxZ1VxXzJiWFJoc1h3dkY3N2x3a2NNNExPLUdIY19nZ0d1MDVFeF9xNDVOMzY0T1lVRnFudXlYU0RRUnN2MU5R?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-10-12 04:19 UTC",
+      "summary": "比亚迪具身智能机器人外观设计专利近日获授权 &nbsp;&nbsp; 观点网"
+    },
+    {
+      "title": "当具身智能遇见网络文明 “网络文明大讲堂”活动走进浙江大学 - 杭州网",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBXWE8wWTB2X3ZlZTFHZDZCYm4wNmV6azV6bl9zRml1d21kVC1XeWJMbldCUy1lOTJycFNmdVRERXpiNmV0bGZ4dlhqVXhoRDNyQ2dJaXNSMXpuTDRfUmZyRGh6ZGVteHpkc0tqdDlGXzRENGZyNmc3dGo5VQ?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-10-12 01:12 UTC",
+      "summary": "当具身智能遇见网络文明 “网络文明大讲堂”活动走进浙江大学 &nbsp;&nbsp; 杭州网"
+    },
+    {
+      "title": "触觉，具身智能规模化落地前的最后一公里? 乐动机器人（01236）联手华中科大布局三维柔性传感-证券之星 - 证券之星",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9VSGwwa0hUQlIxV1Y0Q1ZzbzQxUVBvb3hydkkxcTJLaWJrQi12ZWc4dUR0dDVXTDluSjJDYmNTbUZhZk1HR3dINlkxXzhpbWlLODJfcnJ3UDM0Tjluc3c?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-10-12 00:51 UTC",
+      "summary": "触觉，具身智能规模化落地前的最后一公里? 乐动机器人（01236）联手华中科大布局三维柔性传感-证券之星 &nbsp;&nbsp; 证券之星"
+    },
+    {
+      "title": "思想耀岭南 | 对话陈洪波：具身智能机器人进厂打工正在成为现实 - 中山网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9yYlpmeWhyUWJZekdFX3VPOUlOVFVFM3M4M3pWaEhlZlE2N1RTZDV2TTdmQWExaXJLWnlyR2ZlTlNCcVNGenVuQ1hFNGJXc2FEVXhudFlZcDc1Y3JoNnNIYlZvQkVQbjVXS0tmWWFiRGM?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-10-11 04:52 UTC",
+      "summary": "思想耀岭南 | 对话陈洪波：具身智能机器人进厂打工正在成为现实 &nbsp;&nbsp; 中山网"
+    },
+    {
+      "title": "智元是时候看回启元了 - OFweek机器人网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB6S3UtSXRqc25DOUpETzhQbFpwcllaNUxLdU5hT3V2Q0pCeFdDZndtbS1oVGp1eGo0NW1PZmFfRjRzbF9CTDFyYnhIOHNNcElsaGM5MW43X0Z2SXN0QWwyS1FjWnJQbVBtTThQaF9lVDU?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-10-12 01:22 UTC",
+      "summary": "智元是时候看回启元了 &nbsp;&nbsp; OFweek机器人网"
+    },
+    {
+      "title": "“工业具身智能一哥”通过上市聆讯，微亿智造抵近港股 - 中华网财经",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1uUWtBdVZQRE52cFB1NXF2aEZsdEliYXZHTko4c3RzcG9FaDNaVlVVVHhmbW01QThNN1dWUF8xWkNvT1NnN1hxSWN5MHE2MFJKNXgyU21ZLWFBSENxV2tVT0dlalRiZTRLMmRJbU1n?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-10-12 01:22 UTC",
+      "summary": "“工业具身智能一哥”通过上市聆讯，微亿智造抵近港股 &nbsp;&nbsp; 中华网财经"
+    },
+    {
+      "title": "具身智能产业迈入高速成长期 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMUtkSGFwMUM0SDdveFM3OGdpSUZLLVlBLU9RdUtaWm13Qm1CSTBiOFVTcEFoQjk3VjhMcnF6OTFFSEFURWdVc3Mta0xwY1o0X2xmTDhYaGk3X0tQSU04dnFVSXZpVG9jcEJNd1A1dk0xNWdaSUctX2Q3ZTB0TFFYUzQ0cXQyLTZaUlM4Nk9qYUFyTG1IWXprTw?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-10-11 23:29 UTC",
+      "summary": "具身智能产业迈入高速成长期 &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "鹿明机器人与面壁智能达成战略合作 聚焦具身智能规模化落地 - 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE44T2ZGcU5yalpZQ0FKSi1xTllCd0NzcWJ0REU2OWtUSVAza3BBT0Q2RTRreVZzQ1IzV1BKNDNwSkVrRk1xMkx0RWs1anptLXV6Ym02UmY4cl9WZERBdUoySFd3?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-10-11 11:26 UTC",
+      "summary": "鹿明机器人与面壁智能达成战略合作 聚焦具身智能规模化落地 &nbsp;&nbsp; 观点网"
+    },
+    {
+      "title": "石家庄工程职业学院成立具身智能机器人产业学院 - 新华网河北频道",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWC1RQlVFd1pTWW9QcmtpSnp4NFVNd2pEQUEyc0puRjBIaUY3Rk52UGg3NE43aHNWUE16SklIb1BCZ3B3c1J6YUFrRzR1cks0SDNZeUJ0Y3FSbjA3b3lmLXROTnduRThRd3NpVG5RY0JvNUxEVWRVRTdGNlM0VnNvWm1R?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-10-11 04:06 UTC",
+      "summary": "石家庄工程职业学院成立具身智能机器人产业学院 &nbsp;&nbsp; 新华网河北频道"
+    },
+    {
+      "title": "比亚迪具身智能机器人外观专利获授权_7x24快讯_新浪财经 - 手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93c2FzWkQtQmNWLTZ6YURMOVVraHZxYmY4bFB1MklaQ3ZuZHltYjZhV1R5cjZiLWQwYUJ2QmJfQWlJQ2sxa3ZBa1JQWQ?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-10-12 03:06 UTC",
+      "summary": "比亚迪具身智能机器人外观专利获授权_7x24快讯_新浪财经 &nbsp;&nbsp; 手机新浪网"
+    },
+    {
+      "title": "比亚迪具身智能机器人外观专利获授权 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMTB2OC12SllYTG1wc3dFVjBhcWRuczc5TTI0Ml9IQl9Ma1ljTXRleEI5dV9aTmM2VlFlVTJRTE9UVXpmYXh5bTB6MVg2TlpSYkpKMVlYQTlhelB0SV9FYlQtY0F3S1Ntb2dLcXVYajhHOE85aDVVQXlUMXNHa2htdTBB?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-10-12 03:10 UTC",
+      "summary": "比亚迪具身智能机器人外观专利获授权 &nbsp;&nbsp; 新浪网"
+    },
+    {
+      "title": "宇树科技王兴兴：过去犯的最大错误是对AI还不够相信 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1WNUVCZ3hOWXNMdFdrSmxxVHlJOFdadS1pMzNNV1ltM19MVjBoRnVjQ3ZhN2xVb1dKYWtlUGh4NUhtYWxIREVQNnpMd0dldkVjcEZqSXpSZndTSGVtTVpwUGxmX1djLXBpcF9qVEpfVWlBZw?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-10-12 04:24 UTC",
+      "summary": "宇树科技王兴兴：过去犯的最大错误是对AI还不够相信 &nbsp;&nbsp; 新浪网"
+    },
+    {
+      "title": "具身智能“下海”：超20亿资本涌入，内陆高校承包赛道 - 机器人大讲堂",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1keklqeklaVjUxSHRydm5BMW1tcHVHVGo5Mk5DS1RYLW5zTEczZU9reERtWDhmc25aYUV4UmdfUGZnZVdCbDc5M2g4STMxdw?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-10-11 12:47 UTC",
+      "summary": "具身智能“下海”：超20亿资本涌入，内陆高校承包赛道 &nbsp;&nbsp; 机器人大讲堂"
+    },
+    {
+      "title": "“RISC-V第一股”登陆港交所，以 RISC-V+AI拥抱具身智能浪潮 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFA5QUFQY0lxUUloQnFkNGtiOU1STkE0RG5TUk1KUDMzRG9KUWJ0aVRpbVQ5UjYzMENSYktrVTBxYjloX3daZEZnX1FLLU5DaVBnVzRBemt5Rzltdk8zTDlCZWdMNnVKeTdCMzl2U0RqWG1DelU?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-10-12 04:28 UTC",
+      "summary": "“RISC-V第一股”登陆港交所，以 RISC-V+AI拥抱具身智能浪潮 &nbsp;&nbsp; 新浪网"
+    },
+    {
+      "title": "宇树科技王兴兴：过去犯的最大错误是对AI还不够相信 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRlZhTjNpOEFPNVFlUHM4U0lUeFdxdnRrNnhDSW5oVTZXbDBHRXpDTlJRUU5pMWJKNXk3eGpBQ2RSRDl2bDlSTG1SZUZPUVhCcE5ySzMzWURxWDhJNmxYSk45dEhVZzZQUS01djJGTW5HQWRvODZrUWwxV0xlZ1lPQlB5UVp3M01hYTVSMQ?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-10-12 04:00 UTC",
+      "summary": "宇树科技王兴兴：过去犯的最大错误是对AI还不够相信 &nbsp;&nbsp; 搜狐"
+    },
+    {
+      "title": "【视频】比亚迪具身智能机器人，小迪要来了 - 汽车之家",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14ak5fMTgyLVMyUVFJR3BWcmpqRnB5NFF6OTRLTTdUVTE3dGRLQ0FQc3hBUUpGcWVNcUdEcUduNXRRWEZ0Q3I1NU1sbHJ1Y0EwdFYyRzNxbkZYbTA?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-10-11 15:08 UTC",
+      "summary": "【视频】比亚迪具身智能机器人，小迪要来了 &nbsp;&nbsp; 汽车之家"
+    },
+    {
+      "title": "把赛场设在产线！广东具身智能应用场景揭榜巡回大赛启动 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPczhXMmZjVW1HOG1DcEE5alI4TjJ6ellHNEdBOXlCVWc0X0VudF8tZnBMUWsxRTlyNkJtMGxqZDZ4VVg0bVB3Z192M3ZGdEhfcGRyWjJLNHZIcTJ6M1NlUWhFZDBhM1FVdW1RcjJFMXRJSUxMSFVyalRYbnRXTmtOemNnd3N5RTJRaTlVNg?oc=5",
+      "source": "Google News: 具身智能",
+      "published": "2026-10-11 08:50 UTC",
+      "summary": "把赛场设在产线！广东具身智能应用场景揭榜巡回大赛启动 &nbsp;&nbsp; 搜狐网"
+    },
+    {
+      "title": "优必选宣布与建发股份成立合资公司_车市动态 - 中金在线",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAzN1dzVGFQM3hRS0N3NmEwR3JlbGNlaXpjTU1fVXBHWDdsMTlTdEZRU0JReFMta29GOXVGLWVvQ1ZFX1RvNnlGb0dRRmFQVExxVlUzOEktQU43V2V0SXA4cDQ3OFFTdk1xaHhr?oc=5",
+      "source": "Google News: 宇树优必选傅利叶智元",
+      "published": "2026-10-12 01:24 UTC",
+      "summary": "优必选宣布与建发股份成立合资公司_车市动态 &nbsp;&nbsp; 中金在线"
+    },
+    {
+      "title": "优必选与建发股份达成战略合作 - 新京报",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1YWDZuaE44MHU1cXdMZFVmbnVkS3BDTU16V2ZnM2E1LVV0bFpkZy1CWFVFYVc4aDFURzAwaXFXTzlBOTRsUjRlYmRFVDJScWt3Ny1aMjBIa0xmNG9ybER3Yk8zNFg?oc=5",
+      "source": "Google News: 宇树优必选傅利叶智元",
+      "published": "2026-10-11 04:24 UTC",
+      "summary": "优必选与建发股份达成战略合作 &nbsp;&nbsp; 新京报"
+    },
+    {
+      "title": "视频 | 上市即巅峰?宇树科技，业绩能否撑起成长故事? - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNmx2SjA3cjc4TUpadllNUmRtV2pGb05WRkRaQl9PUkRLTWxUdWVJQTkzT211d2JNQ0tTbWNPMVBWeHk4LUNITDRIYnBBdWdJeG9KMEx6bUVrRFp6SFBVV3MzNTJmQS1FLVJKeVVXc0R4OGFLcVBkRXZzY1NockFPZm90S2JxdDg1eXE0V2ZDTjN3ZGZRdFcwbmlEeXBna1l5aFRRNE1UNTMxRkhkc1R5Y2tFQjl4eUJ1ZUJsX0JiRmJ5bmEzYU5zT2dPbjdxTXJf?oc=5",
+      "source": "Google News: 宇树优必选傅利叶智元",
+      "published": "2026-10-11 14:22 UTC",
+      "summary": "视频 | 上市即巅峰?宇树科技，业绩能否撑起成长故事? &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "多个展会和论坛将举办，英伟达、华为、百度、宇树科技等50余家国内外行业龙头集中亮相 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNXcwQjF1bzkzLWtRVTQxaGFjSmlISzNLTXlERkJWUExHaVVfMzUxT18xSzJfX3Z3ZXF0S05RdVdFQnlBYkVhbUdiRmtvOE1tNGl5WUEzT1IyRDZpeGhDd3BCQk5RUnQ5ZTdFckF0NEdKaGJ4M1VtYzB3ODJGSm5XMnZmdG81YXBkS210Wg?oc=5",
+      "source": "Google News: 宇树优必选傅利叶智元",
+      "published": "2026-10-11 09:44 UTC",
+      "summary": "多个展会和论坛将举办，英伟达、华为、百度、宇树科技等50余家国内外行业龙头集中亮相 &nbsp;&nbsp; 搜狐网"
+    },
+    {
+      "title": "优必选工厂每10分钟落线一台机械人 深圳冲刺｢人形机械人｣第一城 - 香港01",
+      "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxNdVdJUllLT1BJX1FvOGptWTdtTFB5ZTdDUl9mVkNHMDh0bVdMZU9xbjJ4aTJYUzBCRFFvckdXY1VkVEQwTkJ0ZzNyTWMtVThhc01wbVBEVEI3SDRnT1N4LWFkbWlDbEpzbWxORzdWRDNQcjduWWFYb3JRQktCa1p0YS1fNnlEanpWQ2FGS3pzUWJYWlV4MGlabHhyYl9Ba1I4ejVFZzhSd29SdGNJcGN0YXpvNHEwbHhzdkluMmdBNm9CN0NQdkVFdDJhSjRmYUhzMnh0UEMyQ1FOV3JocmN4LVpFS1ItaHlXVk1saTdUV1ZPWFBqa2NfZ3dmNE9YMkVpdHZXeTh2MlpZVVdhQjZ4em9FaHdkSDAyLWJTdDhLb0pEeDBtRjU2ZTlVSWlqQTVmTjFLYWNZZ0hzOGNwQ0pLcU5CSjh6WUZhbE8wcnlEblM3amhFWlhlekV3aVl1OGRyV0s3cWdPZ3U1NDFDUkhpd05VVnNaNHdZaktyYUVjQ1hYbllNaV9QLVd5R0tVQ2Vad3FocWlDbzRxSG5FSHdiM1FWV1RXMi1tU1hKa3FFWWl2NGZGZ2tGWHJhMGd6U1FReFNGMA?oc=5",
+      "source": "Google News: 宇树优必选傅利叶智元",
+      "published": "2026-10-12 03:35 UTC",
+      "summary": "优必选工厂每10分钟落线一台机械人 深圳冲刺｢人形机械人｣第一城 &nbsp;&nbsp; 香港01"
+    },
+    {
+      "title": "优必选：与建发股份战略合作签约，共推万台人形机器人销售 - 36氪",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrcFBOMFJyOFlTVW9VZV92UDV1R0ExeXNMcmVaMHVBdl9PaWJaWmV2cE8zelRSQmNxaU9meEJEMnM4THg3Y1JCaDl4WDhEZ2g3dVJDZS1mZlQ?oc=5",
+      "source": "Google News: 宇树优必选傅利叶智元",
+      "published": "2026-10-11 03:00 UTC",
+      "summary": "优必选：与建发股份战略合作签约，共推万台人形机器人销售 &nbsp;&nbsp; 36氪"
+    },
+    {
+      "title": "节卡机器人将在工博会全球首发两款新品以通用智能赋能智造新未来|智能机器人|具身智能|制造业|上海市|工业_手机新浪网 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdk44aVpVZWhhdEM0NWtBMEtXeGNUMVNmbFlvcy1HM2tDMmt4YzREcVRlNmU3aTNzQlByWW1zOFVERWtZS2JvY094Q2dlXzAtZGRUWjhSQ1BzMXpGak5XdGZBeVZuZHc0ZU11eVFOOS10SFBEbUlpNUFOX05Ha19KUmpWSkh6SDRfNkJESWhoQzBySm1fNmN2WGt0ZElNcFNna0VEUXJUMjZnQjdqS011MDRR?oc=5",
+      "source": "Google News: 新松埃斯顿节卡越疆遨博",
+      "published": "2026-10-11 15:09 UTC",
+      "summary": "节卡机器人将在工博会全球首发两款新品以通用智能赋能智造新未来|智能机器人|具身智能|制造业|上海市|工业_手机新浪网 &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "节卡机器人将在工博会全球首发两款新品 以通用智能赋能智造新未来 - 东方财富",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE43YXFHZTh2N0pFRndxY3MwOVYySjZReEY2WTlabzBZcXRyYnA0NjM0SkI5dUtUNDR0TWdveE1fdkEwT3hiNEhxUVpZcTdCOXZRdVBYa0ZLelJwNEZJTHl1MzlCWQ?oc=5",
+      "source": "Google News: 新松埃斯顿节卡越疆遨博",
+      "published": "2026-10-11 21:45 UTC",
+      "summary": "节卡机器人将在工博会全球首发两款新品 以通用智能赋能智造新未来 &nbsp;&nbsp; 东方财富"
+    },
+    {
+      "title": "外资垄断被打破！埃斯顿登顶国内工业机器人出货第一 - 凤凰网财经",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBZMXJOZ0JkNzhqN0pQbk5QVnhicWJwTzJDU3F5RFc5OWJzRmZiVFBQYVhWc2hkRmViZDlGN0diaF9pb1JValFpQ2p2NEhZQWlW?oc=5",
+      "source": "Google News: 新松埃斯顿节卡越疆遨博",
+      "published": "2026-10-11 15:00 UTC",
+      "summary": "外资垄断被打破！埃斯顿登顶国内工业机器人出货第一 &nbsp;&nbsp; 凤凰网财经"
+    },
+    {
+      "title": "越疆遭深圳市松禾成长股权投资合伙企业减持70万股每股作价约26.1港元|香港联交所|广东省|数据|金额|持股比例 - finance.sina.com.cn",
+      "url": "https://news.google.com/rss/articles/CBMi7gVBVV95cUxQYWs5TTZWVjdrQUlaYmF2Z3Y1Q29ITHlsdkV0M0VpWk5WNDdlTE16MC1KZWRsNmlSMkNMZlozWFNna0ZOakFCR250aWdQUHBGQy1xcXZVSzlyMDFhaEJCZDNCbnM4WWl4RGQxdmVEM01GVWN0YnRKSnZpY2RnMEJjdkc2RlhSRXdYQ21HRHJoeU9WcnVlQW1mVjd4Qmd3dkVnVDRsaDNMNUN0Z09RVGwxWHJFcUtKUE1xRUhRQ1h0aklxZlI2UUdwWDFzWWhvaUkxTE0xaGtRdXpjdTc0Y29sc05YTDhoLV9rNVFyQWQ2ZkFmQVZVXzJURm1BMEtRcDIwTHdCRUtQdDZzRFBTSVdRWTF1a045ci1kSVhOak9kdFk5ZlhiN1lCWjI0SWFyQXhZSUstR180TDVYVjlPRERwZEo0UFM0dVBjY0d3NWNqZ0JhTFQ1ZHRQQ3NrUEozS0doQTN5NVZpRl9wOVRnWFdyNkZBX2ZGWXlScFNCQ1VTREVpTy1YNElORzgxbTA4QUdnbDJId0JXNEVKZWtncEpsTDYyYzVRaW83V3BjSDdQS1NqS2pkLS1SLUhZQUp2cUo2NmVWelVZQnVBYkNtT0o2OXY5b2t1eFBVQzlTNGVZdG1SYXZxZWRKckpQQUJkYk00QWNBa0Q0Q25rc3RsLVMzeDFod2pUVm82ODl0X0dxSkdiR1I1XzZVOXBJbG1PMGc3REw0Um1UZUtOYkV3b0kxUWxnbG9SR3A0QVNjancwc25lTHowRFlMUnU2R3NDUFRxd2xRRUJPWmVnb19yMi04ai03UEpkY20wR0xPRFYyTmJvX0p6QUdUeGVXclZZT0h6OXdqeFBDanRkWkdQcVVfNmtjcGYwTTNOYXlzTmpIR19ZbGdkdHhNSzJSZGxzUEd1VmRLQkVzdlU5czE0WVJjZ1dQS2ZPRGRVLXN0Vms2WDhyUzFXRGFlU3BTdFJPVFJ1OHo2aXRkM1F2MGNKekE?oc=5",
+      "source": "Google News: 新松埃斯顿节卡越疆遨博",
+      "published": "2026-10-11 13:05 UTC",
+      "summary": "越疆遭深圳市松禾成长股权投资合伙企业减持70万股每股作价约26.1港元|香港联交所|广东省|数据|金额|持股比例 &nbsp;&nbsp; finance.sina.com.cn"
+    },
+    {
+      "title": "北京建成1540余家社区养老驿站推动中医治未病、康复等技术进入养老机构_信息提示_首都之窗 - 北京市人民政府门户网站",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBwYmVqc2JxekY3TUt3VjNTeFlwUGVVU0tBX3NJOThGNjRqTkF4V0ZUSWlTZWNzSkpvaXpqZ01Ka2NuQXMxX3RMSUFmOHAyTUJwdzNXS0dXZjMtazBFVlN4dmV2WlBMRkVxdDkzSklhT01DUXZLVVk2c3FVUk1QUXc?oc=5",
+      "source": "Google News: 居家养老社区养老",
+      "published": "2026-10-12 01:08 UTC",
+      "summary": "北京建成1540余家社区养老驿站推动中医治未病、康复等技术进入养老机构_信息提示_首都之窗 &nbsp;&nbsp; 北京市人民政府门户网站"
+    },
+    {
+      "title": "第三届首都中西医医养结合发展大会在京召开 - 中国科技网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5XdUMtdFI3NnhnOWpsVVY5ZWRVMF82UDZIN3g0bmdLWHZxN0luVkw1aVhXd1IyNXVJMlBNY0NJUXJ3WVZBeEtWNlBlUG5PV2xwaGM1dHVnXzZQUGhJWWtBWEhTaHh4bkJwS1gwZXhIdVc?oc=5",
+      "source": "Google News: 居家养老社区养老",
+      "published": "2026-10-11 05:52 UTC",
+      "summary": "第三届首都中西医医养结合发展大会在京召开 &nbsp;&nbsp; 中国科技网"
+    },
+    {
+      "title": "第三届首都中西医医养结合发展大会在京召开 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNUkk0TXBicC05eFRESDhaS3VDbUpxNFk5bUJyNVJwaUhxWHgyemJDMFZQR3pieXgyeTl2Nk4zRjR5TklxYnpCVDRQa3JLY0JhbGREXzc3TWNtbXc1dXVudkVzbjhzMVpxSGh6bDMwWXU0XzZjNkdGRTBuV3VHVXNDUEszMnFmd21LcjlN?oc=5",
+      "source": "Google News: 居家养老社区养老",
+      "published": "2026-10-11 13:04 UTC",
+      "summary": "第三届首都中西医医养结合发展大会在京召开 &nbsp;&nbsp; 搜狐网"
+    },
+    {
+      "title": "首都中西医医养结合发展大会举行，搭建银发经营主体信用评价体系 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA5RTF2NGVyS0lsajZsV0ZOVjgxVjhvdlQwYUpQTDVqaEhrS3lSNWk1UFY1V3FDYW9pZzF3OFpPX2RobHZrZm5rNW92TmlQd0N1QmUxZ0RELVpkZFpGN2JhY2dmcWdIWm4yYmR4WU9nb1BpZDlCNXh6OA?oc=5",
+      "source": "Google News: 居家养老社区养老",
+      "published": "2026-10-11 12:13 UTC",
+      "summary": "首都中西医医养结合发展大会举行，搭建银发经营主体信用评价体系 &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "家政服务“适老化”有特色有进步还需规范 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMizARBVV95cUxQQ3ZNdVZFQXNWN2x5TjE0aTNYTDVJWnVjWEtGeDhOemE5QnBOUm96bFItWGZlVWRxOTFXaXhuUWNZTHhkMlJ5N0k4VUxMaERNWDEyZXhVZ3NOQVp0ajVrWW1WNHlTSmRUTGxtbnB5MWtVUzRuSW9kVUctbXAxU2RoR3dPWVB5a0hwS0EtMGIwVmUtY1FsSHhmcUpLUEstOE0zOVFFRzlvVDd2aGp5Ry1yU093dHZ0c1MtUkMydWE4bTBqMWh1YUFGTmtycV9kcm1BT3JaaVJmbmVjWVFubDlSZGNsa0NUeENBUzRDR2dxQkFFUHp6RkNLOEZDRHhOeHpJX2FzN2l4eFNsd0pLcFhxd0Qtemdsc3IwRXJmUlZDcXhIS3FUV0RQd0pFd0xlSm5tWW5PdFh6ZjZPenNIeE0wZkNqUWhneW1SdHMtNlgxT1JCV3kzZGdfRzhiT3ZfbnJUQlkwV2xBbTQ1LU5PRk50bUxCZnk3QjRuampzQVZKejlkazhrOUcxODltb2tQVE95eV9oUlZ0NElPck1zbUZoay13YWRvMDVNU1lZS2RGQXJHb05BWGltVlNjdTVHbm1iYzI4RkVyOFVPeHV4cWdvZHhxVlIxVGxGeG9jOXc3RlNUWGFGcnBMbENSRXI3X2g5amVUVjlBb1ZkcVhzUjVUVlgzeTVCdlB1MXhKdEhMUFQxcUx6VHBWa1YyR3kwUmdxb0FhbGRuVXFzSDF3R09fYmpFV3dwdU10NE1xaEJSYXpNVFRhdFZfQTRtVS0?oc=5",
+      "source": "Google News: 养老护理员培训",
+      "published": "2026-10-11 10:16 UTC",
+      "summary": "家政服务“适老化”有特色有进步还需规范 &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "厦门正式落地长护险制度 - fjrb.fjdaily.com",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBKRkxNS2IzMWdwV0xrVHJxVjRaLTJ2aGpkbEdQYU9LZ0RNUUZfR1d0M1JmMUZfd1FuZm9PVnJMcTFsME5RUHdGUjlSX1hNV0Nrd21OOHlpOE1NbUZaTHJOTzUxZE82bV9yNXY2NmpR?oc=5",
+      "source": "Google News: 养老保险长护险",
+      "published": "2026-10-11 12:55 UTC",
+      "summary": "厦门正式落地长护险制度 &nbsp;&nbsp; fjrb.fjdaily.com"
+    },
+    {
+      "title": "人社部将动员未参保人员参保 力争养老保险参保率稳定95%以上 - 观点网",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yS04zZzYza3l2Z0puSGRkcE1CVUZtdHRQdHlVdFY3YVNILVQ5dDhPMmJncEc1YU1zNjFNeU9WdHhMNHZKQlp0X2ZyTm1FVWNlUUpramNReWNIWG1EamVsR05B?oc=5",
+      "source": "Google News: 养老保险长护险",
+      "published": "2026-10-11 23:20 UTC",
+      "summary": "人社部将动员未参保人员参保 力争养老保险参保率稳定95%以上 &nbsp;&nbsp; 观点网"
+    },
+    {
+      "title": "人社部：截至9月底，全国基本养老保险参保人数达10.79亿人 社保体系持续优化 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBxdU50LUh3UmhVSEpVdnI4RjZBUnlNRHFrY1pqNmVvNDN5OUhJSXpUSHd3WFF4QjZsVDJWZ3RsUUthOFk5R0Q4Qy1uQXpocXpzWXIxcXZtc0JWdFZFOHpxWllIMmZzYW4wZTdKVE5UU2k?oc=5",
+      "source": "Google News: 养老保险长护险",
+      "published": "2026-10-12 01:25 UTC",
+      "summary": "人社部：截至9月底，全国基本养老保险参保人数达10.79亿人 社保体系持续优化 &nbsp;&nbsp; 中华网"
+    },
+    {
+      "title": "太原长护险明年起分批兑现待遇 - https://www.zhshbao.com/",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1HU3VFRUVSazZDbERzY0lhd19ySU5ISkI2VlpOd1dRLXBWYy1BZ3RQbEw1SHBTWHRrcEZiVUlKVDF1Rzg2QUpELVJGa1NTY2JaVkphUnpNbjJJMV9qWnYzb1BOOHRiaWc?oc=5",
+      "source": "Google News: 养老保险长护险",
+      "published": "2026-10-11 12:47 UTC",
+      "summary": "太原长护险明年起分批兑现待遇 &nbsp;&nbsp; https://www.zhshbao.com/"
+    },
+    {
+      "title": "社保缴费新规：需经员工本人签字确认！|养老保险|医疗保险|工伤保险|失业保险|生育保险 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92a3Rxa1FhUmhfNGgyNkxKNGlCUGR2NzBNV1dieXJ0VjQtU2NRUzdubmVIME11dExkbFQybnNqYzJycC1ESHM2WTdFNHVEcGx1aWNqRUVLSlN6c2x0WmpOaWNWcEJ1MWoxd1RkNElaZ01felZ5TXp3eg?oc=5",
+      "source": "Google News: 养老保险长护险",
+      "published": "2026-10-11 05:22 UTC",
+      "summary": "社保缴费新规：需经员工本人签字确认！|养老保险|医疗保险|工伤保险|失业保险|生育保险 &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "人力资源社会保障部：基本养老保险参保率提高到95% 以上 社保改革取得重大进展 - 中华网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE53ZUNRMTFkZmNOcG5IVFpFclJlSGIyV1RXcjR2RW9oS1BPdWJqX2dKel85aTQ1WWc1Snk2VndIMG4wcVBkMUM1XzVXU0h2by1LdndlUktBZjJHcWFNc2VTdGhxd0RYaG9FTFE4MzQ3dXM?oc=5",
+      "source": "Google News: 养老保险长护险",
+      "published": "2026-10-12 01:23 UTC",
+      "summary": "人力资源社会保障部：基本养老保险参保率提高到95% 以上 社保改革取得重大进展 &nbsp;&nbsp; 中华网"
+    },
+    {
+      "title": "大连市人社局解读养老保险相关话题 - 新浪网",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1jWnFwNkNucDZQdk1QTDBRWG5KMnpCb3dLbnZKMFRJUVg0aGFyR295SHpydWQ2ZERxbXN3X3hSOEdtNjNkT01CcmJsRkNSN3UtVFloTTRXMkhhUjVBNEZvU1psRndfSVJfa1Q0ek1hdHk?oc=5",
+      "source": "Google News: 养老保险长护险",
+      "published": "2026-10-11 08:27 UTC",
+      "summary": "大连市人社局解读养老保险相关话题 &nbsp;&nbsp; 新浪网"
+    },
+    {
+      "title": "事关未来五年推进就业、养老保险参保等，最新发布→_上观新闻 - 上观新闻",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBDbHV4dkRuM1JYWU1zSDJ6U0ptbzhRQ1Awd3d0SUNmNnFhZjNCa3BQZ1NpSk9HT0hvSjZWcFVablVmQnp1X0x5NkdFSWVldEF5SW5rVXhaam0?oc=5",
+      "source": "Google News: 养老保险长护险",
+      "published": "2026-10-11 04:00 UTC",
+      "summary": "事关未来五年推进就业、养老保险参保等，最新发布→_上观新闻 &nbsp;&nbsp; 上观新闻"
+    },
+    {
+      "title": "事关未来五年推进就业、养老保险参保等，最新发布→ - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOaGItQzRMRi1ubXFWUGZ3UGNJWTQ4SFN4RlNXMU5XRGx1WlhDQkd1c1lKUGZUcVpiSV81VVVjalJFSkg1eHMxY0pKeEFJTGxTWmdMckQ2M096bkFoWkxCOGNVTjFwbXNVVXZDM1k5Q3JJMGlxdmdCc2lXQWpaUDBvSUl5Ul8yLWlvZXlEeGRydjEtRll0YXNYWGFJcElmNmx2VXF6RVJobm53bDk4ZzdpUjBQMVlfdDNDZ1lYaUIyb0RVQTktMlBnMUFIQQ?oc=5",
+      "source": "Google News: 养老保险长护险",
+      "published": "2026-10-11 04:00 UTC",
+      "summary": "事关未来五年推进就业、养老保险参保等，最新发布→ &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "足不出户刷脸办 养老保险待遇资格认证指南来了 - 云视网",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE00ZEJhYTlkNWdHcVdLQmNTeEJhWUtoUGllSHZfRkIxemNZb1V2VFVuRjBDSEdxOUlleDd4blE0QWNUajEwS2JKbERUSDEybU1hZ2hDRzRBQy0xVlVDSGVMMy1HNEVFeUE?oc=5",
+      "source": "Google News: 养老保险长护险",
+      "published": "2026-10-11 04:07 UTC",
+      "summary": "足不出户刷脸办 养老保险待遇资格认证指南来了 &nbsp;&nbsp; 云视网"
+    },
+    {
+      "title": "未来5年，医保报销、生育保险、长护险将有新变化！ - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMizwJBVV95cUxPTHBCa2pwOFdYalE2R3NVSmJwY3NrYU1pTHVqODc0SzFlSUxCdnlDOGQySTY4aVNnbkpNeU1mZnJHOGRIXzlZMGtFdHp1MGVDT1R1bWdXSXg4VXEtRmhMMTVLZ2dESDMtQXotMlFLNjBXRWdPa2xiS1M5aTdyTllDZ1o1RUdwMDJJTkZ2b3phYjI0djh4UHljQXhJNm43TklKVkNUaXhVcWZGeWZ5QWs5SktYb0d3LUZZVm9YVlBjZ2k1UC1pbHhiYlZQTlpQRU5WcnlXWC1LOXFxc2hSSjJpSnRDU01TanZ4aTVjWVUxLU5SWUVNWFhQXzFuMVdGWVpmemY4LS1kMENOYXhRTE9sM1VTaHBicDVfckZZNFRqYzU3QjMzTHZ1NXpzVXVVVDhKbFR2bHFFTWRUdkh5NEE5TnRKUmNtSWlDU0luZjBTSQ?oc=5",
+      "source": "Google News: 养老保险长护险",
+      "published": "2026-10-11 03:50 UTC",
+      "summary": "未来5年，医保报销、生育保险、长护险将有新变化！ &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "大连市人社局解读养老保险相关话题 - 搜狐",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQ3BEbXJmdFV5VG16eEs0aVBldEhPRVY5aWVydGFtWTU4Tk1rSWFWZ0lNNTVLaVdhdTVIZ2tUbV9nRXV1NHpHYVJhZWM4VmJqUFJ6QUQyVjVCejZhTzFrNXJqZUlETGJ6OFhwdHNGMk9rX0lTN2s0bjFqUjhNRkJld3FURjVsUjlG?oc=5",
+      "source": "Google News: 养老保险长护险",
+      "published": "2026-10-11 03:00 UTC",
+      "summary": "大连市人社局解读养老保险相关话题 &nbsp;&nbsp; 搜狐"
+    },
+    {
+      "title": "银发经济正青春 - 中国经济网",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9zY2d4UVRWajRRenBldGtDSENlOXpvUHMzWEZPd1VIcDRiWV9CNGFhZllYTl9SOWM2bTRyOXdCd1VJV3E4SHpNeEtocW9RZzhrZk15cW1tZHJXd05oN3l0bktOS1dNaDd0ZF9V?oc=5",
+      "source": "Google News: 银发经济老龄化适老化",
+      "published": "2026-10-11 22:10 UTC",
+      "summary": "银发经济正青春 &nbsp;&nbsp; 中国经济网"
+    },
+    {
+      "title": "老博会“挖宝”适老化出行好物 - 新浪新闻_手机新浪网",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5hYzlYQUtMZlFjYmxvazY0VkdNWVZWQnBhOW9yZWN0N1l1RkpyVy1HLXR2V01KQUUzNXU0cUFqeHZNYUVCSndEZ2N6em9rNWgwWkEtbUJ6a0c4a3lnRTk5YUVBdXhPWHB2OERMVjVXeEVaYnVqNGc?oc=5",
+      "source": "Google News: 银发经济老龄化适老化",
+      "published": "2026-10-12 02:28 UTC",
+      "summary": "老博会“挖宝”适老化出行好物 &nbsp;&nbsp; 新浪新闻_手机新浪网"
+    },
+    {
+      "title": "直肠导管市场展望2035：人口老龄化与盆底功能障碍推动增长 - 新闻和统计 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNRWdhZnpiZkhpUkZhR2hhTzBDS3o2OWlNdk00R0RZdldjSlN2MC00cWhDTkhXcWt5NGIycGpEUTBhUGp6c3pPRDJYMmRBc1I3MnFtQmcxNkRQMENjajh6clFCSW1vUjJOSnE2VFhwRFh1Y2NjemhuNkFiVkd5ZEZ6ZndZUndkVWNzR1V6WktzaVlsMlBNZ3VBYW85VzhhNlB6cnpBX21qcldYQXFPNE9JNENoSEFQa0xnTU1qT3pSRXZ5WVFWWmQ2SnJqRnRReEZNeFVpRjJCYkZQU0JpNG9BQVpySVQ?oc=5",
+      "source": "Google News: 银发经济老龄化适老化",
+      "published": "2026-10-11 23:51 UTC",
+      "summary": "直肠导管市场展望2035：人口老龄化与盆底功能障碍推动增长 - 新闻和统计 &nbsp;&nbsp; IndexBox"
+    },
+    {
+      "title": "非血管支架市场展望2035：老龄化与内镜需求驱动增长 - 新闻和统计 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPb0liM2FhaS1pMnVFTi10V0VoU3JTY3BRUE4ybnJPVTNnWkhjSTU4QWVxS1p5eEZBQU83eldZSll5dndZMHhqTXVvM3lyWVI4LXNwVmdpZmtOMWFtUi1LSDMzbzVLVlAzMXpzaFd2a2RrYUtwUlFoejR0YjI0V3ZqdG1VZGlQWDRBaVRLMGZLRFY3YzliYlFRN3d3MktXelo4ajYyX1dnMU9YN3ZVM09lcnRLUWU0bmtldEdxT3loNkNPUktuUVlzZjlOeVdTNXBoZDNVNWl6SG5rQzVjSE84Rk1UaDZoNmNpUktoZg?oc=5",
+      "source": "Google News: 银发经济老龄化适老化",
+      "published": "2026-10-12 00:26 UTC",
+      "summary": "非血管支架市场展望2035：老龄化与内镜需求驱动增长 - 新闻和统计 &nbsp;&nbsp; IndexBox"
+    },
+    {
+      "title": "超声乳化设备市场展望2035：人口老龄化与手术需求推动增长 - 新闻和统计 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWWRFd1Q4a0xtczRkOUJYSXJHSXdhYmk3VmRNN3E2dGJFY0I1XzViVWd0blNwSDhyTXIweUxld0F6YV81LUdHVEQySEZQYTEzUkFwU055dS02UEhtTlV2NTd1cl9fWF9WemxhVC10dXJIaU9JWWRoQlFhWVBBTm0yRzZxbGVYZk5TamQ2NUNEb1pvTzlNRGhrRTVwLVpEdEY4NzlGZFRhRWFMZnp5dkE3c25pbDUteXVuMWE2d1dtNEg3QUx2UEpiOHEzWkR4U1JNUHhxUnhTLXp6dDZiYjk4cndSTUtNZw?oc=5",
+      "source": "Google News: 银发经济老龄化适老化",
+      "published": "2026-10-11 21:06 UTC",
+      "summary": "超声乳化设备市场展望2035：人口老龄化与手术需求推动增长 - 新闻和统计 &nbsp;&nbsp; IndexBox"
+    },
+    {
+      "title": "血管造影设备市场展望2035：人口老龄化与微创手术推动增长 - 新闻和统计 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNVFc3VmJLWDhYdUlXSnhJeFpocFpPLWhnWXluaVN4WTZjdmlWQW8zV3ZnM0VCamFfeDhadE1rbk9Nd1dGOUxVZWptRjhDVVRrRDRjYTJUQ3VHaGRiVTFyWlh3TDdMV2JRZHUzNlhtOS1sY3BnNDNJMjVRRGVKN2s5ak1rb1FVZ05qb3ozb20zcWRLNGl5VHU3Q2Q2cktXRE9LSHhfNlhXYUtvVEszelEwdVVERFZWNHJ2Z3I0Z0h0Y3JUenkxSGtIeWxZaU51dFdBc2pvR3pOelV0RHVPTEVuTk13?oc=5",
+      "source": "Google News: 银发经济老龄化适老化",
+      "published": "2026-10-11 22:01 UTC",
+      "summary": "血管造影设备市场展望2035：人口老龄化与微创手术推动增长 - 新闻和统计 &nbsp;&nbsp; IndexBox"
+    },
+    {
+      "title": "吡罗昔康贴片市场展望至2035年：人口老龄化与非阿片类镇痛需求支撑扩张 - 新闻和统计 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRGdHM3BQZDhIUzhwaWFSaG80dDNFelhFb1NhLUVpVzd1OG85YUpxTjI3TFlJQk5EOGFWX3RaVFJaMXpueWUzZ0hHck9KcEhjYkQtcDZiRy1ESDAyNUNzanY1UHB5Ujk0X1JOeTl4LWVwQWV4dzRnRTZCdExUZEpkVTJPNTY3OUpwZnBFQkV5MDZrVW9ET05IYjRWbXl3aXZzNVdtMDJmdUE2NkhZYXJMcG5RNjE1cTJOUnFSNHpiLUlIT2diWnVGb3RKMnBLV0N4SlE?oc=5",
+      "source": "Google News: 银发经济老龄化适老化",
+      "published": "2026-10-11 22:26 UTC",
+      "summary": "吡罗昔康贴片市场展望至2035年：人口老龄化与非阿片类镇痛需求支撑扩张 - 新闻和统计 &nbsp;&nbsp; IndexBox"
+    },
+    {
+      "title": "北京：银发经济升温 - 搜狐网",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZFVCWGc3NThpTzhad0tjT0s0NGpPUTlsd0J2SDlXNE1CazVFOTdUa2hTQ3pDT1poUDhiVmJzcXVJTFVZXzROZVVXRVVhZUlFOGdiUG9LRTBITXI2ZEg5ZVhjMWk5anBHajIyMFpHa1lveF9CM19id3RhbEh2NG5LY3daNjdQcmREWTE1eA?oc=5",
+      "source": "Google News: 银发经济老龄化适老化",
+      "published": "2026-10-11 09:00 UTC",
+      "summary": "北京：银发经济升温 &nbsp;&nbsp; 搜狐网"
+    },
+    {
+      "title": "日本人口普查：老龄化、单身家庭与外国人增加 - 亚洲日报",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxaEJKV1o5MUVMckpwT2h5c2VXLTZkQ01jc2trR2Y4UXphZFdRWHdGNDdxSWFmajR1a3dsV180Nm8xRXhBTEFFcGh2WUpEazJCOGF1cWp2STJtZ1U?oc=5",
+      "source": "Google News: 银发经济老龄化适老化",
+      "published": "2026-10-12 03:04 UTC",
+      "summary": "日本人口普查：老龄化、单身家庭与外国人增加 &nbsp;&nbsp; 亚洲日报"
+    },
+    {
+      "title": "补贴通知！2026年智能家居及适老化家居购新补贴活动来了 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1nMUNTVk8zeEVTWEVjd2tZVzBGQWtJa3VjUG5oRjFCVHdHMy1LWEdSU0RUbEVHLUdxc1lfNFB4TFJnc25xSC1VZzNBZS1KVXNHMmJtN1U5Qi1KWUVUQ2d6aGdDTVJOdjY2aUdpbHlkWkZkcTBvX1E?oc=5",
+      "source": "Google News: 银发经济老龄化适老化",
+      "published": "2026-10-11 06:30 UTC",
+      "summary": "补贴通知！2026年智能家居及适老化家居购新补贴活动来了 &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "镜面显微镜市场展望2035：老龄化与白内障手术需求驱动增长 - 新闻和统计 - IndexBox",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSVhhc19WbnhGTFEyXzVIb2pTcUNTZWFyb2FTb3ZWWDlyZTNxSF9VajU5djVSaUwweUNFcGdMVnRhT3oxYnpBOGhXTWd6OF9VRXZjV3FheEY5WEVjY2IxY1BTM1BHb0RzcWNod1dDbGJDRUp4a2k0N3NCUGVCUVBGdXFlUFltTG5GdGJRTjBqdVVxUWpVUWZmYktoVmptclJGMGdZYUhPbFZXTFNoN1B6eGw0YkY3WVhWcmE2WkM4SmpFZnpiWXc3RVRLT01UOS15QnZDRWhB?oc=5",
+      "source": "Google News: 银发经济老龄化适老化",
+      "published": "2026-10-11 18:51 UTC",
+      "summary": "镜面显微镜市场展望2035：老龄化与白内障手术需求驱动增长 - 新闻和统计 &nbsp;&nbsp; IndexBox"
+    },
+    {
+      "title": "滨州市乡科级干部进修班（第四期）赴滨州市银发经济产业园开展现场教学_滨州民生 - 齐鲁网",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OZ2hUY2h2VjdGLXlhMm1wN3Z5Tk5yaDFEczhsSWF4RTR3Wm9YeGFCbDVPQl9paWFWam54NVo0T1htLU9BUkpCcy05Q3VPdUpScXRqS2x6OGZraUI4YnFiRklxZncwTFJyTEZHQg?oc=5",
+      "source": "Google News: 银发经济老龄化适老化",
+      "published": "2026-10-11 07:41 UTC",
+      "summary": "滨州市乡科级干部进修班（第四期）赴滨州市银发经济产业园开展现场教学_滨州民生 &nbsp;&nbsp; 齐鲁网"
+    },
+    {
+      "title": "媒体关注：技术不设障人工不离场，适老化金融路径之争｜“紫荆杯”听见交锋赛事观察 - 新浪财经",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5zTlhQOG1Ka0pZZEZ5M1BmQVVzOThHQmtiX2Yza2JaRTk2eU9XR3hWUjkyQUNIOVlEREh2dkFKcTRLNm1fNFc0X3l3RkN4dFFjVTB5RTEwVE1fZ1BBMTNScWVMM1loaHJ1cGxYN2ZraDJXYVJmTm11Xw?oc=5",
+      "source": "Google News: 银发经济老龄化适老化",
+      "published": "2026-10-11 04:16 UTC",
+      "summary": "媒体关注：技术不设障人工不离场，适老化金融路径之争｜“紫荆杯”听见交锋赛事观察 &nbsp;&nbsp; 新浪财经"
+    },
+    {
+      "title": "银发经济︱机构指银发人才有独特价值 培训后辈不阻升迁 - 星島頭條",
+      "url": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNX0VoWHA5T1RkanpmazhmaWdnNlpxcDBtc2RVOTBYMlRPVUxxWkM0X0JBMENlV0NESFpCYXM0RGtuelNSeUJscEpHUEVTaTJHUklsTm5FcHl2UGtwWW1IVFlOT2RMTkY3ZUh2cUFwa0VxcFhjZTFaVEZKc0xkYWJXZFh0SXJMQzBQYkF1R050WnltNk54aGN5Z0ZaSWxuMnBPZjdFTkctZVY3MHBYZGtPMVh0Y1NBWU96WkRSYjdWNGNVeFB1Rm01WHh5RVNHbFhZWmc3YjlkU3VsRkJVRk9LVlVJMHdUVUJmTl84dHU4cXpLOXNIMDFSTS1INmVCTWdlT3RZMVF3Y2MyZVAzdVVUWUpQYjJhSW1oeUtzZFJNZ0M4Z3ZSWFJ5WE91VXlkemxzQkhNSUlHZGhsMmtES25MOXVObk01QTk3VmZBTjN3ei1hcEVEbk1KRDJxNWU5M0VUTXRZU1BUOS1IUWV0TVlOd2NpSnd0M3Z4dldDa2tFTmJJUQ?oc=5",
+      "source": "Google News: 银发经济老龄化适老化",
+      "published": "2026-10-11 23:05 UTC",
+      "summary": "银发经济︱机构指银发人才有独特价值 培训后辈不阻升迁 &nbsp;&nbsp; 星島頭條"
+    },
+    {
+      "title": "银发经济︱长者求职者三年增至近万人 团体促更多就业支援善用银发人力 - 星島頭條",
+      "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxPVUpVX2JVS2ZJVjU0VzNuOE9jc25lbUVZV3ZYZjhZX3FuNEg5Tmh5MmRuUEwtMmEwN3lZcktZSjR6OXBaVHZIdU93VkdXUmUtYXVuckRUR2JMTThRT3ZJTkpiLUQyd0dWRGlTRDZnNHVrVTR6RWhraHVvUDVKcjBObThVQWJRVmlCbTEzUnVUS1RpV3ZpMUtjLXpmbGVoVFBmRkFzcy1xU3ZGb2g0R2JCUW5CMjBGYi14d29jaEh5cmU5N09ySUJIbndpbExaT3hmOXdSQmVRbU0wRzd3UWJmU211SWlvRXEzdWVJYXJHNzVrc3duWnVieVNjaGIwS3dNeXlPZ2NBX2dSdVpaeUk2UTJPT0xseURGMGVMd3M0c0tKUzdaWmpQWmVMTUZNN2dhdm9IREVVX0ozaHNzUXpoX3FzcjJIWXJ2Q296YU9BODg2d3ZOcXFqUE1NSExlenlGSUp4cWtNVHpmUFQ3MmMxVXh6YmZyTk5HaXl0TkplR3JwcnVkRGRlTEdudGlPaWl1cmRNa004ZlNmWHgzQlB0NnhCU3ljSkY1LWdlbG10a3hLWTFXZWJsOS1zVlltYXZ6ZU1mNUdfVDlvaEdtOUhsb2FOUl95QQ?oc=5",
+      "source": "Google News: 银发经济老龄化适老化",
+      "published": "2026-10-11 23:00 UTC",
+      "summary": "银发经济︱长者求职者三年增至近万人 团体促更多就业支援善用银发人力 &nbsp;&nbsp; 星島頭條"
+    },
+    {
+      "title": "Video. Denmark tests humanoid robots in supermarkets to help to ease staff workload at night - Euronews.com",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUnFydDhqa1ZHMXlGZUVGOEFTWEo0dkpOVkI3Qk45Nk9EY0xkMjh0dllDOXdGb0VQVlp3b0VIeTZuZEQtV1NscnNfNkp0YzRMUHhwal9HNmtMLWw4VkJrS3U5YmVMSlMteGFHVThjOFVkTlVNWnBfaHZPLWRaWnIzU25DZ2RzTk84YW14NDJtYWNaano4R25Xb2x3M3RQa2hZTnV2SlFhQkFrWWhxR013LXpzS05qbDFEZ1VHcUJFUUdqNm1KZnc?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-10-11 12:37 UTC",
+      "summary": "Video. Denmark tests humanoid robots in supermarkets to help to ease staff workload at night &nbsp;&nbsp; Euronews.com"
+    },
+    {
+      "title": "Humanoid Robots Could Be a $5 Trillion Market. Here Are 3 Stocks Positioned to Win. - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPcUxnQkVtbDA3VGREalN3UGN6LUhOczgxck1CRk9PeEVzenlKaFU5LXZkYkNuYkxMUk5TRDRYcmtHTmFFUlI0TzBWX29RcGs2S19DbTVrMVFoZi1qR2F6MXJQVDZqTGV0eDZFNmtIVWhtVlNnQmJERE51eEstT1FiVGJkbWtIT29zRkRnLVh0blFXXzk3VEMxLUdNSEQ?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-10-12 01:50 UTC",
+      "summary": "Humanoid Robots Could Be a $5 Trillion Market. Here Are 3 Stocks Positioned to Win. &nbsp;&nbsp; Yahoo Finance"
+    },
+    {
+      "title": "XPeng Sets Second-Half 2027 European Rollout for IRON Humanoid Robot - Electric Vehicles",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQ01Ud3U4Skg2cUUxby1yb0hEZjNwTy10OGFrX3JVZFc1bUd5QWdCNEZXcTVzWkhVWUl3UV9PaU5XOExQaG1uaUR0NkU2enFGOGw5b3NaVGtfU1QxWWJ1N2JjM21sUVFRV09oVzZ3eEpmX09NMUdDZjZZT3JLX1JuS2xKaWxkTVpzaXdsRzRpbE9kd0NKVDU2aDY2dEY2OGhYd0N0aE5Ycw?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-10-11 17:24 UTC",
+      "summary": "XPeng Sets Second-Half 2027 European Rollout for IRON Humanoid Robot &nbsp;&nbsp; Electric Vehicles"
+    },
+    {
+      "title": "BYD’s humanoid robot has 31 degrees of freedom and a dexterous hand - Interesting Engineering",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbzY3S2gwTElWV1pTMnM3R282enplM280bXRHUklENWRWcnRlQkpvSEhXeXFVWkNfeHkteVNDdm9RUno4ZVc2VlBmRFBGNlJyTVdpVllQN19BTzBtNUx2d1ZQMFN0T0FYRldGSEN0YXJVeE1xQkoxZW1weXhlRURQamRuRnVueEdBdnNPVDUwWE1sbUEtcTVTLUdYMnN0OGhJSTVpLTJZN3NlZzg0RnJpQTBrYXdHa0pTODhDcFZiZV9peEtTSnZjb2VZMA?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-10-11 18:11 UTC",
+      "summary": "BYD’s humanoid robot has 31 degrees of freedom and a dexterous hand &nbsp;&nbsp; Interesting Engineering"
+    },
+    {
+      "title": "Unitree G1 humanoid robot attends parade of Ljubljana Wind Orchestra in Slovenia-Xinhua - 新华网",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPQ05OZFNkRmRkdjJxcFhmMS1TbUc4NTdLcVpNaVFFZG5BX0QxX05pdkVrTUhzOXJLQzRkaFdJb3d4UGYyOVJFak9rT3lPV0RqRUV0azgyZEo0Snl0U1F0UkVtTTd2amF6MlJWbDdORGt3WFBTbkFBZ3psUGxubjV3T0Z4ODRwZndHcDFVbHlmWGJQZw?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-10-12 03:35 UTC",
+      "summary": "Unitree G1 humanoid robot attends parade of Ljubljana Wind Orchestra in Slovenia-Xinhua &nbsp;&nbsp; 新华网"
+    },
+    {
+      "title": "DRAM Demand for Humanoid Robots Set to Surge 20-Fold by 2030 - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNlAzSGVQbDFjZnFtYmlJNXdhX0tQREhPeUV6amx6OUt6VXAzcm4zcUR6Ny1BOS1HVGhkOEYtZ3BPbWpqUGQ1Um1TMDYtekRoY3BFV1lFaFY1MlJRM0NLcnFrbmpSWVZBbjhNZTZoNzhQeUlEeHpIdFk5SlhyMjJUaDZxNkl1eWdR?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-10-11 23:25 UTC",
+      "summary": "DRAM Demand for Humanoid Robots Set to Surge 20-Fold by 2030 &nbsp;&nbsp; 조선일보"
+    },
+    {
+      "title": "Humanoid Robot Companies: Raising Operational Funds, Acting as VCs, and Aggressively Investing in Upstream Sectors - 36Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QcU45OG5oNk1ER2xvZkw1TEtqdjFVRmlBN2Rhd09ibjd0S1JKcHRGVUpxS2FtU2k2cWJGVUloOGdTa0JQci04S1NyVG92Z1ZMS3M4?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-10-12 04:04 UTC",
+      "summary": "Humanoid Robot Companies: Raising Operational Funds, Acting as VCs, and Aggressively Investing in Upstream Sectors &nbsp;&nbsp; 36Kr"
+    },
+    {
+      "title": "Morgan Stanley: Humanoid Robot Market Could Reach $5 Trillion - Intellectia AI",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNC1EODdTOENrTkNRbHR1YkZzeFFyb3hMNXlvQzV4ZGpDWGRPR1cwREw1eldXOVlvSWphVm9iOUtEMkdpZzg3VTctUjg4ME8xcmN3blhwajR4ci1wYlFrb25SRTl6TDBnbUVGeGU3d3ctWGVxV21XU2dUTDdRMkF1OHRZWnhhRWp6TmJ5c09aeW1EUUdmZGh5Tw?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-10-12 02:05 UTC",
+      "summary": "Morgan Stanley: Humanoid Robot Market Could Reach $5 Trillion &nbsp;&nbsp; Intellectia AI"
+    },
+    {
+      "title": "Some household robots rely on humans operating them remotely to perform tasks such as folding laundry. This raises questions about their autonomy and the privacy risks of teleoperation. #dwshift - Facebook",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMHRGTUVzTVJ5cWxCWEQ1TS1HZjNVZ3JFcXJzMXZaZmZURzNBTS04XzJzTjhOd0lXU2hKanMwTXVMckdzRTdMYjBzOVVFQXVXcEpIdzFvczR5dDZJRWhjS3MzRlBfUlZaMGtVQXZkT21pTWxKY2FSWlJ5dzFOX1J2WEJNbnZzMTVhMFRIYWxnMFdoSGhaR3JvYzF5YlBBeE1nVURoSHhjeXRfVjlOQUI5YmpxdVVTa09Pb25XQWVTUGtxbU1kcnQ0ZF82U3NRVU5nQnhZYmFpNmktUQ?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-10-11 09:00 UTC",
+      "summary": "Some household robots rely on humans operating them remotely to perform tasks such as folding laundry. This raises questions about their autonomy and the privacy risks of teleoperation. #dwshift &nbsp;&nbsp; Facebook"
+    },
+    {
+      "title": "JAKA Robotics Debuts Kargo50 Heavy-Duty Wheeled Humanoid and Zu50 Cobot at Shanghai Industry Fair - Pandaily",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTGUtTUxmTnhkZjJ3eFVNQU9MTnRuakFpQ2xEcWltbGRZd245MmFBVWUyQmhvb3hESUkyay1OQ2ZNNjN3b192VHMxaTVlbGxwY3Vid2QzS01JcDZibnRrYTRXamJiS3FpOXVnOFlyRXRJZE9DWk9CTDg1SnlWUzlpU0hQRWV0cHNaa09sSFJnVzVqMWNsSFE?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-10-12 02:08 UTC",
+      "summary": "JAKA Robotics Debuts Kargo50 Heavy-Duty Wheeled Humanoid and Zu50 Cobot at Shanghai Industry Fair &nbsp;&nbsp; Pandaily"
+    },
+    {
+      "title": "BeingBeyond's Being-M0.7 Uses 10,000 Hours of Human Video to Teach Humanoids to Walk and Grasp - Pandaily",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcXlNS0hWWk5IcUlNMGNPTWxYWUVzV0hFUTFIX2pNUVVoczNWaWRmQlVKUW9sR2NTX2ZKZ1RQUW5ZdjNfN3R2VTlGV0NPT2RJR1pqeDFtVjRfaXU5MVpIMUpSOU5TUXY3LXVXNy16T3lyb3ExT1czYnZtVzJUYlV0cmh5UDlJa3diNUlsODZMX1FkT1lWSHdpWnAzTjdKd0lrcEdRMnVsU3hrVndC?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-10-12 02:08 UTC",
+      "summary": "BeingBeyond's Being-M0.7 Uses 10,000 Hours of Human Video to Teach Humanoids to Walk and Grasp &nbsp;&nbsp; Pandaily"
+    },
+    {
+      "title": "DRAM Demand for Humanoid Robots Surges 20-Fold by 2030 - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZGRMVlRzc2FDdmR4eXphZVlqV1NjUTU1WDFhOVFzTmFfcUluTmR6aFN5cng4RDdDV2FYdW80RkNZUjFRMW1oNFg5U1Z2ZGhsaHBwckMwSUowN3FZOTZ2QzFZRS1PNWdOdXl6V05vT0Zma2ItQ25VYV8tdEdkVXdpbDFDZHdfWHlG?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-10-11 04:30 UTC",
+      "summary": "DRAM Demand for Humanoid Robots Surges 20-Fold by 2030 &nbsp;&nbsp; 조선일보"
+    },
+    {
+      "title": "Take me to your checkout: Humanoid robots coming to Danish grocery stores - Yahoo News Canada",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUjdRbmxtZURlODQ0Ml9PcEs1anhJbERzQS1lOTVhSjItcGtUb1lRU1NIc2VaSDI0ZkRLZzY2WWtfT1NYc3k4ZnY0S3RjTC10QXByMlFxeFBQbXdZMDZNYkdreUFvdzVkTE45RUxhaTYwYVVNZmFPN3Y1Mm9aOHQ2U1Fja0hydw?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-10-11 10:02 UTC",
+      "summary": "Take me to your checkout: Humanoid robots coming to Danish grocery stores &nbsp;&nbsp; Yahoo News Canada"
+    },
+    {
+      "title": "humanoid memory market — Samsung and SK Hynix surge as robots drive demand - The Korea Daily",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE01WVNXNUtBRC1MNks2X19qTExJR3FYSlcxZEl3QmNwU2RZTjJwX0U3Um5rNnlJWi10d2tEOHU3eGY0dldxNk9qR3dBV0N6cUxMOEZPTWRfNGxBSzJ1TWs0ZDdtSVpyOEpIYVBqME1ZUWwydjlr?oc=5",
+      "source": "Google News: humanoid robot",
+      "published": "2026-10-11 20:32 UTC",
+      "summary": "humanoid memory market — Samsung and SK Hynix surge as robots drive demand &nbsp;&nbsp; The Korea Daily"
+    },
+    {
+      "title": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI - EE Times",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU2VWMGZsV285TVFaWDNTMjUtZ2dpSlJtQ1hRS2EwWVk0UW82cHBnVGhEQW5QeVBBNF94aWhrWk9OSHNvN1JrZzJmN1ZjQkNTUG4xdi1ObklfSlFHZTRXenFKMG5adloxTmQzUzhSTUFEWUtmckVjNGNaLW1PNHBTSi1vOGdDdjlxaGhYSWYybjhFbTh6bnc2ZQ?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-10-11 15:18 UTC",
+      "summary": "Manfred Horstmann: GlobalFoundries Bets on FDX Fusion for Physical AI &nbsp;&nbsp; EE Times"
+    },
+    {
+      "title": "Kawasaki Heavy Industries bets JPY550 billion on physical AI, robotics - digitimes",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMTFsaS1QUENfN1ZsSHpwb0RhYkhlVUk5VEZFVTZOR2Q0MFhhX2haSy1kc2JiTVdpNUdzTDloa0gyVFNOV3pnV1dOSmp4cExDQ1ctaXItWGEzOTF6a1FQQ2lZc0U1S0NidjNhOVcyQU9laHVQa3ZfQ2V1RFFYUHFsT3dQRWNya08wWEJDa1BaX2dmeGlTMzBaLVVESXZ4TmZMUjNERjlMS3o?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-10-12 02:09 UTC",
+      "summary": "Kawasaki Heavy Industries bets JPY550 billion on physical AI, robotics &nbsp;&nbsp; digitimes"
+    },
+    {
+      "title": "Tally's retail takeover: 3,000 robots proving physical AI pays - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTWg5TjJCR2hxLTNHTFZnakp1NGV1d3dZU25TM2pHNDR1V1pVNGFLajlfcjY0dEphbmh5WkM2ZUc0c2xBeFhpTjBXUHg2RmEtM2JFTFpKa1dVOGFDQks5ZTJoSFE4dHZ0ZkphUy00YXM1cmEyZkczcWlyZjdYS0gzOWRPc3pRUDlEa2R6M0dXa1plb2NDcFBqaDlXNA?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-10-11 10:21 UTC",
+      "summary": "Tally's retail takeover: 3,000 robots proving physical AI pays &nbsp;&nbsp; Dealroom"
+    },
+    {
+      "title": "Korea’s SK Square backs Japanese physical AI startup Mujin to expand into robotics - KED Global",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11MmVCemRFM1JRQ2FCc0xZRlBjZHVJNW82MHFhMGJYZUlZblZYdXVxOW9taFpXd2pyVUFJa2REbUpyaHJiVWtDOF9zYnlTZ3N2Qk13UlRSMFVENWlibzZHNmU2TWo5bkNWcG9RSnB3QjVuZkdsazRjSWFRWHpEWlk?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-10-11 09:22 UTC",
+      "summary": "Korea’s SK Square backs Japanese physical AI startup Mujin to expand into robotics &nbsp;&nbsp; KED Global"
+    },
+    {
+      "title": "[Exclusive] SK Square Invests in Japan Physical AI Firm Mujin - bloomingbit",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1EZlZGZU53NEMtQ25rVjBxTHRmbDZmem43c2xQemtGTmlVNW9fMWx6d1dJbTlNd3E4TXJKOXZWcjJWQldRR0ZRVl9PUk56cEJ1X0czZQ?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-10-12 01:13 UTC",
+      "summary": "[Exclusive] SK Square Invests in Japan Physical AI Firm Mujin &nbsp;&nbsp; bloomingbit"
+    },
+    {
+      "title": "Korea's Largest Chip Show Opens With AI Memory, Physical AI - Seoul Economic Daily",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPd3h0bjczVzFsc3hGRGhrNkxUVWdZdzRjUml3NXZ4bTd3MS1pN2dRSjdCMWQ0ajg2T29hWjdfZTFKbnNJRHdkSU13d3Y5Y1M4bmhNUGN3S0VJVHZTZUNWTTVpR0s1dG5zY3VPOTU3YjJDc2Z3elpDZ1BSVGFxZFBCcU1sbGF2Z2t1TUZhSk5ySW1PbE45cFFqU3RHRFNQRi1Z?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-10-12 02:31 UTC",
+      "summary": "Korea's Largest Chip Show Opens With AI Memory, Physical AI &nbsp;&nbsp; Seoul Economic Daily"
+    },
+    {
+      "title": "KAIST Unveils 'Physical AI' Platform Strategy Beyond Humanoids - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE92b0dydkkyTHd3c1ZnUHBmVG5KSmZ3a092WENLaVU1Zl9PeFJUQkZoc2xsYlhlNU9tOWN2RDNhNmd0d2lONEdwZGZzTmRkV0pBWEZueEsyQ2Z4eUxwZk1Kb3hFTmZDMktVd0lDb0kwOF90MjFiMVE?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-10-11 04:05 UTC",
+      "summary": "KAIST Unveils 'Physical AI' Platform Strategy Beyond Humanoids &nbsp;&nbsp; BigGo Finance"
+    },
+    {
+      "title": "AWS unveils open-source 'Physical AI Toolchain' stack - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPT3JuaFdzN2RzaktJaVdaV3lkU1FKQzh5UUxBY0xIM0N1ZnZQV1hMRFVEQ3V3bGdLUDN0MXEzN3ZnNFM2T3hUOE9HQWdWdkN4RlM3SXotaFFZbF94Y0ZhMG0xNHZucjRCNHdDelhjdVFHTFQ4SHFZZF9RX1FHMTRQSjNVSk1kTUJ1OXNKajd0bjhfQ0pFaldGZzlvcGlzQQ?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-10-12 00:54 UTC",
+      "summary": "AWS unveils open-source 'Physical AI Toolchain' stack &nbsp;&nbsp; 디지털투데이"
+    },
+    {
+      "title": "SK Square Invests in Japanese Physical AI Unicorn 'Mujin' to Secure New Growth Engine - 아시아경제",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUVWp2bjh2R3BHUkszLWtacE5nMHVvLWtTUEwxSmFnam1ta0NhVVBXdVd2b3FrMkVkZWN0cVZucUVDWXJaV0FWemliTjlqOWVPd3BpMDRjNXlCUVUzZENrM1RSeGd6bzVF?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-10-12 01:19 UTC",
+      "summary": "SK Square Invests in Japanese Physical AI Unicorn 'Mujin' to Secure New Growth Engine &nbsp;&nbsp; 아시아경제"
+    },
+    {
+      "title": "MSIT to open Physical AI Tech Week on Oct. 13 - 디지털투데이",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSEpyMEM4SzItcmpuVG12MnJleEJEdUZFM3laOEcwc1gxOXQ2MEx3Vlg2aDdDYURDa25JUHlKbDVkYTJfQ3dleG84dFJ4UjdzMHl1SW1IWFFXOEtYVGU1QXpvaTlJMTd2TUZKUC1CWkF6Zm1FVXdmTUVOU2NjYVZfWGZKdFlmY2lIX0s0SUtfS0lEQWxl?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-10-12 03:00 UTC",
+      "summary": "MSIT to open Physical AI Tech Week on Oct. 13 &nbsp;&nbsp; 디지털투데이"
+    },
+    {
+      "title": "Abeer Sharma Appointed as Senior Director, Product Marketing – Physical AI at NTT DATA - Veloxx media",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS3NlMllTN3Y1dW16UjIwRE1nZzN0dldMTVUzSE9IMm1mLWlOLU9Qa3FyUTJuSmJyNmM3ekl3VWVzbWg1anktZ2xfMUx5TS00TW5KTUZObEdTWHJ4NlRGWE9QeUhwT3ViY2FaYlVXOE5yU3hfSGVwWmpXMHl0QUk0c2otbXBtZDc4bGNxb1JDc2xCa08yZGVkaDBMZzlnNDVpRjJYUkFaUFBFZW52?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-10-11 17:16 UTC",
+      "summary": "Abeer Sharma Appointed as Senior Director, Product Marketing – Physical AI at NTT DATA &nbsp;&nbsp; Veloxx media"
+    },
+    {
+      "title": "[Korean Startup Weekly News #139] Physical AI Reaches Orbit as Global AI Infrastructure Hits $2B - Wowtale",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBTOXhvUnNjd0Y4ZFAwUi0xeHNIVXlkSW5BNUpuejZacE15dkh3OUtZdi00UWV5N2RzaVdyVENMUm1zYks4V1dZS3RyNFVodzFZVjk0?oc=5",
+      "source": "Google News: physical AI embodied",
+      "published": "2026-10-11 05:46 UTC",
+      "summary": "[Korean Startup Weekly News #139] Physical AI Reaches Orbit as Global AI Infrastructure Hits $2B &nbsp;&nbsp; Wowtale"
+    }
+  ]
+}
